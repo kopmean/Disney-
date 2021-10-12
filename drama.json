@@ -8,7 +8,7 @@
                 "Drama"
             ],
             "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3128/1063128-h-9f31c5495230",
-            "Tailer": "https://youtu.be/q1pcpgREQ5c"
+            "Trailer": "https://youtu.be/q1pcpgREQ5c"
         },
         {
             "id": "DR1",
@@ -18,7 +18,7 @@
                 "Drama"
             ],
             "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/819/1050819-h-83387c800561",
-            "Tailer": "https://youtu.be/sfAc2U20uyg"
+            "Trailer": "https://youtu.be/sfAc2U20uyg"
         },
         {
             "id": "DR2",
@@ -28,7 +28,7 @@
                 "Drama"
             ],
             "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9837/1059837-h-f26e854988cf",
-            "Tailer": "https://youtu.be/zfexbFwCBnE"
+            "Trailer": "https://youtu.be/zfexbFwCBnE"
         },
         {
             "id": "DR3",
@@ -38,7 +38,7 @@
                 "Drama"
             ],
             "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9835/1059835-h-d471edef2e94",
-            "Tailer": "https://youtu.be/PJpsRF-TJAE"
+            "Trailer": "https://youtu.be/PJpsRF-TJAE"
         },{
             "id": "DR4",
             "Name": "The Mandalorian",
@@ -47,7 +47,7 @@
                 "Drama"
             ],
             "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7161/1057161-h-7f5998d89799",
-            "Tailer": "https://youtu.be/aOC8E8z_ifw"
+            "Trailer": "https://youtu.be/aOC8E8z_ifw"
         },{
             "id": "DR5",
             "Name": "Mrs. America",
@@ -56,7 +56,7 @@
                 "Drama"
             ],
             "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7853/987853-h",
-            "Tailer": "https://youtu.be/IFDrs1iuGmQ"
+            "Trailer": "https://youtu.be/IFDrs1iuGmQ"
         },{
             "id": "DR6",
             "Name": "The Americans",
@@ -65,7 +65,7 @@
                 "Drama"
             ],
             "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/1967/1041967-h-655c50740c2d",
-            "Tailer": "https://youtu.be/zIn_MH8_2ig"
+            "Trailer": "https://youtu.be/zIn_MH8_2ig"
         },{
             "id": "DR7",
             "Name": "Devs",
@@ -74,7 +74,7 @@
                 "Drama"
             ],
             "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9701/649701-h",
-            "Tailer": "https://youtu.be/Fp9LMsI6uJ8"
+            "Trailer": "https://youtu.be/Fp9LMsI6uJ8"
         },{
             "id": "DR8",
             "Name": "The Gifted",
@@ -83,7 +83,7 @@
                 "Drama"
             ],
             "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4858/474858-h",
-            "Tailer": "https://youtu.be/3pDdXYf3nfc"
+            "Trailer": "https://youtu.be/3pDdXYf3nfc"
         },{
             "id": "DR9",
             "Name": "Godfather Of Harlem",
@@ -92,7 +92,9 @@
                 "Drama"
             ],
             "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5702/565702-h",
-            "Tailer": "https://youtu.be/FXSt-InPzeY"
+            "Trailer": "https://youtu.be/FXSt-InPzeY"
         }
     ]
 }
+
+    
