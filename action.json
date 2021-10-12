@@ -1,0 +1,145 @@
+{
+    "Movie":
+    [
+        {
+            "id": "AC0",
+            "Name": "Disney Kick Buttowski: Suburban Daredevil",
+            "Description": 
+            [
+                "ด้วยตัวที่เล็กนิดเดียวแต่จิตใจที่ยิ่งใหญ่กล้าหาญ คิกจึงมุ่งมั่นจะเป็นสตั๊นแมนที่ยิ่งใหญ่ที่สุดในโลก..."
+            ],
+            "Type": 
+            [
+                "Action", "Kids", "Disney"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4595/604595-h",
+            "Trailer": "https://www.youtube.com/watch?v=V90vBucJois"
+        },
+        {
+            "id": "AC1",
+            "Name": "Loki",
+            "Description": 
+            [
+                "หลังเหตุการณ์ใน อวเนเจอร์ส: เผด็จศึก โลกิ เทพเจ้าจอมเจ้าเล่ห์ตัวร้ายกลับมาอีกครั้งเพื่อช่วยกู้เวลาและหาตัวคนที่ร้ายกว่ามาลงโทษ..."
+            ],
+            "Type": 
+            [
+                "Action", "Marvel"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/6847/956847-h",
+            "Trailer": "https://www.youtube.com/watch?v=nW948Va-l10"
+        },
+        {
+            "id": "AC2",
+            "Name": "The Mandalorian",
+            "Description": 
+            [
+                "หลังจากจักรวรรดิกาแลคติกล่มสลาย ทั่วกาแล็กซีเพิกเฉยต่อกฏหมาย นักล่าค่าหัวช่วแมนดาลอเรี่ยนจอมสันโดษเดินทางผ่านวงโคจรรอบนอกเพื่อหาเงินแต่กลับได้พบสิ่งที่มีความหมายยิ่งกว่า..."
+            ],
+            "Type": 
+            [
+                "Action", "Drama"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6685/816685-h",
+            "Trailer": "https://www.youtube.com/watch?v=eW7Twd85m2g"
+        },
+        {
+            "id": "AC3",
+            "Name": "The Falcon And The Winter Soldier",
+            "Description": 
+            [
+                "แซมวิลสัน หรือ ฟัลคอน และ บัคกี้ บาร์นส์ หรือ วินเทอร์โซลเจอร์ ร่วมทีมกันผจญภัยไปรอบโลกเพื่อปราบวายร้ายรูปแบบใหม่ที่จะมาทดสอบความเก่งกาจและความอดทนของทั้งคู่..."
+            ],
+            "Type": 
+            [
+                "Action"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/5030/1035030-h-054ac1516375",
+            "Trailer": "https://www.youtube.com/watch?v=IWBsDaFWyTE"
+        },
+        {
+            "id": "AC4",
+            "Name": "Marvel's Agents Of S.H.I.E.L.D",
+            "Description": 
+            [
+                "เมื่อผู้คนได้รู้แล้วว่าซูเปอร์ฮีโร่และเอเลี่ยนมีอยู่จริง เจ้าหน้าที่จากหน่วยชีลด์จึงต้องเดินทางรอบโลกเพื่อทำภารกิจหยุดยั้งไฮดร้าและปกป้องโลกจากภัยรุกรานต่างดาว..."
+            ],
+            "Type": 
+            [
+                "Action", "Superhero"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9328/689328-h",
+            "Trailer": "https://www.youtube.com/watch?v=T3T-evQZiQo"
+        },
+        {
+            "id": "AC5",
+            "Name": "Marvel's The Avengers",
+            "Description": 
+            [
+                "เมื่อศัตรูที่ไม่คาดคิดปรากฏตัวและคุกคามชะตากรรมมนุษยชาติ นิค ฟิวรี่ ผอ.หน่วยชิลด์จึงต้องการทีมที่จะช่วยโลกจากหายนะครั้งนี้เขาจึงรวบรวมเหล่าฮีโร่ขึ้นมาเพื่อปกป้องโลก..."
+            ],
+            "Type": 
+            [
+                "Action", "Superhero"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3284/653284-h",
+            "Trailer": "https://www.youtube.com/watch?v=eOrNdBpGMv8"
+        },
+        {
+            "id": "AC6",
+            "Name": "Avengers: Age Of Ultron",
+            "Description": 
+            [
+                "โทนี่ สตาร์คสร้างอัลตรอน ระบบปัญญาประดิษฐ์ขึ้นมาด้วยความช่วยเหลือของบรูซ แบนเนอร์ และเมื่อเกิดความผิดพลาด เหล่าฮีโร่ที่ทรงพลังที่สุดของโลกก็ต้องหยุดอัลตรอนจอมวายร้ายจากแผนการครองโลก..."
+            ],
+            "Type": 
+            [
+                "Action", "Superhero"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3788/663788-h",
+            "Trailer": "https://www.youtube.com/watch?v=tmeOjFno6Do"
+        },
+        {
+            "id": "AC7",
+            "Name": "Avengers: Infinity War",
+            "Description": 
+            [
+                "เมื่อธานอสผู้ทรงพลังเข้าใกล้พลังแห่งการทำลายล้างเหนือจักรวาล เหล่าอเวนเจอร์สและพันธมิตรซูเปอร์ฮีโร่ต้องยอมเสี่ยงทุกอย่าง ในการศึกครั้งสุดท้ายที่ยิ่งใหญ่ที่สุด..."
+            ],
+            "Type": 
+            [
+                "Action", "Superhero"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3749/643749-h",
+            "Trailer": "https://www.youtube.com/watch?v=6ZfuNTqbHE8"
+        },
+        {
+            "id": "AC8",
+            "Name": "Avengers: Endgame",
+            "Description": 
+            [
+                "จักรวาลถูกทำลายไปครึ่งหนึ่ง หลังธานอสดีดนิ้ว ด้วยความช่วยเหลือของกลุ่มพันธมิตร เหล่าอเวนเจอร์สกลับมารวมตัวกันอีกครั้ง เพื่อแก้ไขหายนะที่ธานอสก่อไว้และคืนสมดุลสู่จักรวาล..."
+            ],
+            "Type": 
+            [
+                "Action", "Superhero"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7460/627460-h",
+            "Trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c"
+        },
+        {
+            "id": "CO9",
+            "Name": "Garfield: The Movie",
+            "Description": 
+            [
+                "สร้างจากการ์ตูนของมาร์เวลสุดแหวกแนว นี่คือ เดดพูล ฮีโร่ที่ไม่ได้ดีเต็มร้อย เรื่องราวของเวด วิลสัน ทหารรับจ้างที่ไล่ล่าคนซึ่งเกือบจะทำลายชีวิตเขา..."
+            ],
+            "Type": 
+            [
+                "Action", "Superhero"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1066/821066-h",
+            "Trailer": "https://www.youtube.com/watch?v=ONHBaC-pfsk"
+        }
+    ]
+}
