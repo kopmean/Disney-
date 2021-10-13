@@ -1,0 +1,123 @@
+{
+    "Movie":
+    [
+        {
+            "id":"KD00",
+            "Name": "Frozen II",
+            "Description": "ทำไมเอลซ่าถึงเกิดมาพร้อมพลังวิเศษ คำตอบของคำถามนี้กำลังส่งเสียงเรียกหา เอลซ่ากับอันนาและผองเพื่อนจึงต้องออกเดินทางสู่ดินแดนที่ไม่รู้เพื่อไขปริศนาและช่วยอาณาจักรอีกครั้ง",
+            "Type": 
+            [
+                "Kids","Musical"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1078/651078-h",
+            "Trailer": "https://www.youtube.com/watch?v=Zi4LMpSDccc"
+        },
+        {
+            "id":"KD01",
+            "Name": "Cars 3",
+            "Description": "หลังถูกรถแข่งรุ่นใหม่ไฟแรงเล่นงาน ตำนานอย่างไลท์นิ่งแม็คควีนก็ถูกเขี่ยจากการแข่งที่รักแบบไม่ทันตั้งตัว เพื่อกลับเข้าสู่สังเวียนอีกครั้ง เขาต้องการความช่วยเหลือ แรงบันดาลใจและการพลิกผันที่ไม่คาดคิด",
+            "Type": 
+            [
+                "Kids"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3781/663781-h",
+            "Trailer": "https://www.youtube.com/watch?v=2LeOH9AGJQM"
+        },
+        {
+            "id":"KD02",
+            "Name": "Spies in Disguise",
+            "Description": "สายลับ แลนซ์ สเตอร์ลิง และนักวิทยาศาสตร์ วอลเตอร์ เบกเก็ต ร่วมมือกันกอบกู้โลกเมื่อแลนซ์กลายร่างเป็นนกพิราบสุดระห่ำอย่างไม่ได้ตั้งใจ",
+            "Type": 
+            [
+                "Kids","Family"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7206/687206-h",
+            "Trailer": "https://www.youtube.com/watch?v=LSSGHvzMY60"
+        },
+        {
+            "id":"KD03",
+            "Name": "Incredibles 2",
+            "Description": "ครอบครัวซูเปอร์ฮีโร่อันเป็นที่รักกลับมาผจญภัยอีกครั้ง มิสเตอร์อินเครดิเบิ้ลถูกทิ้งให้เลี้ยงลูกน้อย ส่วนภรรยาออกไปปกป้องโลก แต่ครอบครัวกลับต้องลำบากเมื่อวายร้ายที่ทรงพลังตัวใหม่มาถึง",
+            "Type": 
+            [
+                "Kids"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3765/663765-h",
+            "Trailer": "https://www.youtube.com/watch?v=i5qOzqD9Rms"
+        },
+        {
+            "id":"KD04",
+            "Name": "Luca",
+            "Description": "เรื่องราวการก้าวผ่านช่วงวัยของสองหนุ่ม ลูก้าและอัลแบร์โต้ ในฤดูร้อน ที่จะตราตึงในความทรงจำ ท่ามกลางบรรยากาศของเมืองริมทะเลในอิตาลี",
+            "Type": 
+            [
+                "Kids","Family"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1376/981376-h",
+            "Trailer": "https://www.youtube.com/watch?v=0hgHY9k-44U"
+        },
+        {
+            "id":"KD05",
+            "Name": "Zootopia",
+            "Description": "ในเมืองที่สัตว์กินพืชและกินเนื้ออยู่ร่วมกันได้เนื่องจากมีกฎระเบียบ จูดี้ ฮอปส์คือกระต่ายตัวแรกที่ได้เป็นตำรวจ ถึงทุกคนจะดูถูกความสามารถของเธอ แต่เธอก็มุ่งมั่นที่จะไขคดีที่ยากและอันตรายให้ได้",
+            "Type": 
+            [
+                "Kids"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/19/650019-h",
+            "Trailer": "https://www.youtube.com/watch?v=g9lmhBYB11U"
+        },
+        {
+            "id":"KD06",
+            "Name": "Wreck-it Ralph: Ralph Breaks the Internet",
+            "Description": "ราลฟ์ วายร้ายในวิดีโอเกมกับวาเนโลปี้ วอน ชวีทซ์เดินทางเข้าสู่โลกอินเทอร์เน็ตที่กว้างใหญ่เพื่อตามหาชิ้นส่วนทดแทนมากอบกู้ชูการ์รัช อาณาจักรเกมของวาเนโลปี้",
+            "Type": 
+            [
+                "Kids"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/5348/655348-h",
+            "Trailer": "https://www.youtube.com/watch?v=_BcYBFC6zfY"
+        },
+        {
+            "id":"KD07",
+            "Name": "Bolt",
+            "Description": "เมื่อดาวเด่นของรายการทีวีสุดฮิตบังเอิญถูกส่งตัวจากสตูดิโอในฮอลลีวู้ด ไปยังนิวยอร์กซิตี เขาต้องเริ่มต้นการผจญภัยครั้งใหญ่ที่สุด เพื่อเดินทางข้ามประเทศในโลกแห่งความจริง",
+            "Type": 
+            [
+                "Kids"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/5763/625763-h",
+            "Trailer": "https://www.youtube.com/watch?v=Pj0a7GkMH3w"
+        },
+        {
+            "id":"KD08",
+            "Name": "Toy Story 4",
+            "Description": "เมื่อของเล่นชิ้นใหม่ที่มีชื่อว่าฟอร์คกี้มาร่วมทีมกับวู้ดดี้และผองเพื่อน การออกเดินทางของเพื่อนเก่าและเพื่อนใหม่ทำให้เห็นว่าโลกใบนี้มีขนาดใหญ่เพียงใดสำหรับของเล่น",
+            "Type": 
+            [
+                "Kids"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3289/653289-h",
+            "Trailer": "https://www.youtube.com/watch?v=wmiIUN-7qhE"
+        },
+        {
+            "id":"KD09",
+            "Name": "Inside Out",
+            "Description": "เมื่อครอบครัวของไรลีย์ย้ายไปอยู่ที่เมืองใหม่อันแสนน่ากลัว อารมณ์ทั้งห้าที่อยู่ในจิตใจของไรลีย์ต้องเจองานยากเมื่อต้องรับมือกับความแปรปรวนของตัวเองที่ส่งผลต่อไรลีย์",
+            "Type": 
+            [
+                "Kids"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/6890/626890-h",
+            "Trailer": "https://www.youtube.com/watch?v=yRUAzGQ3nSY"
+        }
+        
+
+
+    ]
+
+
+
+
+
+}
