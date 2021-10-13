@@ -4,7 +4,7 @@
         "id":"WI0",
         "Name":"Dr. Oakley, Yukon Vet",
         "Description":"หมอโอ๊คลีย์ คือสัตวแพทย์ผู้เดินทางข้ามระยะทางหลายพันตารางไมล์แห่งดินแดนยูคอน เพื่อรักษาเหล่าสัตว์เลี้ยงและสัตว์ป่า",
-        "Type":["Wildlife"],
+        "Type":["Wildlife", "Nat Geo"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/4876/654876-h",
         "Trailer":"https://www.youtube.com/watch?v=sqZreeEqJzI"
         },
@@ -12,7 +12,7 @@
         "id":"WI1",
         "Name":"Animals Gone Wild",
         "Description":"พบเรื่องราวอันน่าทึ่งของสัตว์ในธรรมชาติ เมื่อสัญชาตญาณดิบของพวกมันเข้าครอบงำ",
-        "Type":["Wildlife"],
+        "Type":["Wildlife", "Nat Geo"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3475/533475-h",
         "Trailer":"https://www.youtube.com/watch?v=_VUjoWCDscg"
         },
@@ -20,7 +20,7 @@
         "id":"WI2",
         "Name":"Wild Sri Lanka",
         "Description":"ศรีลังกาเป็นหนึ่งในสถานที่ที่มีความหลากหลายทางชีวภาพมากที่สุดในโลก ทะเลของเกาะมรกตโอบล้อมภูเขาที่สวยงามและภูมิประเทศสุดพิเศษไว้ตรงใจกลาง มาเยือนประเทศนี้ผ่านสารคดีไปกับเรา",
-        "Type":["Wildlife"],
+        "Type":["Wildlife", "Nat Geo"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/5878/1025878-h-44544db7574e",
         "Trailer":"https://www.youtube.com/watch?v=wQ11g52Hnjk"
         },
@@ -28,7 +28,7 @@
         "id":"WI3",
         "Name":"Animal Fight Club",
         "Description":"รายการนี้รวบรวมภาพการต่อสู้ที่รุนแรง บ่อยครั้งเกือบถึงตาย ระหว่างสัตว์ประเภทเดียวกันเพื่อวิเคราะห์ทางวิทยาศาสตร์ว่ามันเกิดขึ้นเพราะอะไร",
-        "Type":["Wildlife"],
+        "Type":["Wildlife", "Nat Geo"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3664/533664-h",
         "Trailer":"https://www.youtube.com/watch?v=S2Q7PNvZr2Q"
         },
@@ -36,15 +36,15 @@
         "id":"WI4",
         "Name":"Dead by Dawn",
         "Description":"สารคดีสยองขวัญเรื่องแรกจากผู้สร้าง \"The Walking Dead - ฝ่าสยองทัพผีดิบ\" ที่จะพาคุณไปชมความน่ากลัวในป่าหลังพระอาทิตย์ตก",
-        "Type":["Wildlife"],
+        "Type":["Wildlife", "Nat Geo"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3617/533617-h",
         "Trailer":"https://www.youtube.com/watch?v=8yH4EzvX2yY"
         },
         {
         "id":"WI5",
-        "Name":"Fish My City",
+        "Name":"Fish My City with Mike Iaconelli",
         "Description":"นักตกปลาแบสมืออาชีพ ไมค์ ลาคอนเนลลีค้นหาปลาขึ้นชื่อของโลกที่อาศัยอยู่รอบๆ ป่าคอนกรีตที่วุ่นวายที่สุดในโลก",
-        "Type":["Wildlife"],
+        "Type":["Wildlife", "Nat Geo"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/5473/1025473-h-17780572ae07",
         "Trailer":"https://www.youtube.com/watch?v=MclgGvVbIcQ"
         },
@@ -52,7 +52,7 @@
         "id":"WI6",
         "Name":"Rare: The Photo Ark",
         "Description":"โจเอล ซาร์โทรีช่างภาพของเนชั่นแนล จีโอกราฟฟิกเดินทางไปทั่วโลกโดยใช้พลังแห่งการถ่ายภาพในการสร้างแรงบันดาลใจให้ผู้คนช่วยกันปกป้องสัตว์ที่เสี่ยงต่อการสูญพันธุ์",
-        "Type":["Wildlife"],
+        "Type":["Wildlife", "Nat Geo"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/6413/1026413-h-d0e3a0d20767",
         "Trailer":"https://www.youtube.com/watch?v=hqavP9Sj1y4"
         },
@@ -60,7 +60,7 @@
         "id":"WI7",
         "Name":"Savage Kingdom",
         "Description":"สัตว์นักล่าผู้เหี้ยมโหดและเหยื่อผู้ทรงพลังเข้ามาพัวพันในการแย่งชิงรุนแรง การทรยศ การต่อสู้และชัยชนะในสงครามเพื่อความอยู่รอดอันไร้ที่สิ้นสุด",
-        "Type":["Wildlife"],
+        "Type":["Wildlife", "Nat Geo"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/4357/534357-h",
         "Trailer":"https://www.youtube.com/watch?v=sD3FOFZKKiY"
         },
@@ -68,7 +68,7 @@
         "id":"WI8",
         "Name":"Wild Cats of India",
         "Description": "สารคดีเรื่องนี้จะพาคุณเดินทางไปยังภูมิประเทศที่ตัดกันของประเทศอินเดีย เพื่อที่จะให้เห็นภาพชีวิตจริงๆ ที่น่าสนใจของบรรดาแมวป่าซึ่งเป็นความหวังสุดท้ายในการปกป้องพื้นที่ป่าของอินเดีย",
-        "Type":["Wildlife"],
+        "Type":["Wildlife", "Nat Geo"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/8018/1028018-h-9c55de89d1d4",
         "Trailer":"https://www.youtube.com/watch?v=nGlQ-SIiZLk"
         },
@@ -76,10 +76,9 @@
         "id":"WI9",
         "Name":"Wild Hunters",
         "Description":"นี่คือสารคดี 6 ตอนที่พาไปชมสัตว์นักล่าที่อันตรายที่สุดในธรรมชาติทั่วโลกซึ่งเป็นสัตว์ที่ใช้เทคนิคและกลยุทธ์ที่น่าสนใจเพื่อความอยู่รอดของพวกมัน",
-        "Type":["Wildlife"],
+        "Type":["Wildlife", "Nat Geo"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/5761/1025761-h-8d2231bcd246",
         "Trailer":"https://www.youtube.com/watch?v=VmMAf3zxF60"
         }
-
     ]
 }
