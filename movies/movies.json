@@ -188,5 +188,54 @@
         "Type": ["Superhero", "Action"],
         "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/7160/637160-h",
         "Trailer": "https://www.hotstar.com/th/doctor-strange-trailer/1260020838?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
-    }]
+    },
+    {
+        "id":"",
+        "Name":"Ready or Not",
+        "Description":"เจ้าสาวป้ายแดงอย่างเกรซ ต้องเผชิญหน้ากับครอบครัวประหลาดของสามีที่ต้องการให้เธอร่วมเกมสุดสยอง",
+        "Type":["Horror", "Comedy", "English", "Thai"],
+        "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7550/1027550-h-67688c04edc0",
+        "Trailer":"https://www.youtube.com/watch?v=ZtYTwUxhAoI"
+        },
+        {
+        "id":"",
+        "Name":"28 Days Later",
+        "Description":"หลังโรคระบาดฆ่าประชากรโลก ผู้รอดชีวิตชาวลอนดอนสี่คนต้องรวมตัวเป็นครอบครัวเฉพาะกิจ เพื่อเผชิญหน้ากับผู้ติดเชื้ออย่างกล้าหาญ และตามหาที่ลี้ภัยทางตอนเหนือ แต่กลับพบเพียงกลุ่มทหารใจคด",
+        "Type":["Horror", "English", "Thai"],
+        "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/8883/1018883-h-85b2630983fd",
+        "Trailer":"https://www.youtube.com/watch?v=c7ynwAgQlDQ"
+        },
+        {
+        "id":"",
+        "Name":"28 Weeks Later",
+        "Description":"ภาพยนตร์ภาคต่อระทึกขวัญเรื่องนี้เล่าถึงเหตุการณ์หกเดือนหลังจากกองทัพออกแถลงการณ์ว่า ประเทศอังกฤษปลอดภัยจากไวรัส \"เรจ\" แต่ฝันร้ายสุดสยองครั้งใหม่กำลังจะเริ่มต้นขึ้น",
+        "Type":["Horror","English", "Thai"],
+        "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/8886/1018886-h-c9219cadf5b2",
+        "Trailer":"https://www.youtube.com/watch?v=cbpjH4XCG3c"
+        },
+        {
+        "id":"",
+        "Name":"Arachnophobia",
+        "Description":"ภาพยนตร์ดราม่าสยองขวัญจากอังกฤษ ดร.เจฟฟ์ย้ายมาอยู่เมืองเล็กๆ และต้องเผชิญการตายไม่มีสาเหตุติดต่อกันหลายครั้ง เขาต้องกล่อมให้ชาวบ้านเชื่อว่าฝูงแมงมุมพิษคือฆาตกร",
+        "Type":["Horror","English", "Indonesian", "Thai"],
+        "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/9030/1019030-h-4573c02c33ad",
+        "Trailer":"https://www.youtube.com/watch?v=JNDEOVzImmU"
+        },
+        {
+        "id":"",
+        "Name":"The Hills Have Eyes",
+        "Description":"การตีความใหม่จากผลงานเมื่อปี 1977 ของเวส เครเวน ที่เป็นเรื่องราวเกี่ยวกับครอบครัวที่กำลังท่องเที่ยว แต่จู่ๆกลับต้องมาเผชิญหน้ากับการต่อสู้สุดโหดเพื่อเอาชีวิตรอดจากมนุษย์กลายพันธุ์กระหายเลือด",
+        "Type":["Horror","English", "Indonesian", "Thai"],
+        "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/8977/1018977-h-28371de9ac6b",
+        "Trailer":"https://www.youtube.com/watch?v=CUQd9OB75dw"
+        },
+        {
+        "id":"",
+        "Name":"The Hills Have Eyes 2",
+        "Description":"ในเทือกเขาของนิวเม็กซิโก ทหารของกองกำลังแห่งชาติหน่วยหนึ่งถูกจู่โจมจากมนุษย์กลายพันธุ์กินคนที่รอจะล่ามนุษย์เป็นอาหาร",
+        "Type":["Horror", "English", "Thai"],
+        "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/8975/1018975-h-8f25932f53c5",
+        "Trailer":"https://www.youtube.com/watch?v=ZCvzGoNpggY"
+        }
+]
 }
