@@ -1,0 +1,122 @@
+{
+    "Movie":
+    [
+        {
+            "id":"TH00",
+            "Name": "Homeland",
+            "Description": "เจ้าหน้าที่ซีไอเอคนหนึ่งพยายามประคองชีวิตส่วนตัวที่ไม่ค่อยมั่นคงของเธอให้ไปกันได้กับหน้าที่การงานที่เสี่ยงอันตรายเพื่อปกป้องมาตุภูมิอันเป็นที่รัก",
+            "Type": 
+            [
+                "Thriller"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/442/610442-h",
+            "Trailer": "https://www.youtube.com/watch?v=GNFacOwzmCk"
+        },
+        {
+            "id":"TH01",
+            "Name": "Glass",
+            "Description": "เดวิด ดันน์ประจันหน้ากับร่าง\"สัตว์ร้าย\" ที่ทรงพลังเหนือมนุษย์ของเควิน เวนเดลล์ ครัมป์ในศึกดวลเดือด แต่ร่างดำทะมึนของเอไลจาห์ ไพรซ์ปรากฎตัวขึ้นในฐานะผู้ชักใยผู้กุมความลับสำคัญของทั้งคู่เอาไว้",
+            "Type": 
+            [
+                "Thriller"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1370/651370-h",
+            "Trailer": "https://www.youtube.com/watch?v=95ghQs5AmNk"
+        },
+        {
+            "id":"TH02",
+            "Name": "The Drop",
+            "Description": "บ็อบ ซากินอฟสกีเป็นบาร์เทนเดอร์ที่ทำงานกับมาร์ฟ ญาติที่ไม่ลงรอยกันของเขา แต่ดันไปพัวพันกับตนที่เขาไม่ควรยุ่งด้วย ทั้งหมดนี้ทำให้ชีวิตของเขายุ่งยาก เขาจะแก้ปัญหาชีวิตโดยไม่ถูกฆ่าได้ไหม",
+            "Type": 
+            [
+                "Thriller"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/3395/1043395-h-77a7b74da82a",
+            "Trailer": "https://www.youtube.com/watch?v=Iy_ogNiryZ8"
+        },
+        {
+            "id":"TH03",
+            "Name": "24:Legacy",
+            "Description": "ตอนพิเศษนี้เป็นเรื่องราวตื่นเต้นระทักใจแข่งกับเวลาเพื่อหยุดผู้ก่อการร้ายของอเมริกา ในขณะที่วิธีการเล่าก็ยังเป็นเรียลไทม์ตามแบบฉบับของซีรีส์เรื่องนี้",
+            "Type": 
+            [
+                "Thriller"
+            ],
+            "Image": "https://www.hotstar.com/th/24-legacy/1260051383",
+            "Trailer": "https://www.youtube.com/watch?v=sOWpUB_Xdqs"
+        },
+        {
+            "id":"TH04",
+            "Name": "Revenge",
+            "Description": "เอมิลี ธอร์นวางแผนเพื่อแก้แค้นศัตรูที่ทำลายชีวิตเธอและพ่อ แต่ระหว่างทางไปถึงเป้าหมาย เธอและคนรอบข้างต้องสูญเสียมากมาย พบการฟาดฟันอย่างถึงพริกถึงขิงของตัวละครได้ในซีรีส์ล้างแค้นเรื่องนี้",
+            "Type": 
+            [
+                "Thriller"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/722/230722-h",
+            "Trailer": "https://www.youtube.com/watch?v=sU3TRJiRobs"
+        },
+        {
+            "id":"TH05",
+            "Name": "The Fifth Estate",
+            "Description": "เดเนียล และจูเลียน แอสเสนจ์ ผู้สร้างวิกิลีกส์ เว็บไซต์เปิดโปงความลับรัฐบาล นักการทูต และองค์กรต่างๆฟาดฟันกันเอง เมื่อเดเนียลเริ่มสงสัยแอสเสนจ์ และพบความจริงอันโหดร้ายของผู้เป็นหุ้นส่วน",
+            "Type": 
+            [
+                "Thriller"
+            ],
+            "Image": "https://www.hotstar.com/th/the-fifth-estate-trailer/1260051102",
+            "Trailer": "https://www.youtube.com/watch?v=ZT1wb8_tcYU"
+        },
+        {
+            "id":"TH06",
+            "Name": "Murder on the Orient Express",
+            "Description": "นักสืบชื่อดัง แอร์กูล ปัวโรต์ พยายามไขคดีฆาตกรรมบนรถไฟที่กลายมาเป็นหนึ่งในอาชญากรรมที่ฉาวโฉ่ที่สุดในประวัติศาสตร์ นี่คือผลงานจากวรรณกรรมสุดคลาสสิกที่ถูกดัดแปลงให้เป็นภาพยนตร์เรื่องยิ่งใหญ่",
+            "Type": 
+            [
+                "Thriller"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/914/220914-h",
+            "Trailer": "https://www.youtube.com/watch?v=Mq4m3yAoW8E"
+        },
+        {
+            "id":"TH07",
+            "Name": "Red Sparrow",
+            "Description": "เจ้าหน้าที่ข่าวกรองรัสเซียกลายเป็น \"สแปร์โรว์\" สายลับสาวสุดยั่ว เจ้าหน้าที่ซีไอเอหนุ่มนอกเครื่องแบบคือเป้าหมาย ทั้งคู่ปะทะกันในการจารกรรม แต่หัวใจที่โหยหากันกลับเป็นภัยต่ออาชีพ และชีวิตของเธอ",
+            "Type": 
+            [
+                "Thriller"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/6790/546790-h",
+            "Trailer": "https://www.youtube.com/watch?v=PmUL6wMpMWw"
+        },
+        {
+            "id":"TH08",
+            "Name": "Bad Times at the EL Royale",
+            "Description": "คนแปลกหน้าเจ็ดคนมาเจอกันที่เอล โรแยล ทะเลสาบทาโฮ ที่ที่ทุกคนมีโอกาสครั้งสุดท้ายในหนึ่งคืนที่จะไถ่บาป ก่อนที่ทุกอย่างจะเหมือนตกนรกทั้งเป็น",
+            "Type": 
+            [
+                "Thriller"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/66/540066-h",
+            "Trailer": "https://www.youtube.com/watch?v=y7wzBVARwaU"
+        },
+        {
+            "id":"TH09",
+            "Name": "Black Swan",
+            "Description": "นาตาลี พอร์ตแมนได้รางวัลออสการ์สาขานักแสดงนำหญิงยอดเยี่ยมจากการแสดงน่าตื่นตะลึงในภาพยนตร์จิตวิทยาระทึกขวัญเกี่ยวกับนักบัลเล่ต์ผู้ทะเยอทะยานแต่บอบบางและคู่แข่งของเธอ",
+            "Type": 
+            [
+                "Thriller"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/515/540515-h",
+            "Trailer": "https://www.youtube.com/watch?v=5jaI1XOB-bs"
+        }
+
+
+    ]
+
+
+
+
+
+}
