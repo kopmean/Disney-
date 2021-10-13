@@ -1,1 +1,192 @@
-
+{
+    "Movie": [{
+        "id": "",
+        "Name": "Frozen II",
+        "Description": "ทำไมเอลซ่าถึงเกิดมาพร้อมพลังวิเศษ คำตอบของคำถามนี้กำลังส่งเสียงเรียกหา เอลซ่ากับอันนาและผองเพื่อนจึงต้องออกเดินทางสู่ดินแดนที่ไม่รู้เพื่อไขปริศนาและช่วยอาณาจักรอีกครั้ง...",
+        "Type": ["Kids", "Musical"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1078/651078-h",
+        "Trailer": "https://www.hotstar.com/th/frozen-ii-trailer/1260022751?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "The Lion King (1994)",
+        "Description": "เจ้าชายซิมบ้า ลูกสิงโตผู้ไร้เดียงสา ถูกหลอกว่าเขาเป็นต้นเหตุที่ทำให้เกิดเรื่องสลด เขาจึงหนีออกจากฝูง หลังผ่านไปหลายปี ซิมบ้ากลับมาเพื่ออ้างสิทธิ์ของราชาและชิงบัลลังก์คืนจากสการ์ อาตัวร้าย...",
+        "Type": ["Family", "Musical"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/7499/627499-h",
+        "Trailer": "https://www.hotstar.com/th/the-lion-king-trailer/1260019987?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Aladdin",
+        "Description": "อะลาดิน หนุ่มจรจัดผู้ตกหลุมรักเจ้าหญิงจัสมิน แต่ไม่อาจแต่งงานกับเธอได้ เพราะเธอต้องอภิเษกกับเจ้าชาย เขาพบตะเกียงวิเศษที่เปลี่ยนให้เขากลายเป็นเจ้าชาย แต่เขาต้องกำจัดวายร้ายจาฟาร์ให้ได้ก่อน...",
+        "Type": ["Family", "Musical"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/7465/627465-h",
+        "Trailer": "https://www.hotstar.com/th/aladdin-trailer/1260019977?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Frozen",
+        "Description": "เจ้าหญิงอันนาผู้ร่าเริงกับคริสตอฟฟ์และมนุษย์หิมะสุดฮาชื่อโอลาฟ ร่วมกันเดินทางฝ่าฟันยอดเขาหนาวเหน็บเพื่อตามหาเอลซ่า พี่สาวของอันนาผู้ปลดปล่อยพลังจนแช่แข็งอาณาจักรให้อยู่ในฤดูหนาวตลอดกาล...",
+        "Type": ["Kids", "Musical"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/5661/625661-h",
+        "Trailer": "https://www.hotstar.com/th/frozen-trailer/1260019735?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Moana",
+        "Description": "โมอาน่า สาวน้อยจากหมู่เกาะทะเลใต้ผู้มีพลังสื่อสารกับน้ำได้ ใช้ความสามารถในการเดินเรือเพื่อไปยังเกาะในตำนาน โดยมีเทพมาวอิร่วมทางไปด้วย...",
+        "Type": ["Kids", "Musical"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/7157/637157-h",
+        "Trailer": "https://www.hotstar.com/th/moana-trailer/1260020836?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformancee"
+    }, {
+        "id": "",
+        "Name": "Beauty And The Beast",
+        "Description": "เบลล์ สาวสวยผู้กล้าหาญตกลงใช้ชีวิตกับอสูร เพื่อแลกกับพ่อที่ถูกลักพาตัวไป ไม่ช้าเบลล์ก็ได้เรียนรู้ว่าผู้จองจำที่น่าหวาดกลัวของเธอมีด้านอ่อนไหวซ่อนอยู่...",
+        "Type": ["Romance", "Musical"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2499/632499-h",
+        "Trailer": "https://www.hotstar.com/th/beauty-and-the-beast-trailer/1260020451?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": ["Cinderella"],
+        "Description": "แม่เลี้ยงใจร้ายของซินเดอเรลล่าขัดขวางไม่ให้เธอไปร่วมงานเต้นรำในวัง แต่ฝันของเธอก็กลายเป็นจริงด้วยความช่วยที่ไม่ทันได้คาดคิดจากนางฟ้าแม่ทูนหัวและเพื่อนรักของเธออย่างกัสและแจ็ก...",
+        "Type": ["Kids", "Musical"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/3800/663800-h",
+        "Trailer": "https://www.hotstar.com/th/cinderella-trailer/1260019731?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "The Fault in Our Stars",
+        "Description": "เฮเซล (เชย์ลีน วู้ดลีย์) และกัส (แอนเซล เอลกอร์ธ) ร่วมแบ่งปันความรักที่พาพวกเขาไปสู่การเดินทางที่ลืมไม่ลง ในภาพยนตร์ทรงพลังที่สร้างจากนิยายขายดีอันดับหนึ่งของนิวยอร์กไทมส์ โดยจอห์น กรีน...",
+        "Type": ["Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/545/540545-h",
+        "Trailer": "https://www.hotstar.com/th/the-fault-in-our-stars-trailer/1000240733?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Sleeping Beauty",
+        "Description": "แอนิเมชั่นแฟนตาซีคลาสสิกของดิสนีย์จากบทเพลงของไชคอฟสกี เล่าเรื่องของรักแท้ที่เอาชนะทุกสิ่งได้ เมื่อเจ้าหญิงออโรร่าถูกมาลิฟิเซนต์ผู้ชั่วร้ายสาปให้หลับใหล มีแต่เจ้าชายรูปงามเท่านั้นที่จะช่วยเธอได้...",
+        "Type": ["Kids", "Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/944/630944-h",
+        "Trailer": "https://www.hotstar.com/th/sleeping-beauty-trailer/1260020216?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Bambi",
+        "Description": "ในป่าลึก แบมบี้ออกเดินทางสำรวจโลกใบใหม่กับผองเพื่อน ทรัมเปอร์และฟลาวเวอร์ เจ้าชายกวางน้อย มีนกฮูกผู้รอบรู้คอยนำทางและได้รับบทเรียนที่ยิ่งใหญ่เกี่ยวกับความรัก ความสูญเสีย และชีวิต...",
+        "Type": ["Kids", "Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/5853/625853-h",
+        "Trailer": "https://www.hotstar.com/th/bambi-trailer/1260019786?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Titanic",
+        "Description": "โรส หญิงสาวอายุ 17 ปี จากครอบครัวชนชั้นสูงที่ถูกคลุมถุงชนให้แต่งงานกับคาล แต่เธอตกหลุมรักกับแจ็ก ดอว์สันศิลปินตกยากแต่จิตใจดีบนเรือไททานิค ก่อนที่โศกนาฏกรรมจะทำให้ความรักของทั้งคู่เป็นตำนาน...",
+        "Type": ["Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/1761/571761-h",
+        "Trailer": "https://www.hotstar.com/th/titanic-trailer/1260012140?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Runaway Bride",
+        "Description": "เรื่องราวโรแมนติกคอมเมดี้เกี่ยวกับผู้หญิงที่ทิ้งเจ้าบ่าวสามคนกลางงานแต่ง ริชาร์ด เกียร์รับบทนักข่าวขี้แซะที่ตัดสินใจเขียนข่าวเกี่ยวกับเรื่องที่นางเอกของเราเกือบพลาดแต่งงาน และเดาว่าเธอคงทำอีก...",
+        "Type": ["Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2198/632198-h",
+        "Trailer": "https://www.hotstar.com/th/runaway-bride-trailer/1260020370?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Never Been Kissed",
+        "Description": "โจซี่ เกลเลอร์ ผู้ตรวจสอบต้นฉบับไม่เคยมีความรักที่จริงจังมาก่อน เธอปลอมตัวเข้าไปในโรงเรียนมัธยมเพื่อสืบว่าพวกนักเรียนกำลังทำอะไรอยู่กันแน่ และได้ตกหลุมรักแซม โคลสัน คุณครูวิชาภาษาอังกฤษ...",
+        "Type": ["Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7781/667781-h",
+        "Trailer": "https://www.hotstar.com/th/never-been-kissed-trailer/1260024988?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "27 DRESSES",
+        "Description": "เพื่อนเจ้าสาวตลอดกาลสุดแสนจะช้ำใจ เมื่อชายในฝันกำลังจะเข้าพิธีแต่งงานกับน้องสาวตัวเอง แต่เธอเองก็บังเอิญตกหลุมรักนักข่าวจอมเหยียดที่มาทำข่าวในงาน...",
+        "Type": ["Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/562/540562-h",
+        "Trailer": "https://www.hotstar.com/th/27-dresses-trailer/1000240737?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Lady and the Tramp",
+        "Description": "เลดี้ สุนัขพันธุ์ค็อกเกอร์ สแปเนียล ที่ได้รับการดูแลอย่างดีด้วยความรัก มาพบกับไอ้ตูบแทรมพ์ สุนัขจรจัดจากอีกฟากของเมือง ผู้ทำให้เธอได้เรียนรู้ว่าการท่องไปมาโดยไร้สายจูงนั้นมีความหมายอย่างไร...",
+        "Type": ["Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/2045/652045-h",
+        "Trailer": "https://www.hotstar.com/th/lady-and-the-tramp-trailer/1260022720?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Pretty Woman",
+        "Description": "วิเวียน วอร์ด โสเภณีข้างถนนที่โชคไม่ดีไ ด้มีโอกาสพบกับเอ็ดเวิร์ด ลูอิส เจ้าของบริษัทยักษ์ใหญ่ซึ่งนำไปสู่เรื่องรักๆ ใคร่ๆ ที่ไม่น่าจะเป็นไปได้ของซินเดอเรลล่ายุคใหม่...",
+        "Type": ["Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/8946/628946-h",
+        "Trailer": "https://www.hotstar.com/th/pretty-woman-trailer/1260020113?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Aquamarine",
+        "Description": "สองเพื่อนซี้วัย 13 ปีออกเดินทางสู่การผจญภัยแห่งชีวิต เมื่อทั้งคู่เจอนางเงือกชื่อ อความารีน ในสระว่ายน้ำ...",
+        "Type": ["Romance", "Comedy"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/9289/669289-h",
+        "Trailer": "https://www.hotstar.com/th/aquamarine-trailer/1260025223?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Avengers: Endgame",
+        "Description": "จักรวาลถูกทำลายไปครึ่งหนึ่ง หลังธานอสดีดนิ้ว ด้วยความช่วยเหลือของกลุ่มพันธมิตร เหล่าอเวนเจอร์สกลับมารวมตัวกันอีกครั้ง เพื่อแก้ไขหายนะที่ธานอสก่อไว้และคืนสมดุลสู่จักรวาล...",
+        "Type": ["Superhero", "Action"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/7460/627460-h",
+        "Trailer": "https://www.hotstar.com/th/avengers-endgame-trailer/1260019965?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Avengers: Infinity War",
+        "Description": "เมื่อธานอสผู้ทรงพลังเข้าใกล้พลังแห่งการทำลายล้างเหนือจักรวาล เหล่าอเวนเจอร์สและพันธมิตรซูเปอร์ฮีโร่ต้องยอมเสี่ยงทุกอย่าง ในการศึกครั้งสุดท้ายที่ยิ่งใหญ่ที่สุด...",
+        "Type": ["Superhero", "Action"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/3749/643749-h",
+        "Trailer": "https://www.hotstar.com/th/avengers-infinity-war-trailer/1260021710?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Thor: Ragnarok",
+        "Description": "เมื่อปราศจากค้อนโยเนียร์อันทรงพลัง ธอร์ต้องหลบหนีไปยังอีกฝั่งของจักรวาลเพื่อปกป้องแอสการ์ด บ้านของเขาจาก เฮลา เทพีแห่งความตาย...",
+        "Type": ["Superhero", "Action"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6963/636963-h",
+        "Trailer": "https://www.hotstar.com/th/thor-ragnarok-trailer/1260020808?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Black Panther",
+        "Description": "ทีชัลลา รัชทายาทแห่งอาณาจักรวากานด้าสุดล้ำสมัยที่ซ่อนตัวอยู่ ต้องก้าวขึ้นเป็นผู้นำประชาชนไปสู่อนาคตใหม่ และเผชิญหน้ากับผู้ท้าทายจากอดีตที่กลับมาชิงบัลลังก์...",
+        "Type": ["Superhero", "Action"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/3786/663786-h",
+        "Trailer": "https://www.hotstar.com/th/black-panther-trailer/1260020786?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Avengers: Age Of Ultron",
+        "Description": "โทนี่ สตาร์คสร้างอัลตรอน ระบบปัญญาประดิษฐ์ขึ้นมาด้วยความช่วยเหลือของบรูซ แบนเนอร์ และเมื่อเกิดความผิดพลาด เหล่าฮีโร่ที่ทรงพลังที่สุดของโลกก็ต้องหยุดอัลตรอนจอมวายร้ายจากแผนการครองโลก...",
+        "Type": ["Superhero", "Action"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3788/663788-h",
+        "Trailer": "https://www.hotstar.com/th/avengers-age-of-ultron-trailer/1260022060?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Captain Marvel",
+        "Description": "'สูงกว่า ไกลกว่า ไวกว่า' พบฮีโร่ที่ทรงพลังที่สุดในจักรวาลมาร์เวล เมื่อแครอล แดนเวอร์สได้รับพลังลึกลับ เธอจึงต้องช่วยโลกจากสงครามของสองเผ่าพันธุ์ต่างดาว...",
+        "Type": ["Superhero", "Action"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7446/627446-h",
+        "Trailer": "https://www.hotstar.com/th/captain-marvel-trailer/1260019963?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Captain America: Civil War",
+        "Description": "การตัดสินใจของรัฐบาลในการผลักดันพระราชบัญญัติการขึ้นทะเบียนฮีโร่เพื่อควบคุมฮีโร่ทำให้เกิดความแตกแยกระหว่างอเวนเจอร์สและฮีโร่คนอื่นๆ...",
+        "Type": ["Superhero"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/3794/663794-h",
+        "Trailer": "https://www.hotstar.com/th/captain-america-civil-war-trailer/1260020701?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Marvel's The Avengers",
+        "Description": "เมื่อศัตรูที่ไม่คาดคิดปรากฏตัวและคุกคามชะตากรรมมนุษยชาติ นิค ฟิวรี่ ผอ.หน่วยชีลด์จึงต้องการทีมที่จะช่วยโลกจากหายนะครั้งนี้ เขาจึงรวบรวมเหล่าฮีโร่ขึ้นมาเพื่อปกป้องโลก...",
+        "Type": ["Superhero", "Action"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/3284/653284-h",
+        "Trailer": "https://www.hotstar.com/th/marvels-the-avengers-trailer/1260022956?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Incredibles 2",
+        "Description": "ครอบครัวซูเปอร์ฮีโร่อันเป็นที่รักกลับมาผจญภัยอีกครั้ง มิสเตอร์อินเครดิเบิ้ลถูกทิ้งให้เลี้ยงลูกน้อย ส่วนภรรยาออกไปปกป้องโลก แต่ครอบครัวกลับต้องลำบากเมื่อวายรายที่ทรงพลังตัวใหม่มาถึง...",
+        "Type": ["Kids", "Superhero"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3765/663765-h",
+        "Trailer": "https://www.hotstar.com/th/incredibles-2-trailer/1260021937?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }, {
+        "id": "",
+        "Name": "Doctor Strange",
+        "Description": "ดร. สเตรนจ์ ศัลยแพทย์มือหนึ่งต้องเสียความสามารถไปเพราะอุบัติเหตุ แต่เขาฝึกฝนจนได้พลังเวทย์มนตร์มา เขาต้องเลือกว่าจะกลับไปสู่ชีวิตหรูหรือทิ้งทุกอย่างไปปกป้องโลกในฐานะพ่อมดที่ทรงพลังที่สุด...",
+        "Type": ["Superhero", "Action"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/7160/637160-h",
+        "Trailer": "https://www.hotstar.com/th/doctor-strange-trailer/1260020838?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
+    }]
+}
