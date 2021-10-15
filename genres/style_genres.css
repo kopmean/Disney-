@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
+    background-color: rgb(21, 21, 37);
 }
 *{
     margin: 0;
@@ -13,9 +14,12 @@ body{
     position: relative;
     text-align: center;
     width: 100%;
-    transition: 0.3s;
+    transition: 0.4s;
 }
-
+.inerGenres:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
 .textInGenres{
     position: absolute;
     top: 50%;
@@ -23,11 +27,11 @@ body{
     transform: translate(-50%, -50%);
     color: white;
 }
-
 .shadeGenres{
-    filter: brightness(0.7);
+    filter: brightness(0.55);
+    border: 0;
 }
-.inerGenres:hover{
-    transform: scale(1.2);
-    z-index: 2;
+.shadeGenres img{
+    border-radius: 4px;
+    filter: grayscale(18%);
 }
