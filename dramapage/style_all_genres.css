@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #0c111b;
+    background-color: #ffffff;
 }
 *{
     margin: 0;
@@ -10,31 +10,52 @@ body{
 .genresPage h5{
     color: #FFFFFFCC;
 }
-.inerGenres{
+.inerType{
     position: relative;
-    text-align: center;
     width: 100%;
     transition: 0.4s;
 }
-.inerGenres:hover{
+.inerType:hover{
     transform: scale(1.2);
     z-index: 2;
 }
-.textInGenres{
+.textType{
+    display: none;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: #ffffff;
-    font-size: 11px;
+    bottom: 0px;
+    left: 0px;
+    color: #f1f1f1;
+    font-size: 8px;
     font-weight:600;
-    letter-spacing:1px
+    width: 100%;
+    padding: 0px 5px;
+    padding-bottom: 8px;
 }
-.shadeGenres{
-    filter: brightness(0.55);
+.inerType:hover .textType{
+    display: block;
+    background: linear-gradient(to top, rgb(26,34,51) 60%, rgba(26, 34, 51, 0));
+    border-radius: 3px;
+}
+
+.shadeType{
     border: 0;
 }
-.shadeGenres img{
+
+.shadeType img{
     border-radius: 3px;
-    filter: grayscale(18%);
+}
+.plusIcon{
+    width: 10px;
+    filter: grayscale(100%);
+}
+.addToWatchList:hover{
+    background-color: rgba(102, 102, 102, 0.432);
+    width: 100%;
+}
+.movieDescription{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+    -webkit-box-orient: vertical;
 }
