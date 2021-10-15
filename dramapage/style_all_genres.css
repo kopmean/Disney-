@@ -1,0 +1,40 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #0c111b;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.genresPage h5{
+    color: #FFFFFFCC;
+}
+.inerGenres{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    transition: 0.4s;
+}
+.inerGenres:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
+.textInGenres{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-size: 11px;
+    font-weight:600;
+    letter-spacing:1px
+}
+.shadeGenres{
+    filter: brightness(0.55);
+    border: 0;
+}
+.shadeGenres img{
+    border-radius: 3px;
+    filter: grayscale(18%);
+}
