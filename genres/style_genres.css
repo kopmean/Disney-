@@ -7,8 +7,8 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
-.genresPage h2{
-    color: white;
+.genresPage h5{
+    color: #FFFFFFCC;
 }
 .inerGenres{
     position: relative;
@@ -25,13 +25,14 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: #ffffffee;
+    font-size: 14px;
 }
 .shadeGenres{
     filter: brightness(0.55);
     border: 0;
 }
 .shadeGenres img{
-    border-radius: 4px;
+    border-radius: 3px;
     filter: grayscale(18%);
 }
