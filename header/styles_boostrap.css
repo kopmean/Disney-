@@ -6,7 +6,7 @@
 
 body{
     width: 100%;
-    background: #0d111c;
+    background-color: #0d111c;
     position: relative;
     font-family: roboto, sans-serif;
 }
@@ -22,6 +22,7 @@ body{
     z-index: 9;
     display: flex;
     align-items: flex-start;
+
 }
 
 .burger-btn{
@@ -284,3 +285,5 @@ body{
     overflow: hidden;
     background-color: rgba(0, 0, 0,0);
   }
+
+
