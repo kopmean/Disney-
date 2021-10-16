@@ -5,7 +5,7 @@
             "Name": "Grey's Anatomy",
             "Description": "นี่คือสุดยอดซีรีส์ที่จะสร้างความสนุก เสียงหัวเราะ ทำให้คุณเสียน้ำตาและเรียนรู้คุณค่าของชีวิตผ่านเรื่องราวของเหล่าศัลยแพทย์ที่ต้องต่อสู้เพื่อรักษาชีวิตคนไข้และพยุงชีวิตส่วนตัวไปพร้อมๆ กัน",
             "Type": [
-                "Drama"
+                "Drama","ABC Studios"
             ],
             "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3128/1063128-h-9f31c5495230",
             "Trailer": "https://youtu.be/q1pcpgREQ5c"
@@ -15,9 +15,9 @@
             "Name": "The Walking Dead",
             "Description": "ระหว่างรักษาอาการบาดเจ็บจากการปฏิบัติหน้าที่ ริก ไกรมส์ นายอำเภอเมืองเล็กๆ ในจอร์เจีย ตื่นขึ้นมาจากอาการโคม่าแล้วพบว่าโลกเต็มไปด้วยฝูงซอมบี้ \"วอล์คเกอร์\"",
             "Type": [
-                "Drama"
+                "Drama","Star World"
             ],
-            "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/819/1050819-h-83387c800561",
+            "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/819/1050819-h-83387c800561",
             "Trailer": "https://youtu.be/sfAc2U20uyg"
         },
         {
@@ -25,9 +25,9 @@
             "Name": "The Resident",
             "Description": "กลุ่มแพทย์ฝึกหัดรุ่นใหม่ต้องเผชิญกับความเป็นจริงของการแพทย์สมัยใหม่และปัญหาต่างๆ ขณะที่ฝึกปรือฝีมือโดยอาศัยความช่วยเหลือจากรุ่นพี่แพทย์ประจำบ้านผู้ช่ำชอง",
             "Type": [
-                "Drama"
+                "Drama","Star World"
             ],
-            "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9837/1059837-h-f26e854988cf",
+            "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9837/1059837-h-f26e854988cf",
             "Trailer": "https://youtu.be/zfexbFwCBnE"
         },
         {
@@ -35,63 +35,63 @@
             "Name": "9-1-1",
             "Description": "ผลงานซีรีส์ดราม่าจบในตอนเล่าถึงประสบการณ์สุดกดดันของเจ้าหน้าที่ตำรวจ หน่วยกู้ชีพ และเจ้าหน้าที่ดับเพลิงที่ต้องเจอเหตุการณ์ชวนอึ้งจนหัวใจแทบหยุดเต้น",
             "Type": [
-                "Drama"
+                "Drama","Star World"
             ],
-            "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9835/1059835-h-d471edef2e94",
+            "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9835/1059835-h-d471edef2e94",
             "Trailer": "https://youtu.be/PJpsRF-TJAE"
         },{
             "id": "DR4",
             "Name": "The Mandalorian",
             "Description": "หลังจากจักรวรรดิกาแลคติกล่มสลาย ทั่วกาแล็กซีเพิกเฉยต่อกฎหมาย นักล่าค่าหัวชาวแมนดาลอเรี่ยนจอมสันโดษเดินทางผ่านวงโคจรรอบนอกเพื่อหาเงิน แต่กลับได้พบสิ่งที่มีความหมายยิ่งกว่า",
             "Type": [
-                "Drama"
+                "Drama","Action","Star Wors"
             ],
-            "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7161/1057161-h-7f5998d89799",
+            "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7161/1057161-h-7f5998d89799",
             "Trailer": "https://youtu.be/aOC8E8z_ifw"
         },{
             "id": "DR5",
             "Name": "Mrs. America",
             "Description": "มิสซิสอเมริกาเล่าเรื่องราวเกี่ยวกับการเคลื่อนไหวเพื่อแก้กฎหมายความเท่าเทียม และผลสะท้อนกลับที่ทำให้การเมืองสหรัฐต้องเปลี่ยนไปตลอดกาล",
             "Type": [
-                "Drama"
+                "Drama","Star World"
             ],
-            "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7853/987853-h",
+            "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7853/987853-h",
             "Trailer": "https://youtu.be/IFDrs1iuGmQ"
         },{
             "id": "DR6",
             "Name": "The Americans",
             "Description": "ซีรีส์ดราม่าย้อนยุคเกี่ยวกับชีวิตที่ซับซ้อนของคู่สามีภรรยาสายลับเคจีบีที่ปลอมตัวเป็นคนอเมริกันมาอาศัยอยู่ชานเมืองในอเมริกาไม่นานหลังจากโรนัลด์ เรแกน ได้รับเลือกเป็นประธานาธิบดี",
             "Type": [
-                "Drama"
+                "Drama","Star World"
             ],
-            "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/1967/1041967-h-655c50740c2d",
+            "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/1967/1041967-h-655c50740c2d",
             "Trailer": "https://youtu.be/zIn_MH8_2ig"
         },{
             "id": "DR7",
             "Name": "Devs",
             "Description": "ลิลลี่ ชาน วิศวกรรมซอฟต์แวร์สาว ทำการสืบสวนแผนกพัฒนาลับของนายจ้างที่เป็นบริษัทเทคโนโลยีล้ำยุคที่ซิลิคอนแวลลีย์ ซึ่งเธอเชื่อว่าอยู่เบื้องหลังการฆาตกรรมแฟนของเธอ",
             "Type": [
-                "Drama"
+                "Drama","Star World"
             ],
-            "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9701/649701-h",
+            "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9701/649701-h",
             "Trailer": "https://youtu.be/Fp9LMsI6uJ8"
         },{
             "id": "DR8",
             "Name": "The Gifted",
             "Description": "ชีวิตเรียบง่ายของคู่สามีภรรยาชานเมืองต้องสั่นคลอนเมื่อทั้งคู่เพิ่งรู้ว่าลูกแฝดของตัวเองมีพลังเหนือมนุษย์ นี่คือเรื่องราวของเหล่ามนุษย์กลายพันธุ์ที่มีการดำเนินเรื่องในจักรวาลเอ็กซ์เม็น",
             "Type": [
-                "Drama"
+                "Superhero","Drama","Star World"
             ],
-            "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4858/474858-h",
+            "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4858/474858-h",
             "Trailer": "https://youtu.be/3pDdXYf3nfc"
         },{
             "id": "DR9",
             "Name": "Godfather Of Harlem",
             "Description": "เรื่องราวของบัมพี จอห์นสัน หัวหน้าแก๊งอาชญากรอื้อฉาว ซึ่งคืนสู่อิสรภาพหลังการจำคุกสิบปี ตอนช่วงต้นยุค 60 และพบว่าถิ่นที่เขาเคยคุมเต็มไปด้วยความวุ่นวาย",
             "Type": [
-                "Drama"
+                "Drama","ABC Studios"
             ],
-            "img":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5702/565702-h",
+            "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5702/565702-h",
             "Trailer": "https://youtu.be/FXSt-InPzeY"
         }
     ]

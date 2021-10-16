@@ -323,35 +323,231 @@
         },
         {
             "id": "",
-            "Name": "American Horror Story",
-            "Description": "\"อเมริกัน ฮอเรอร์ สตอรี่\" พาคุณไปพบเรื่องราวสยองขวัญสมัยใหม่ที่มีทั้งบ้านผีสิง แม่มด โรงพยาบาลบ้า โรงแรม อาณานิคมที่หายไป ลัทธิและวันสิ้นโลก",
-            "Type": ["Horror", "Star Wars"],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1972/1051972-h-ba2c019ec30c",
-            "Trailer": "https://www.youtube.com/watch?v=-tC3wIAIBx8"
+            "Name": "The Lion King (1994)",
+            "Description": "เจ้าชายซิมบ้า ลูกสิงโตผู้ไร้เดียงสา ถูกหลอกว่าเขาเป็นต้นเหตุที่ทำให้เกิดเรื่องสลด เขาจึงหนีออกจากฝูง หลังผ่านไปหลายปี ซิมบ้ากลับมาเพื่ออ้างสิทธิ์ของราชาและชิงบัลลังก์คืนจากสการ์ อาตัวร้าย",
+            "Type": [
+                "Family",
+                "Musical",
+                "English",
+                "Thai",
+                "Indonesian"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7771/1017771-h-78ac2e780b93",
+            "Trailer": "https://youtu.be/4CbLXeGSDxg"
         },
         {
             "id": "",
-            "Name": "Buffy The Vampire Slayer",
-            "Description": "พบการผจญภัยของบัฟฟี่ ซัมเมอร์ส วัยรุ่นอายุ 16 ปีที่อยากจะมีชีวิตแสนธรรมดา แม้เธอจะเป็น \"มือปราบผี\" ที่ทั้งแข็งแกร่งและเต็มไปด้วยทักษะการล่าแวมไพร์และปีศาจก็ตาม",
-            "Type": ["Horror", "Star Wars"],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3272/913272-h",
-            "Trailer": "https://www.youtube.com/watch?v=-1v_q6TWAL4"
+            "Name": "Aladdin",
+            "Description": "อะลาดิน หนุ่มจรจัดผู้ตกหลุมรักเจ้าหญิงจัสมิน แต่ไม่อาจแต่งงานกับเธอได้ เพราะเธอต้องอภิเษกกับเจ้าชาย เขาพบตะเกียงวิเศษที่เปลี่ยนให้เขากลายเป็นเจ้าชาย แต่เขาต้องกำจัดวายร้ายจาฟาร์ให้ได้ก่อน",
+            "Type": [
+                "Family",
+                "Musical",
+                "English",
+                "Hindi",
+                "Tamil",
+                "Malay",
+                "Thai",
+                "Indonesian",
+                "Telugu"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/8988/1018988-h-754bc0c35025",
+            "Trailer": "https://youtu.be/foyufD52aog"
         },
         {
             "id": "",
-            "Name": "Scream Queens",
-            "Description": "ฆาตกรในชุดปีศาจมุ่งเป้าไปยังสโมสรนักศึกษาหญิงที่ไฮโซที่สุดของมหาวิทยาลัยวอลเลซ ที่ที่เกิดโศกนาฏกรรมเมื่อ 20 ปีก่อน เหล่าสมาชิกสาวจะต้องช่วยกันกระชากหน้ากากคนร้ายเพื่อความอยู่รอดของตัวเอง",
-            "Type": ["Horror", "Star Wars"],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/8430/988430-h",
-            "Trailer": "https://www.youtube.com/watch?v=i6_LwI-hUms"
+            "Name": "Maleficent: Mistress of Evil",
+            "Description": "มาเลฟิเซนต์และออโรร่า ลูกทูนหัวของเธอ เริ่มตั้งคำถามถึงความสัมพันธ์ของทั้งคู่เมื่อออโรร่ากำลังจะแต่งงาน แถมยังมีทั้งพันธมิตรที่ไม่คาดคิดและกองกำลังชั่วร้ายใหม่ๆ ปรากฎตัวขึ้น",
+            "Type": [
+                "Family",
+                "English",
+                "Thai",
+                "Indonesian"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7237/1017237-h-cc5b709d8a15",
+            "Trailer": "https://youtu.be/n0OFH4xpPr4"
         },
         {
             "id": "",
-            "Name": "Witches Of East End",
-            "Description": "นี่คือเรื่องราวการผจญภัยของแม่และลูกสาวสองคนซึ่งทั้งคู่ไม่รู้ตัวว่าตนเป็นแม่มดรุ่นถัดไปของครอบครัวซึ่งใช้ชีวิตอยู่ในยุคปัจจุบันที่ดูเงียบสงบและไม่มีเหตุการณ์ใดๆ จนภัยร้ายจากอดีตกลับมาทวงแค้น",
-            "Type": ["Horror", "Star Wars"],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/old_images/SHOW/9520/9520/9520-h",
-            "Trailer": "https://www.youtube.com/watch?v=DEZcCcpiscc"
+            "Name": "Disney Phineas And Ferb",
+            "Description": "ฟีเนียสกับเฟิร์บเริ่มทำโครงการที่ยากเพื่อจะได้ใช้เวลาหน้าร้อนแบบสนุกสุดๆ ขณะเดียวกันดร.ดูเฟนชเมิร์ซก็พยายามเข้าคุมพื้นที่สามรัฐ สายลับเพอร์รี่เลยต้องทำลายแผนของเขา",
+            "Type": [
+                "Family",
+                "Kids",
+                "Disney"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6648/1026648-h-ea5a3c059d5a",
+            "Trailer": "https://youtu.be/jcqziqIcJ_g"
+        },
+        {
+            "id": "",
+            "Name": "Olaf's Frozen Adventure",
+            "Description": "เมื่อชาวเมืองต่างออกเดินทางท่องเที่ยวในวันหยุด อันนาและเอลซ่าจึงได้รู้ว่าตัวเองไม่มีประเพณีใดๆ สำหรับวันหยุดเลย โอลาฟจึงออกเดินทางไปทั่วแดนและนำประเพณีที่ดีที่สุดกลับมาให้สองพี่น้อง",
+            "Type": [
+                "Kids",
+                "Family",
+                "English",
+                "Malay",
+                "Thai",
+                "Indonesian"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7734/1017734-h-0263d794e182",
+            "Trailer": "https://youtu.be/1tHWpKmQcnk"
+        },
+        {
+            "id": "",
+            "Name": "Artemis Fowl",
+            "Description": "อาร์ทิมิส ฟาวล์ อัจฉริยะวัย 12 และทายาทจากตระกูลอาชญากรหัวใสหลายรุ่น พบว่าตนต้องต่อสู้กับนางฟ้าใต้ดินผู้ทรงพลังและอาจอยู่เบื้องหลังการหายตัวไปของพ่อเขา",
+            "Type": [
+                "Action",
+                "Family",
+                "English",
+                "Malay",
+                "Thai",
+                "Indonesian"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6565/1016565-h-0565d5589fe7",
+            "Trailer": "https://youtu.be/fl2r3Fwxz_o"
+        },
+        {
+            "id": "",
+            "Name": "Disney Doc Mcstuffins",
+            "Description": "ดอค แม็คสตัฟฟินส์เปิดคลินิกเพื่อของเล่นจากบ้านตุ๊กตา ด้วยความช่วยเหลือจากตุ๊กตาตัวอื่นๆ การ์ตูนเรื่องนี้จะแสดงให้เห็นคุณค่าของการยื่นมือ หรืออุ้งเท้าเพื่อช่วยเหลือคน หรือของเล่นที่ต้องการมันมากที่สุด",
+            "Type": [
+                "Family","Kids","Disney"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3887/1023887-h-72ea28f29c5e",
+            "Trailer": "https://youtu.be/y2ax_e11yJY"
+        },
+        {
+            "id": "",
+            "Name": "Disney's Ducktales",
+            "Description": "เมื่อโดนัลด์ดั๊กออกเมืองไปเป็นทหารเรือ ฮิวอี้ ดิวอี้ และลูอี้ สามหลานชายจึงต้องอยู่ในความดูแลของสกรูจ แม็กดั๊ก ผู้เป็นลุง แต่สกรูจไม่มีเวลาให้ครอบครัว เพราะมัวแต่ปกป้องสมบัติจากพวกบีเกิลตัวร้าย",
+            "Type": [
+                "Family","Kids","Disney"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3962/1023962-h-b14b318419f9",
+            "Trailer": "https://youtu.be/0-LNgU4e1rE"
+        },
+        {
+            "id": "",
+            "Name": "MULAN II",
+            "Description": "มู่หลานผู้กล้าหาญกำลังเตรียมแต่งงาน แต่ก่อนอื่น เธอต้องทำภารกิจที่อันตรายให้สำเร็จก่อน เธอจึงออกไปผจญภัยครั้งยิ่งใหญ่ในชีวิตพร้อมกับคู่หมั้น เพื่อนนายทหาร เจ้าหญิงทั้งสาม และมังกรผู้พิทักษ์",
+            "Type": [
+                "Kids","Family","English","Malay","Thai","Indonesian"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7712/1017712-h-c036b1be0282",
+            "Trailer": "https://youtu.be/gWf2Cg00kD0"
+        },
+        {
+            "id": "",
+            "Name": "Tangled",
+            "Description": "ฟลินน์ ไรเดอร์ โจรที่อาณาจักรต้องการ ถูกราพันเซล หญิงสาวผู้มีผมสีทองยาว 70 ฟุตจับตัวไว้ คู่หูที่ไม่น่ามาเจอกันเริ่มการหลบหนีแสนสนุกและน่าขนลุกที่เต็มไปด้วยการผจญภัย ความรัก ความฮาและเส้นผม",
+            "Type": [
+                "Kids","Family","English","Hindi","Malay","Thai","Indonesian"
+                
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9/1020009-h-2a9484e18624",
+            "Trailer": "https://youtu.be/2f516ZLyC6U"
+        },
+        {
+            "id": "",
+            "Name": "Gordon Ramsay: Uncharted",
+            "Description": "กอร์ดอน แรมซีย์เข้าไปซึมซับวัฒนธรรม อาหาร และรสชาติใหม่ๆ จากเปรู ลาว โมร็อกโก ถึงฮาวาย อะแลสกา และนิวซีแลนด์ บุกป่าฝ่าดงทั่วโลกเพื่อแสวงหาแรงบันดาลใจในการทำอาหารไม่รู้จบ",
+            "Type": [
+                "Reality","Nat Geo"
+            ],
+            "Image": "Gordon Ramsay: Uncharted",
+            "Trailer": "https://youtu.be/kscXHHjkySY"
+        },
+        {
+            "id": "",
+            "Name": "Be Our Chef",
+            "Description": "พบกับแองเจล่า คินซีย์ ในรายการแข่งทำอาหารที่นำครอบครัวที่หลงรักในอาหารห้าครอบครัว มาแข่งกันสร้างสรรค์อาหารจานเด็ด ที่ได้รับแรงบันดาลใจจากเวทมนตร์ของดิสนีย์",
+            "Type": [
+                "Reality","Kids","Disney"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/579/660579-h",
+            "Trailer": "https://youtu.be/HKmayjw5i2c"
+        },
+        {
+            "id": "",
+            "Name": "Shop Class",
+            "Description": "ซีรีส์การแข่งขันชุดใหม่ที่เกี่ยวกับช่างก่อสร้างอายุน้อย ซึ่งได้รับมอบหมายให้ออกแบบและทดสอบแนวคิดสร้างสรรค์แปลกใหม่ ซึ่งแต่ละตอน คณะผู้เชี่ยวชาญจะตัดสินจากความคิดสร้างสรรค์และการใช้งานได้จริง",
+            "Type": [
+                "Reality","Kids","Disney"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/187/650187-h",
+            "Trailer": "https://youtu.be/fZWoS5vW8J8"
+        },
+        {
+            "id": "",
+            "Name": "Disney's Fairy Tale Weddings",
+            "Description": "ชมเบื้องหลังงานแต่งงานแสนวิเศษและงานหมั้นอันเป็นเอกลักษณ์ที่เกิดขึ้นตามจุดท่องเที่ยวของดิสนีย์ทั่วโลก ทั้งวอลท์ ดิสนีย์ เวิลด์, ดิสนีย์แลนด์ และดิสนีย์ ครูซ ไลน์",
+            "Type": [
+                "Reality","Disney"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/181/650181-h",
+            "Trailer": "https://youtu.be/ZOTYW1aFRhw"
+        },
+        {
+            "id": "",
+            "Name": "Wicked Tuna",
+            "Description": "เชิญติดตามชีวิตชาวประมงจากแมสซาชูเซตส์ที่ออกไปไล่ตามปลาทูน่าครีบน้ำเงิน คุณจะได้ชมภาพอันน่าทึ่ง เรียนรู้ทักษะการตกปลา และชมดราม่าของชาวเรือ",
+            "Type": [
+                "Reality","Nat Geo"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3553/533553-h",
+            "Trailer": "https://youtu.be/MhGKmnnFdJc"
+        },
+        {
+            "id": "",
+            "Name": "The Incredible Dr. Pol",
+            "Description": "ดร.พอล กับทีมสัตวแพทย์คนเก่งทำงานตลอดเวลาเพื่อช่วยเหลือสัตว์ในช่วงเวลาฉุกเฉินที่รัฐมิชิแกนตอนกลาง",
+            "Type": [
+                "Reality","Nat Geo"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4853/654853-h",
+            "Trailer": "https://youtu.be/73MHQpe53UA"
+        },
+        {
+            "id": "",
+            "Name": "Running Wild With Bear Grylls",
+            "Description": "แบร์ กริลส์ เจ้าแห่งการเอาตัวรอดกลับไปท่องป่าร่วมกับคนดังจากฮอลลีวูดมากมาย ซึ่งจะมาร่วมผจญภัยในการเดินทางไร้ขีดจำกัดไปยังดินแดนที่โหดที่สุดในโลก",
+            "Type": [
+                "Reality","Nat Geo"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5014/1035014-h-cb78907b3279",
+            "Trailer": "https://youtu.be/BHF-zR0bZjo"
+        },
+        {
+            "id": "",
+            "Name": "Car Sos",
+            "Description": "ฟัซ ทาวน์เซนด์ และทิม ชอว์ ออกทำภารกิจกู้ชีพรถโบราณให้กับเจ้าของที่อาจไม่เคยรู้ว่ารถมีค่ามากเพียงใด",
+            "Type": [
+                "Reality","Nat Geo"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6758/1056758-h-5681e44994cf",
+            "Trailer": "https://youtu.be/lgTsubkSgHA"
+        },
+        {
+            "id": "",
+            "Name": "Disney Prankstars",
+            "Description": "นี่คือรายการที่ซ่อนกล้องไว้ไม่ให้เหล่าวัยรุ่นรู้ตัว โดยครอบครัวช่วยวางแผนให้เด็กๆ ได้เจอกับดาราที่ชื่นชอบ",
+            "Type": [
+                "Reality","Comedy","Disney"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9628/949628-h",
+            "Trailer": "https://youtu.be/CaimKeDcudo"
+        },
+        {
+            "id": "",
+            "Name": "How to Win at Everything",
+            "Description": "มาร่วมทดสอบกันว่าวิทยาศาสตร์คือกุญแจสำคัญที่อยู่เบื้องหลังสิ่งที่เกิดขึ้นแทบจะทุกอย่างในชีวิตของเราอย่างไร",
+            "Type": [
+                "Reality","Science","Nat Geo"
+            ],
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9273/1049273-h-b110f87070e7",
+            "Trailer": "https://youtu.be/sSZg6gt9AW0"
         }
     ]
 }

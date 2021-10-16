@@ -4,7 +4,7 @@
         "id":"HO0",
         "Name":"American Horror Story",
         "Description":"\"อเมริกัน ฮอเรอร์ สตอรี่\" พาคุณไปพบเรื่องราวสยองขวัญสมัยใหม่ที่มีทั้งบ้านผีสิง แม่มด โรงพยาบาลบ้า โรงแรม อาณานิคมที่หายไป ลัทธิและวันสิ้นโลก",
-        "Type":["Horror", "Star Wars"],
+        "Type":["Horror", "Star World"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1972/1051972-h-ba2c019ec30c",
         "Trailer":"https://www.youtube.com/watch?v=-tC3wIAIBx8"
         },
@@ -12,7 +12,7 @@
         "id":"HO1",
         "Name":"Buffy The Vampire Slayer",
         "Description":"พบการผจญภัยของบัฟฟี่ ซัมเมอร์ส วัยรุ่นอายุ 16 ปีที่อยากจะมีชีวิตแสนธรรมดา แม้เธอจะเป็น \"มือปราบผี\" ที่ทั้งแข็งแกร่งและเต็มไปด้วยทักษะการล่าแวมไพร์และปีศาจก็ตาม",
-        "Type":["Horror", "Star Wars"],
+        "Type":["Horror", "Star World"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3272/913272-h",
         "Trailer":"https://www.youtube.com/watch?v=-1v_q6TWAL4"
         },
@@ -20,7 +20,7 @@
         "id":"HO2",
         "Name":"Scream Queens",
         "Description":"ฆาตกรในชุดปีศาจมุ่งเป้าไปยังสโมสรนักศึกษาหญิงที่ไฮโซที่สุดของมหาวิทยาลัยวอลเลซ ที่ที่เกิดโศกนาฏกรรมเมื่อ 20 ปีก่อน เหล่าสมาชิกสาวจะต้องช่วยกันกระชากหน้ากากคนร้ายเพื่อความอยู่รอดของตัวเอง",
-        "Type":["Horror", "Star Wars"],
+        "Type":["Horror", "Star World"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/8430/988430-h",
         "Trailer":"https://www.youtube.com/watch?v=i6_LwI-hUms"
         },
@@ -28,7 +28,7 @@
         "id":"HO3",
         "Name":"Witches Of East End",
         "Description":"นี่คือเรื่องราวการผจญภัยของแม่และลูกสาวสองคนซึ่งทั้งคู่ไม่รู้ตัวว่าตนเป็นแม่มดรุ่นถัดไปของครอบครัวซึ่งใช้ชีวิตอยู่ในยุคปัจจุบันที่ดูเงียบสงบและไม่มีเหตุการณ์ใดๆ จนภัยร้ายจากอดีตกลับมาทวงแค้น",
-        "Type":["Horror", "Star Wars"],
+        "Type":["Horror", "Star World"],
         "Image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/old_images/SHOW/9520/9520/9520-h",
         "Trailer":"https://www.youtube.com/watch?v=DEZcCcpiscc"
         },
