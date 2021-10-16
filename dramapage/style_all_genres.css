@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #ffffff;
+    background-color: #131b28;
 }
 *{
     margin: 0;
@@ -26,12 +26,11 @@ body{
     position: absolute;
     bottom: 0px;
     left: 0px;
-    color: #f1f1f1;
+    color: #dbdbdb;
     font-size: 8px;
     font-weight:600;
     width: 100%;
-    padding: 0px 5px;
-    padding-bottom: 8px;
+    padding: 10px;
 }
 .inerType:hover .textType{
     /* display: block; */
@@ -49,9 +48,13 @@ body{
     width: 8px;
     filter: grayscale(100%);
 }
+.addToWatchList{
+    font-size: 7px;
+}
 .addToWatchList:hover{
     background-color: rgba(102, 102, 102, 0.432);
     width: 100%;
+
 }
 .movieDescription{
     overflow: hidden;
