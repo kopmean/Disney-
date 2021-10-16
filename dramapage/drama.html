@@ -39,9 +39,9 @@
                                 <div class="movieDescription">
                                     นี่คือสุดยอดซีรีส์ที่จะสร้างความสนุก เสียงหัวเราะ ทำให้คุณเสียน้ำตาและเรียนรู้คุณค่าของชีวิตผ่านเรื่องราวของเหล่าศัลยแพทย์ที่ต้องต่อสู้เพื่อรักษาชีวิตคนไข้และพยุงชีวิตส่วนตัวไปพร้อมๆ กัน
                                 </div>
-                                <div class="addToWatchList">
+                                <div class="addToWatchList" title="เพิ่มในรายการรับชม">
                                     <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
-                                    <span>เพิ่มในรายการรับชม</span>
+                                    <span> เพิ่มในรายการรับชม</span>
                                 </div>
                             </div>
                         </a>
@@ -50,6 +50,24 @@
             </div>
         </div>
     </div>
+    <script>
+        let requestURL = 'drama.json';
+        let request = new XMLHttpRequest();
+        request.onreadystatechange = function () {
+            if (request.readyState == 4 && request.status == 200) {
+                dataReportStatus(JSON.parse(request.responseText));
+            } };
+        request.open("GET", requestURL, true);
+        request.send();
+
+        function dataReportStatus(data) {
+
+            for (let i = 0; i < data.Movie.length; i++) {
+                document.write(data.Movie[i].Name +"<br>")
+
+            }
+        }
+    </script>
 
 
 
