@@ -1,0 +1,68 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #131b28;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.genresPage h5{
+    color: #FFFFFFCC;
+}
+.inerType{
+    position: relative;
+    width: 100%;
+    transition: 0.3s;
+}
+.inerType:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
+.textType{
+    /* display: none; */
+    opacity: 0;
+    transition: opacity 0.35s ease;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    color: #dbdbdb;
+    font-size: 8px;
+    font-weight:600;
+    width: 100%;
+    padding: 10px;
+}
+.inerType:hover .textType{
+    /* display: block; */
+    background: linear-gradient(to top, rgb(26, 34, 51) 50%, rgba(26, 34, 51, 0));
+    border-radius: 3px;
+    opacity: 1;
+}
+.shadeType{
+    border: 0;
+}
+.shadeType img{
+    border-radius: 3px;
+}
+.plusIcon{
+    width: 8px;
+    filter: grayscale(100%);
+}
+.addToWatchList{
+    font-size: 7px;
+}
+.addToWatchList:hover{
+    background-color: rgba(102, 102, 102, 0.432);
+    width: 100%;
+
+}
+.movieDescription{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+    -webkit-box-orient: vertical;
+}
+.titleName{
+    font-size: 12px;
+}
