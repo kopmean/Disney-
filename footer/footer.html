@@ -1,0 +1,159 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<style>
+    body {
+        background-color: #0d111c;
+    }
+
+    .footer{
+        position: relative;
+        color: #fff;
+        padding: 40px 0 40px;
+    }
+
+    .footer-left{
+        box-sizing: border-box;
+        width: 67.5%;
+        margin-left:20px;
+    }
+
+    .footer-mid{
+        width: 12%;
+    }
+
+    .footer-mid p,.footer-right p{
+        font-size: 14px;
+        opacity: 0.8;
+    }
+
+    .footer ul, .footer-left p{
+        margin-top: 0;
+        padding: 0;
+        list-style: none;
+        font-size: 14px;
+    }
+
+    .footer ul li a{
+        color: inherit;
+        text-decoration: none;
+        opacity: 0.8;
+
+    }
+
+    .footer ul li, .footer-left p{
+        display: inline-block;
+        padding: 0 10px;
+    }
+
+    .footer ul li a:hover{
+        color:#1682eb;
+        opacity: 1;
+    }
+
+    .footer-left p{
+        font-size: 13px;
+        opacity: 0.7;
+    }
+
+    .rows{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .sci{
+        display: flex;
+    }
+
+    .sci li{
+        list-style: none;
+    }
+
+    .sci li a{
+        margin-left: -10px;
+        width: 40px;
+        height: 40px;
+        background: #1a2134;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+        border-radius: 4px;
+    }
+
+    .appstore{
+        margin-left: -15px;
+    }
+
+    .playstore img:nth-child(1), .appstore img:nth-child(1){
+        position: absolute;
+        transition: 1;
+        opacity: 0;
+    }
+
+    .playstore img:nth-child(1):hover, .appstore img:nth-child(1):hover{
+        opacity: 1;
+    }
+    
+</style>
+
+<body>
+    
+    <div class="footer">
+        <div class="containers">
+            <div class="rows">
+            <div class="footer-left">
+                <ul class="list">
+                    <li><a href="#">เกี่ยวกับ Disney+ Hotstar</a></li>
+                    <li><a href="#">ข้อตกลงการใช้งาน</a></li>
+                    <li><a href="#">นโยบายความเป็นส่วนตัว (ใหม่)</a></li>
+                    <li><a href="#">คำถามที่พบบ่อย</a></li>
+                    <li><a href="#">ข้อเสนอแนะ</a></li>
+                </ul>
+            <p class="coryright">© 2564 ดิสนีย์และบริษัทในเครือที่เกี่ยวข้อง © 2564 บริษัทผู้อนุญาตให้ใช้สิทธิของดิสนีย์ สงวนสิทธิ์ทุกประการ</p>
+            </div>
+
+            <div class="footer-mid">  
+                <div class="appsocial">
+                    <div>
+                        <p>เชื่อมต่อกับเรา</p>
+                        <ul class="sci">
+                            <li><a href="https://www.facebook.com/DisneyPlusHotstarTH" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+                            <li><a href="https://twitter.com/disneyplusth" target="_blank"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-right">
+                <div class="app">
+                    <div class="wrapper">
+                        <p>แอป Disney+ Hotstar</p>
+                            <a href="https://play.google.com/store/apps/details?id=in.startv.hotstar.dplus" target="_blank" class="playstore">
+                                <img src="image/playhover.svg">
+                                <img src="image/googleplay.svg">
+                            </a>
+                            <a href="https://apps.apple.com/us/app/disney-hotstar/id1524156685" target="_blank" class="appstore">
+                                <img src="image/applehover.svg">
+                                <img src="image/applestore.svg">
+                            </a>
+                    </div>
+                </div>
+            </div>
+        </div>  
+        </div>
+    </div>
+
+</body>
+
+</html>
