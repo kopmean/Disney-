@@ -128,9 +128,12 @@ nav {
 } */
 
 .footer{
-    position: relative;
+    position: absolute;
     color: #fff;
-    padding: 40px 0 40px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
 }
 
 .footer-left{
