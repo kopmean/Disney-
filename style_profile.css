@@ -7,7 +7,12 @@
     position: relative;
 }
 .card:nth-child(1){
+    height: auto;
     background-color: #0d111c;
+}
+.card-img-top{
+    max-width: 30%;
+    height: auto;
 }
 .card:nth-child(2){
     margin: 10px;
@@ -19,6 +24,10 @@
     position: absolute;
     top: 40px;
 }
+
 p{
     font-size: small;
+}
+span{
+    font-size: medium;
 }
