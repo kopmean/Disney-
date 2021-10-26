@@ -1,0 +1,45 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disney+ Hotstar - Watch TV Shows, Movies, Live Cricket Matches & News Online</title>
+    <link rel="icon" href="https://secure-media.hotstar.com/web-assets/prod/D+H_favicon.ico">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style_all_genres.css">
+    <link rel="stylesheet" href="style_header.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+    <button onclick="alert(window.localStorage.getItem('name'))">show name</button>
+
+    <input type="text" id='t'>
+    <button id='c' onclick="change()">change</button>
+    <button onclick="">Clear</button>
+
+    <script>
+        function change() {
+            var t = document.getElementById('t')
+            var local = window.localStorage.getItem('name')
+            local = local.split(',')
+            local.push(t.value);
+            window.localStorage.setItem('name',local)
+        }
+    </script>
+
+
+</body>
+
+</html>

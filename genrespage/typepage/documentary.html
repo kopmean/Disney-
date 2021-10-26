@@ -106,6 +106,7 @@
         </div>
     </div>
     <script>
+
         let requestURL = 'data/documentary.json';
         let request = new XMLHttpRequest();
         request.onreadystatechange = function () {
@@ -129,24 +130,26 @@
                 var html = createElementFromHTML(`<div class="col-3 col-lg-2 p-1">
                     <div class="inerType">
                         <a href="`+ data.Movie[i].Trailer + `" target="_blank">
-                            <div class="card card-img-container shadeType">
-                                <img src="` + data.Movie[i].Image + `"
-                                    alt="">
-                            </div>
-                            <div class="textType">
-                                <span class="titleName">`+ data.Movie[i].Name + `</span>
-                                <div class="sub-info">
-                                    <span>`+ info + `</span>
-                                </div>
-                                <div class="movieDescription">
-                                    `+ data.Movie[i].Description + `
-                                </div>
-                                <div class="addToWatchList" title="เพิ่มในรายการรับชม">
-                                    <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
-                                    <span> เพิ่มในรายการรับชม</span>
-                                </div>
-                            </div>
+                            <div class="img_position"></div>
                         </a>
+                        <div class="card card-img-container shadeType">
+                            <img src="` + data.Movie[i].Image + `"
+                                alt="">
+                        </div>
+                        <div class="textType">
+                            <span class="titleName">`+ data.Movie[i].Name + `</span>
+                            <div class="sub-info">
+                                <span>`+ info + `</span>
+                            </div>
+                            <div class="movieDescription">
+                                `+ data.Movie[i].Description + `
+                            </div>
+                            <div class="addToWatchList" title="เพิ่มในรายการรับชม" onclick="console.log('`+ data.Movie[i] +`')">
+                                <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
+                                <span> เพิ่มในรายการรับชม</span>
+                            </div>
+                        </div>
+
                     </div>
                 </div>`);
                 document.getElementById("addRowDrama").appendChild(html);
