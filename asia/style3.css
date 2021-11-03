@@ -1,0 +1,75 @@
+
+p, h3 {
+    text-align: center;
+}
+
+.header {
+    background-color: #fff;
+    padding-top: 2%;
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    background-color: rgba(199, 196, 196, 0.226);
+}
+
+.header li {
+    display: inline;
+    padding: 15px;
+    font-size: large;
+}
+h1 {
+    padding-top: 10%;
+}
+
+.header li a {
+    color: rgb(53, 53, 53);
+    text-decoration: none;
+}
+
+.header li a:hover {
+    color: rgb(156, 156, 156);
+    text-decoration: none;
+}
+.header :focus{
+    outline: none;
+}
+.main {
+    padding-top: 8%
+}
+.card {
+    width: 100%;
+}
+
+#sd1 {
+  width: 100%;
+  display: block;
+}
+.col-md-12 {
+  text-align: center;
+  padding-left: 0%;
+}
+
+.slider .slick-next::before {
+    font-family: 'fontawesome';
+    content: url(https://de3mgg6o5o9w.cloudfront.net/_780x546_crop_center-center_none/5198/Pinch_Yves_20200489.webp?mtime=20201103111436&focal=none&tmtime=20201123182020);
+}
+.slider .slick-prev::before{
+    font-family: 'fontawesome';
+    content: url(slide1.png);
+}
+.slider .slick-next::before {
+    font-family: 'fontawesome';
+    content: url(https://de3mgg6o5o9w.cloudfront.net/_780x546_crop_center-center_none/5198/Pinch_Yves_20200489.webp?mtime=20201103111436&focal=none&tmtime=20201123182020);
+}
+.slider .slick-prev::before{
+    font-family: 'fontawesome';
+    content: url(slide1.png);
+}
+.p1 {
+    background-color:rgba(96, 186, 228, 0.445);;
+}
+#txt2 {
+    padding-left: 7%;
+    height: 7%;
+    padding-top: 1%;
+}

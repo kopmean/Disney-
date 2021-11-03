@@ -1,0 +1,289 @@
+{
+    "Top_Box_Office": [{
+        "id": "TB0",
+        "Name": "นครนรก ซอมบี้คลั่ง",
+        "Description": "เรื่องราวที่เกิดขึ้นในเกาหลีสมัยโชซอน เมื่อ องค์ชายกังลิม โอรสของกษัตริย์และนักสู้ฝีมือฉกาจที่สุดของอาณาจักรโชซอน ถูกเรียกตัวกลับบ้านเกิดเพื่อช่วยต่อสู้กับฝูงซอมบี้คลั่งกระหายเลือด ในขณะที่ เสนาบดี คิม จาจุน ...",
+        "Type": ["Action"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6779/1016779-v-e11521c60109",
+        "Trailer": "https://www.youtube.com/watch?v=a5-8s6k8lsM"
+    }, {
+        "id": "TB1",
+        "Name": "ก็อตซิลล่า",
+        "Description": "เมื่อการปรากฏตัวขึ้นมาอีกครั้งของก็อดซิลล่าสร้างความโกลาหลวุ่นวาย รัฐบาลญี่ปุ่นจึงต้องลุกขึ้นสู้เพื่อปกป้องประเทศให้รอดจากหายนะครั้งยิ่งใหญ่...",
+        "Type": ["Science"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6784/1016784-v-21cd0d2b1f8e",
+        "Trailer": "https://www.youtube.com/watch?v=gTJbOIfZFFo"
+    }, {
+        "id": "TB2",
+        "Name": "FRIEND ZONE ระวัง..สิ้นสุดทางเพื่อน",
+        "Description": "ปาล์ม ผู้ติดอยู่ในเฟรนโซนกับ กิ๊ง เพื่อนสนิทที่คบกันมานาน พบโอกาสสำคัญ ที่อาจทำให้เขาได้เริ่มต้นทางแฟน หรือไม่ก็อาจทำให้สิ้นสุดทางเพื่อนกับกิ๊ง...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/8540/1028540-v-c10f0dd2c12d",
+        "Trailer": "https://www.youtube.com/watch?v=4S81gZQ68LE"
+    }, {
+        "id": "TB3",
+        "Name": "The Banquet",
+        "Description": "องค์ชายผู้ถูกขับออกจากแผ่นดิน กลับมาทวงบัลลังก์คืนจากพระเจ้าอาที่ฆ่าพระบิดาของเขาเพื่อสถาปนาตนเป็นจักรพรรดิ แต่หนทางกลับไม่ง่ายเมื่อมีหลายฝ่ายพยายามช่วงชิงอำนาจ...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3595/1023595-v-e21c50c84aa8",
+        "Trailer": "https://www.youtube.com/watch?v=MrS6_3zEyjk"
+    }, {
+        "id": "TB4",
+        "Name": "ชนชั้นปรสิต",
+        "Description": "เมื่อลูกชายคนโตได้รับข้อเสนอจากเพื่อนสนิทให้ได้งานติวหนังสือให้กับลูกสาวของ “เศรษฐี”  หนึ่งครอบครัวไฮโซกับหนึ่งครอบครัวโลว์คลาส ใครคือชนชั้นปรสิต?...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6782/1016782-v-107e61978068",
+        "Trailer": "https://www.youtube.com/watch?v=Y2XkgNlmTMQ"
+    }, {
+        "id": "TB5",
+        "Name": "Ip Man 4",
+        "Description": "ปรมาจารย์หวิงชุนมาที่สนามประลองใหม่ในซานฟรานซิสโก ที่ที่เขาได้กลับมาพบกับบรูซ ลี และประลองฝีมือกับผู้เชี่ยวชาญด้านศิลปะการต่อสู้ในพื้นที่...",
+        "Type": ["Action"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6091/866091-v",
+        "Trailer": "https://www.youtube.com/watch?v=oCBGTCNJW2g"
+    }, {
+        "id": "TB6",
+        "Name": "ถ้าแมวตัวนั้นหายไปจากโลกนี้",
+        "Description": "ชายหนุ่มที่ป่วยด้วยโรคร้ายมีเพื่อนสนิทที่สุดคือแมวที่หลงทางมา ในคืนที่เขาใกล้ตายเขาได้ข้อเสนอจากยมทูตที่จะช่วยยืดชีวิตให้ แต่ต้องแลกกับของ 1 ชิ้น...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9427/1029427-v-12650c81d5d5",
+        "Trailer": "https://www.youtube.com/watch?v=7lv1_eohHLs"
+    }, {
+        "id": "TB7",
+        "Name": "เกรียน ฟิคชั่น",
+        "Description": "เมื่อตี๋เกิดจับผลัดจับผลูได้เป็นพระเอกละครเวที อันนำความหายนะมาสู่พลอยดาวตัวท็อปโรงเรียน ถึงขั้นที่แก๊งเกรียนต้องกลายเป็นเหมือนฝันร้ายของโรงเรียนทันที...",
+        "Type": ["Comedy"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6305/1016305-v-40c26a7424fe",
+        "Trailer": "https://www.youtube.com/watch?v=PGEvrJPBykk"
+    }, {
+        "id": "TB8",
+        "Name": "ฝ่า 7 นรก ไปกับพระเจ้า",
+        "Description": "นักดับเพลิงหนุ่มคิม จาฮงและผู้พิทักษ์ทั้งสามต้องฝ่าด่านมหันตภัยแห่งขุมนรกของบาปทั้ง 7 เพื่อพิสูจน์ตัวตนให้กลับมาเกิดใหม่อีกครั้งภายในกำหนดเวลา 49 วัน...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9422/1029422-v-7b8913ab073e",
+        "Trailer": "https://www.youtube.com/watch?v=9T0wa7LimfA"
+    }, {
+        "id": "TB9",
+        "Name": "แฟนฉัน",
+        "Description": "เมื่อ เจี๊ยบ รู้ว่า น้อยหน่า เพื่อนซี้สมัยเด็กจะแต่งงาน เจี๊ยบ ก็หวนคิดถึงวันวาน มีหลายสิ่งเปลี่ยนไป แต่เด็กหญิงคนนั้นยังคงเหมือนเดิมในความทรงจำตลอดมา...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6373/1006373-v-1c7a6566b4e6",
+        "Trailer": "https://www.youtube.com/watch?v=yU6ioogL1Zo"
+    }],
+
+    "Thai_Movies_&_Series": [{
+        "id": "TM0",
+        "Name": "ชัตเตอร์ กดติดวิญญาณ",
+        "Description": "ธรรม์ ช่างภาพหนุ่ม เจอเหตุการณ์แปลกประหลาดที่เกิดกับรูปถ่ายของเขา จึงเป็นจุดเริ่มต้นที่ทำให้ต้องเผชิญกับเรื่องราวไม่คาดฝันและค้นพบความลับที่ซ่อนอยู่...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6274/1016274-v-dc43678c00e6",
+        "Trailer": "https://www.youtube.com/watch?v=o6iKfzac8lI"
+    }, {
+        "id": "TM1",
+        "Name": "โหมโรง",
+        "Description": "ศรผูกพันกับดนตรีไทยมาตั้งแต่เกิด จนกลายมาเป็นครูดนตรีคนสำคัญแต่เมื่อดนตรีไทยเริ่มถูกปิดกั้นจากทางรัฐบาลเขาก็ยังหาญกล้าต่อสู้เพื่อรักษาสิ่งที่รักไว้...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6759/1016759-v-a09cd6dff2bf",
+        "Trailer": "https://www.youtube.com/watch?v=nq596qeX8Vc"
+    }, {
+        "id": "TM2",
+        "Name": "รถไฟฟ้ามาหานะเธอ",
+        "Description": "หลังจากโชคชะตานำพาเธอมาพบกับ ลุง วิศวกรรถไฟฟ้ากะดึก เหมยลี่ สาววัย 30 จะต้องต่อสู้ทุกทาง เพื่อคว้าโอกาสสุดท้ายของคนโสดไว้ ไม่ให้หลุดมือ...",
+        "Type": ["Romance", "Comedy"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6362/1006362-v-1de11ee05e6f",
+        "Trailer": "https://www.youtube.com/watch?v=ZSMUF8izOJM"
+    }, {
+        "id": "TM3",
+        "Name": "นาคปรก",
+        "Description": "เมื่อสามโจรนำเงินที่ปล้นมาได้แอบซ่อนไว้ในวัด แต่เมื่อที่ซ่อนเงินถูกโบสถ์ใหม่สร้างทับไปแล้ว ทางเดียวที่จะทำให้ได้เงินคืนมาคือการปลอมเป็นพระในวัดนั้น...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6294/1016294-v-8b541e7e8915",
+        "Trailer": "https://www.youtube.com/watch?v=KaL3EvLyC20"
+    }, {
+        "id": "TM4",
+        "Name": "ไอฟาย..แต๊งกิ้ว..เลิฟยู้",
+        "Description": "หลังจากหมดหวังในการไปอเมริกาเพื่อกลับไปง้อแฟนสาว ยิม ได้จ้าง ครูเพลง ติวเตอร์เพื่อมาสอนภาษาอังกฤษ แต่สิ่งต่างๆ กลับไม่เป็นไปตามแพลน...",
+        "Type": ["Romance", "Comedy"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6162/1006162-v-84afb4ac7246",
+        "Trailer": "https://www.youtube.com/watch?v=ELFL42u8mv8"
+    }, {
+        "id": "TM5",
+        "Name": "รักแห่งสยาม",
+        "Description": "เรื่องราวหลากความรักของหลายชีวิตที่ถูกโยงใยด้วยมิตรภาพ และถูกถ่ายทอดผ่านบทเพลงรักที่จะทำให้ทุกคนได้สัมผัสกับช่วงเวลาอบอุ่นที่จะอยู่ในความทรงจำตลอดไป...",
+        "Type": ["Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9512/1029512-v-ad79ed2a3fd0",
+        "Trailer": "https://www.youtube.com/watch?v=xaFHCHO691k"
+    }, {
+        "id": "TM6",
+        "Name": "ยักษ์",
+        "Description": "เรื่องราวมิตรภาพและการเดินทางผจญภัยของเจ้าหุ่นยนต์ 2 ตัว น้าเขียวและเจ้าเผือกที่ดูๆไปแล้วไม่มีสิ่งใดที่จะเหมือนกันสักนิดเดียวก็ได้เริ่มต้นขึ้น...",
+        "Type": ["Family"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6800/1016800-v-270a0366021c",
+        "Trailer": "https://www.youtube.com/watch?v=38c5W7jjt28"
+    }, {
+        "id": "TM7",
+        "Name": "น้อง.พี่.ที่รัก",
+        "Description": "ชัช กับ เจน พี่น้องที่ตีกันได้ทุกเรื่อง เมื่อชัชรู้เข้า ว่าเจนกำลังปิดบังความรักของเธอกับโมจิ มีหรือที่ชัชจะยอมให้เกิดขึ้น...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6260/1016260-v-34d5343b167a",
+        "Trailer": "https://www.youtube.com/watch?v=_7hMVZ25vQg"
+    }, {
+        "id": "TM8",
+        "Name": "ห้าวเป้งจ๋า อย่าแกงน้อง",
+        "Description": "ภารกิจเทรนไอดอล “CGM48” ทั้ง 25 คน ด้วยสุดยอดไอคอนแถวหน้าในวงการ ไร้บท ไร้เทก ไร้การคาดเดางานนี้อะไรที่ไม่คาดคิดก็เกิดขึ้นได้...",
+        "Type": ["Comedy"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9436/1029436-v-64fcbd35d095",
+        "Trailer": "https://www.youtube.com/watch?v=xQ4rb0lh66A"
+    }, {
+        "id": "TM9",
+        "Name": "Eng and Chang",
+        "Description": "อินจันหันหลังให้กับชื่อเสียงในฐานะแฝดสยาม ทั้งสองมีความมุ่งมั่นที่จะผ่าแยกร่างออกจากกัน เพื่อที่จะได้มีโอกาสในการใช้ชีวิตอย่างอิสระกับคนที่เขารัก...",
+        "Type": ["Drama", "Disney"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9657/1059657-v-42a186d78857",
+        "Trailer": "https://www.youtube.com/watch?v=3oKlGkxWnOI"
+    }],
+
+    "Chinese Movies & Series": [{
+        "id": "CM0",
+        "Name": "I WeirDo",
+        "Description": "ป๋อชิงคือคนไข้โรคย้ำคิดย้ำทำและความแปลกของเขาทำให้เขาถูกตราหน้าเป็นตัวประหลาด วันหนึ่ง เขาได้พบกับคนแปลกอีกคนที่ชื่อเฉินจิ้ง โชคชะตานำพาทั้งสองมาพบกัน...",
+        "Type": ["Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2713/1012713-v-76cff872edc7",
+        "Trailer": "https://www.youtube.com/watch?v=-i2MpTzctgM"
+    }, {
+        "id": "CM1",
+        "Name": "Precious Is The Night",
+        "Description": "A writer finishes his novel based on the murder of a starlet, featuring a doctor bearing a resemblance to himself. The two want to run away together. The desperate couple try to seize the night and their last chance for love, but it might be ...",
+        "Type": ["Thriller"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4353/1044353-v-2b1ac9b60450",
+        "Trailer": "https://www.youtube.com/watch?v=p7qgGL4sapQ"
+    }, {
+        "id": "CM2",
+        "Name": "Lost in Hong Kong",
+        "Description": "ชายหนุ่มผู้เคยมีความฝันที่จะเป็นจิตรกรกลับกลายมาเป็นชายวัยกลางคนที่ต้องละทิ้งอุดมการณ์ของเขา...",
+        "Type": ["Action", "Comedy"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3540/1023540-v-81bf84fce147",
+        "Trailer": "https://www.youtube.com/watch?v=42gNEmpCeL0"
+    }, {
+        "id": "CM3",
+        "Name": "Line Walker 2",
+        "Description": "หลังเปิดโปงหลักฐานว่ามีการทุจริตในกรมตำรวจ เจ้าหน้าที่ตำรวจสามคนในฮ่องกงพยายามค้นหาว่าใครที่สามารถเชื่อใจได้...",
+        "Type": ["Crime", "Action"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6260/986260-v",
+        "Trailer": "https://www.youtube.com/watch?v=dafZ9HYoKyU"
+    }, {
+        "id": "CM4",
+        "Name": "Temporary Family",
+        "Description": "แฟนสาวของหลุงจะไม่ยอมแต่งงานกับเขาจนกว่าเขาจะซื้ออพาร์ตเมนต์ขนาด 1,000 ตารางฟุตให้เธอให้ได้ภายในหนึ่งปี...",
+        "Type": ["Comedy"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6514/866514-v",
+        "Trailer": "https://www.youtube.com/watch?v=cbPQ0aDRpUY"
+    }, {
+        "id": "CM5",
+        "Name": "We Are Champions",
+        "Description": "สองพี่น้องวัยรุ่นซึ่งเกิดมาในสังคมชั้นล่างไม่มีอะไรติดตัวเลยนอกจากความหวังที่ว่าจะเปลี่ยนโชคชะตาของเขาด้วยความรักที่มีต่อบาสเกตบอล...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7447/887447-v",
+        "Trailer": "https://www.youtube.com/watch?v=ZmIdP8A40bU"
+    }, {
+        "id": "CM6",
+        "Name": "The Accidental Spy",
+        "Description": "ไป่ พนักงานขายอุปรณ์ออกกำลัง เฝ้าฝันถึงการผจญภัย อยู่มาวันหนึ่งไป่ก็ตัดสินใจเชื่อสัญชาตญาณของเขา และติดตามชายสองคนที่ดูน่าสงสัยไป...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6516/866516-v",
+        "Trailer": "https://www.youtube.com/watch?v=ozFwfBtZSzU"
+    }, {
+        "id": "CM7",
+        "Name": "L Storm",
+        "Description": "วิลเลี่ยม หลก เจ้าหน้าที่สอบสวนของไอซีเอซี และเหลา หัวหน้านักสืบของเจเอฟไอยู ทั้งคู่ช่วยกันสืบคดีติดสินบนและฟอกเงินแต่กลับพบทางตัน...",
+        "Type": ["Crime", "Thriller"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6129/866129-v",
+        "Trailer": "https://www.youtube.com/watch?v=SKsep1bLh4Q"
+    }, {
+        "id": "CM8",
+        "Name": "Drug War",
+        "Description": "เมื่อผู้ตรวจสอบจางจากจีนแผ่นดินใหญ่พบกับชายชาวฮ่องกง ไฉ ที่ประสบอุบัติเหตุรถยนต์เพราะพิษจากสารเคมีที่โรงพยาบาล...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6495/866495-v",
+        "Trailer": "https://www.youtube.com/watch?v=yVRd40bOPpk"
+    }, {
+        "id": "CM9",
+        "Name": "A Chinese Odyssey Part I - Pandora's Box",
+        "Description": "การผจญภัยสุดแฟนตาซีเกี่ยวกับการเริ่มต้นของพุทธศาสนาที่ประเทศจีน เมื่อพระยูไลให้พระถังซัมจั๋งและลูกศิษย์ของเขาลงจากสวรรค์และออกเดินทางทำภารกิจอีกครั้ง...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6645/986645-v",
+        "Trailer": "https://www.youtube.com/watch?v=ayb4McG-xQY"
+    }],
+
+    "Award-Winning": [{
+        "id": "AW0",
+        "Name": "Sky Hunter",
+        "Description": "นักบินของกองทัพอากาศหลายคนได้รับการทดสอบอย่างกะทันหันเพื่อคัดเลือกเข้าฐานทัพอากาศลับที่เรียกว่าสกาย ฮันเตอร์...",
+        "Type": ["Action"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6398/986398-v",
+        "Trailer": "https://www.youtube.com/watch?v=_bVG7QrIfvI"
+    }, {
+        "id": "AW1",
+        "Name": "The Golden Era",
+        "Description": "เรื่องราวชีวิตของเสี่ยวหง นักเขียนเรียงความและนิยายชื่อดังของจีน ผู้ที่สะท้อนให้เห็นถึงหลักการคิดที่ก้าวหน้า ซึ่งยากที่จะหาได้ในทศวรรษ 1930...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7438/887438-v",
+        "Trailer": "https://www.youtube.com/watch?v=f0L7CDccwpY"
+    }, {
+        "id": "AW2",
+        "Name": "The Silence Forest",
+        "Description": "วัยรุ่นหูหนวกคนหนึ่งย้ายไปโรงเรียนสำหรับเด็กพิเศษ แต่ความตื่นเต้นของเขาหายไปเมื่อได้เห็น 'เกม' ที่ชวนให้ไม่สบายใจบนรถโรงเรียน...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2701/1012701-v-c80e3848c013",
+        "Trailer": "https://www.youtube.com/watch?v=NZQ9at8jRBE"
+    }, {
+        "id": "AW3",
+        "Name": "You Are The Apple of My Eye",
+        "Description": "กลุ่มเพื่อนสนิทในโรงเรียนเอกชนพากันปิ๊งนักเรียนดาวเด่น เสิ่นเจียอี๋...",
+        "Type": ["Comedy", "Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7455/887455-v",
+        "Trailer": "https://www.youtube.com/watch?v=v5H6wE47FrI"
+    }, {
+        "id": "AW4",
+        "Name": "โลกนี้รักใครไม่ได้นอกจากเขา",
+        "Description": "ไหลเยี่ยฟาและโหเป่าหวังคู่รักชายหนุ่มเดินทางมายังอาร์เจนตินา แต่นับวันที่อยู่ด้วยกันกลายเป็นความสัมพันธ์ที่ทั้งรักทั้งเกลียดทั้งอุ่นใจและเสียน้ำตา...",
+        "Type": ["Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6797/1016797-v-8a82f4d855e7",
+        "Trailer": "https://www.youtube.com/watch?v=8dqersdqUHE"
+    }, {
+        "id": "AW5",
+        "Name": "Guang",
+        "Description": "ประกายฝันจากแรงบันดาลใจในวัยเด็กทำให้หนุ่มออทิสติกออกเดินทางเพื่อสะสมเครื่องแก้วแสนปราณีต แต่ก็ทำให้ความสัมพันธ์กับน้องชายแย่ลงด้วย...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6128/986128-v",
+        "Trailer": "https://www.youtube.com/watch?v=NskH1--rZwI"
+    }, {
+        "id": "AW6",
+        "Name": "At Café 6",
+        "Description": "รถของมิสเหลียงเสียในคืนที่ฝนตก เจ้าของร้านกาแฟช่วยเหลือและชวนเธอมาที่คาเฟ่ 6 ซึ่งเป็นร้านของเขา และเริ่มเล่าเรื่องราวในอดีตให้ฟัง...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3674/943674-v",
+        "Trailer": "https://www.youtube.com/watch?v=IkYjt7jaWzc"
+    }, {
+        "id": "AW7",
+        "Name": "29+1",
+        "Description": "สองสาวอายุย่าง 30 ที่มีบุคลิกและทัศนคติที่ต่างกันสุดขั้วต้องโคจรมาอยู่ที่เดียวกัน ทำให้ได้สานสัมพันธ์และเห็นมุมมองของอีกฝ่ายที่ทำให้ชีวิตพวกเธอเปลี่ยนไป...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6641/986641-v",
+        "Trailer": "https://www.youtube.com/watch?v=F8NuSFX-ltE"
+    }, {
+        "id": "AW8",
+        "Name": "ห้วงรักอารมณ์แสน่หา",
+        "Description": "เมื่อคนเหงาอยู่ใกล้คนเหงา ยิ่งคุณนายชานได้เจอคุณเชาบ่อยเข้า ความรู้สึกผูกพันก็ยิ่งลึกซึ้งกลายเป็น ความสัมพันธ์ต้องห้าม ที่ไม่ว่าใครก็ยากจะห้ามใจได้...",
+        "Type": ["Romance"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9486/1029486-v-21fcc94818da",
+        "Trailer": "https://www.youtube.com/watch?v=iKx7XlbiDkQ"
+    }, {
+        "id": "AW9",
+        "Name": "77 Days",
+        "Description": "นี่คือภาพยนตร์ที่ได้แรงบันดาลใจจากเรื่องจริง เรื่องราวของหยาง เด็กสาวที่ต้องนั่งรถเข็น ผู้มุ่งมั่นที่จะข้ามเขตมรณะเฉียงถังเพื่อทำตามเป้าหมายที่วางไว้ หลังได้รับกำลังใจจากหลานเทียน...",
+        "Type": ["Drama"],
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5957/865957-v",
+        "Trailer": "https://www.youtube.com/watch?v=MPKAidC-_E4"
+    }]
+}
