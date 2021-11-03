@@ -39,7 +39,7 @@
     .slick-next:before {
       color: rgb(255, 0, 0);
       background-color: black;
-      
+
     } */
     /* .slick-prev:before {
       content: "";
@@ -170,12 +170,11 @@
     $(document).on('ready', function () {
       $(".regular").slick({
         dots: false,
-        infinite: true,
+        infinite: false,
         slidesToShow: 8,
         slidesToScroll: 8,
         prevArrow: ".arrow_prev",
         nextArrow: ".arrow_next"
-
       });
     });
   </script>

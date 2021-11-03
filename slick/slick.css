@@ -1,0 +1,159 @@
+body{
+    background-color: rgb(173, 173, 173);
+}
+
+.titleAsia{
+    color: #fff;
+    opacity: 0.9;
+    padding-left: 4%;
+    text-transform: capitalize;
+    font-size: 22px;
+    font-weight: 500;
+}
+.asia-list{
+    width: 100%;
+    height: 220px;
+    position: relative;
+    margin: 10px 0 20px;
+}
+.card-container-asia{
+    position: absolute;
+    width: 100%;
+    padding-left: 10px;
+    height: 220px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    overflow-x: auto;
+    overflow-y: visible;
+    scroll-behavior: smooth;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.card-container-asia::-webkit-scrollbar{
+    display: none;
+}
+.card-asia{
+    position: relative;
+    min-width: 150px;
+    width: 150px;
+    height:200px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-right: 10px;
+    transition: .5s;
+    background-color: #000;
+}
+
+.card-asia-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.card-asia:hover{
+    transform: scale(1.1);
+}
+.card:hover .card-asia-body{
+    opacity: 1;
+}
+.card-asia-body{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    background: linear-gradient(to bottom, rgba(4, 8, 15, 0), #192133 90%);
+    padding: 10px;
+    transition: 0.5s;
+}
+
+.movie-asia-name{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-top: 60%;
+}
+.movie-asia-type{
+    color: #fff;
+    opacity: 0.8;
+    margin: 5px 0;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.movie-asia-des{
+    color: #fff;
+    opacity: 0.8;
+    margin: 5px 0;
+    font-weight: 500;
+    font-size: 10px;
+}
+.plusIcon{
+    width: 7px;
+    filter: grayscale(100%);
+}
+.watchlist-div{
+    text-align: left;
+}
+.watchlist-btn {
+    position: absolute;
+    width: 88%;
+    text-transform: capitalize;
+    background: none;
+    border: none;
+    font-size: 10px;
+    font-weight: 500;
+    text-align: right;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 5px 0;
+    cursor: pointer;
+    padding: 0 5px;
+    border-radius: 5px;
+
+}
+.watchlist-btn:hover{
+    color: #fff;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.pre-asia-btn,
+.nxt-asia-btn{
+    position: absolute;
+    top: 0;
+    width: 5%;
+    height: 100%;
+    z-index: 2;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+.pre-asia-btn{
+    left: 0;
+    background: none;
+    text-align: left;
+}
+.pre-asia-btn:hover{
+    background: linear-gradient(to right, #0c111b 0%, #0c111b00);
+}
+
+.nxt-asia-btn{
+    right: 0;
+    background: none;
+    text-align: right;
+}
+.nxt-asia-btn:hover{
+    background: linear-gradient(to left, #0c111b 0%, #0c111b00);
+}
+
+.pre-asia-btn i,
+.nxt-asia-btn i{
+    font-size: 20px;
+    opacity: 0;
+    color: #fff;
+}
+.pre-asia-btn:hover i,
+.nxt-asia-btn:hover i{
+    opacity: 3;
+}
