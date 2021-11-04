@@ -27,8 +27,8 @@ body{
     overflow-x: auto;
     overflow-y: visible;
     scroll-behavior: smooth;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 .card-container-asia::-webkit-scrollbar{
     display: none;
