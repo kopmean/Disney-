@@ -4,70 +4,70 @@
         "Name": "Avengers: Endgame",
         "Description": "จักรวาลถูกทำลายไปครึ่งหนึ่ง หลังธานอสดีดนิ้ว ด้วยความช่วยเหลือของกลุ่มพันธมิตร เหล่าอเวนเจอร์สกลับมารวมตัวกันอีกครั้ง เพื่อแก้ไขหายนะที่ธานอสก่อไว้และคืนสมดุลสู่จักรวาล...",
         "Type": ["Superhero", "Action"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/7460/627460-h",
+        "Image": "1.jpg",
         "Trailer": "https://www.hotstar.com/th/avengers-endgame-trailer/1260019965?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
     }, {
         "id": "SU1",
         "Name": "Avengers: Infinity War",
         "Description": "เมื่อธานอสผู้ทรงพลังเข้าใกล้พลังแห่งการทำลายล้างเหนือจักรวาล เหล่าอเวนเจอร์สและพันธมิตรซูเปอร์ฮีโร่ต้องยอมเสี่ยงทุกอย่าง ในการศึกครั้งสุดท้ายที่ยิ่งใหญ่ที่สุด...",
         "Type": ["Superhero", "Action"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/3749/643749-h",
+        "Image": "2.jpg",
         "Trailer": "https://www.hotstar.com/th/avengers-infinity-war-trailer/1260021710?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
     }, {
         "id": "SU2",
         "Name": "Thor: Ragnarok",
         "Description": "เมื่อปราศจากค้อนโยเนียร์อันทรงพลัง ธอร์ต้องหลบหนีไปยังอีกฝั่งของจักรวาลเพื่อปกป้องแอสการ์ด บ้านของเขาจาก เฮลา เทพีแห่งความตาย...",
         "Type": ["Superhero", "Action"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6963/636963-h",
+        "Image": "3.jpg",
         "Trailer": "https://www.hotstar.com/th/thor-ragnarok-trailer/1260020808?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
     }, {
         "id": "SU3",
         "Name": "Black Panther",
         "Description": "ทีชัลลา รัชทายาทแห่งอาณาจักรวากานด้าสุดล้ำสมัยที่ซ่อนตัวอยู่ ต้องก้าวขึ้นเป็นผู้นำประชาชนไปสู่อนาคตใหม่ และเผชิญหน้ากับผู้ท้าทายจากอดีตที่กลับมาชิงบัลลังก์...",
         "Type": ["Superhero", "Action"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/3786/663786-h",
+        "Image": "4.jpg",
         "Trailer": "https://www.hotstar.com/th/black-panther-trailer/1260020786?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
     }, {
         "id": "SU4",
         "Name": "Avengers: Age Of Ultron",
         "Description": "โทนี่ สตาร์คสร้างอัลตรอน ระบบปัญญาประดิษฐ์ขึ้นมาด้วยความช่วยเหลือของบรูซ แบนเนอร์ และเมื่อเกิดความผิดพลาด เหล่าฮีโร่ที่ทรงพลังที่สุดของโลกก็ต้องหยุดอัลตรอนจอมวายร้ายจากแผนการครองโลก...",
         "Type": ["Superhero", "Action"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3788/663788-h",
+        "Image": "5.jpg",
         "Trailer": "https://www.hotstar.com/th/avengers-age-of-ultron-trailer/1260022060?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
     }, {
         "id": "SU5",
         "Name": "Captain Marvel",
         "Description": "'สูงกว่า ไกลกว่า ไวกว่า' พบฮีโร่ที่ทรงพลังที่สุดในจักรวาลมาร์เวล เมื่อแครอล แดนเวอร์สได้รับพลังลึกลับ เธอจึงต้องช่วยโลกจากสงครามของสองเผ่าพันธุ์ต่างดาว...",
         "Type": ["Superhero", "Action"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7446/627446-h",
+        "Image": "6.jpg",
         "Trailer": "https://www.hotstar.com/th/captain-marvel-trailer/1260019963?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
     }, {
         "id": "SU6",
         "Name": "Captain America: Civil War",
         "Description": "การตัดสินใจของรัฐบาลในการผลักดันพระราชบัญญัติการขึ้นทะเบียนฮีโร่เพื่อควบคุมฮีโร่ทำให้เกิดความแตกแยกระหว่างอเวนเจอร์สและฮีโร่คนอื่นๆ...",
         "Type": ["Superhero"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/3794/663794-h",
+        "Image": "7.jpg",
         "Trailer": "https://www.hotstar.com/th/captain-america-civil-war-trailer/1260020701?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
     }, {
         "id": "SU7",
         "Name": "Marvel's The Avengers",
         "Description": "เมื่อศัตรูที่ไม่คาดคิดปรากฏตัวและคุกคามชะตากรรมมนุษยชาติ นิค ฟิวรี่ ผอ.หน่วยชีลด์จึงต้องการทีมที่จะช่วยโลกจากหายนะครั้งนี้ เขาจึงรวบรวมเหล่าฮีโร่ขึ้นมาเพื่อปกป้องโลก...",
         "Type": ["Superhero", "Action"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/3284/653284-h",
+        "Image": "8.jpg",
         "Trailer": "https://www.hotstar.com/th/marvels-the-avengers-trailer/1260022956?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance" 
     }, {
         "id": "SU8",
         "Name": "Incredibles 2",
         "Description": "ครอบครัวซูเปอร์ฮีโร่อันเป็นที่รักกลับมาผจญภัยอีกครั้ง มิสเตอร์อินเครดิเบิ้ลถูกทิ้งให้เลี้ยงลูกน้อย ส่วนภรรยาออกไปปกป้องโลก แต่ครอบครัวกลับต้องลำบากเมื่อวายรายที่ทรงพลังตัวใหม่มาถึง...",
         "Type": ["Kids", "Superhero"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3765/663765-h",
+        "Image": "9.jpg",
         "Trailer": "https://www.hotstar.com/th/incredibles-2-trailer/1260021937?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance" 
     }, {
         "id": "SU9",
         "Name": "Doctor Strange",
         "Description": "ดร. สเตรนจ์ ศัลยแพทย์มือหนึ่งต้องเสียความสามารถไปเพราะอุบัติเหตุ แต่เขาฝึกฝนจนได้พลังเวทย์มนตร์มา เขาต้องเลือกว่าจะกลับไปสู่ชีวิตหรูหรือทิ้งทุกอย่างไปปกป้องโลกในฐานะพ่อมดที่ทรงพลังที่สุด...",
         "Type": ["Superhero", "Action"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/7160/637160-h",
+        "Image": "10.jpg",
         "Trailer": "https://www.hotstar.com/th/doctor-strange-trailer/1260020838?utm_source=google&utm_medium=search&utm_campaign=th-disneyplus-aoperformance"
     }]
 }
