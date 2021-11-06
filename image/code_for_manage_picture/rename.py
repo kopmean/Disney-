@@ -1,7 +1,7 @@
 import os
 
 def main():
-    paths = "E:/Github/Disney-/image/family/"
+    paths = "E:/Github/Disney-/image/wildlife/"
     for count, filename in enumerate(os.listdir(paths)):
         dst = str(count+1) + ".jpg"
         src = paths+filename
