@@ -7,7 +7,7 @@
             "Type": [
                 "Action"
             ],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6784/1016784-v-21cd0d2b1f8e",
+            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6779/1016779-v-e11521c60109",
             "Trailer": "https://www.youtube.com/watch?v=a5-8s6k8lsM"
         },
         {
@@ -101,7 +101,7 @@
             "Trailer": "https://www.youtube.com/watch?v=yU6ioogL1Zo"
         }
     ],
-    "Thai_Movies_&_Series": [
+    "Thai_Movies_Series": [
         {
             "id": "TM0",
             "Name": "ชัตเตอร์ กดติดวิญญาณ",
@@ -206,7 +206,7 @@
             "Trailer": "https://www.youtube.com/watch?v=3oKlGkxWnOI"
         }
     ],
-    "Chinese Movies & Series": [
+    "Chinese_Movies_Series": [
         {
             "id": "CM0",
             "Name": "I WeirDo",
@@ -311,7 +311,7 @@
             "Trailer": "https://www.youtube.com/watch?v=ayb4McG-xQY"
         }
     ],
-    "Award-Winning": [
+    "Award_Winning": [
         {
             "id": "AW0",
             "Name": "Sky Hunter",

@@ -23,7 +23,7 @@
 <body>
 
     <div #swiperRef="" class="swiper mySwiper">
-        <div class="swiper-wrapper" id="add-swiper1">
+        <div class="swiper-wrapper container-fluid" id="add-swiper1">
         </div>
         <div class="swiper-button-next"></div>
         <div class="swiper-button-prev"></div>
@@ -34,23 +34,15 @@
         <div class="swiper-button-next"></div>
         <div class="swiper-button-prev"></div>
     </div>
+    <div #swiperRef="" class="swiper mySwiper">
+        <div class="swiper-wrapper" id="add-swiper3">
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
 
-    <!-- Initialize Swiper -->
-    <script>
-        var swiper = new Swiper(".mySwiper", {
-            slidesPerView: 8,
-            spaceBetween: 8,
-            slidesPerGroup: 8,
-            pagination: {
-                el: ".swiper-pagination",
-                type: "fraction",
-            },
-            navigation: {
-                nextEl: ".swiper-button-next",
-                prevEl: ".swiper-button-prev",
-            },
-        });
-    </script>
+
+
 
     <script>
         let requestURL = 'asia.json';
@@ -60,12 +52,14 @@
                 dataReportStatus(JSON.parse(request.responseText));
             }
         };
-        request.open("GET", requestURL, true);
+        request.open("GET", requestURL, false);
         request.send();
 
         function dataReportStatus(data) {
             for (var i = 0; i < data.Top_Box_Office.length; i++) {
                 var info = "";
+                var add = "";
+                // if ()
                 for (var j = 0; j < data.Top_Box_Office[i].Type.length; j++) {
                     info += data.Top_Box_Office[i].Type[j]
                     if (j != data.Top_Box_Office[i].Type.length - 1) {
@@ -99,29 +93,29 @@
                 document.getElementById("add-swiper1").appendChild(html);
             }
 
-            for (var i = 0; i < data.Top_Box_Office.length; i++) {
+            for (var i = 0; i < data.Thai_Movies_Series.length; i++) {
                 var info = "";
-                for (var j = 0; j < data.Top_Box_Office[i].Type.length; j++) {
-                    info += data.Top_Box_Office[i].Type[j]
-                    if (j != data.Top_Box_Office[i].Type.length - 1) {
+                for (var j = 0; j < data.Thai_Movies_Series[i].Type.length; j++) {
+                    info += data.Thai_Movies_Series[i].Type[j]
+                    if (j != data.Thai_Movies_Series[i].Type.length - 1) {
                         info += `, `;
                     }
                 }
                 var html = createElementFromHTML(`<div class="swiper-slide">
                     <div class="inerType">
-                        <a href="${data.Top_Box_Office[i].Trailer}" target="_blank">
+                        <a href="${data.Thai_Movies_Series[i].Trailer}" target="_blank">
                             <div class="img_position_swiper"></div>
                         </a>
                         <div class="card card-img-container shadeType">
-                            <img src="${data.Top_Box_Office[i].Image}" alt="">
+                            <img src="${data.Thai_Movies_Series[i].Image}" alt="">
                         </div>
                         <div class="textType">
-                            <span class="titleName">${data.Top_Box_Office[i].Name}</span>
+                            <span class="titleName">${data.Thai_Movies_Series[i].Name}</span>
                             <div class="sub-info">
                                 <span>${info}</span>
                             </div>
                             <div class="movieDescription">
-                                ${data.Top_Box_Office[i].Description}
+                                ${data.Thai_Movies_Series[i].Description}
                             </div>
                             <div class="addToWatchList" title="เพิ่มในรายการรับชม">
                                 <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
@@ -132,7 +126,76 @@
                 </div>`);
                 document.getElementById("add-swiper2").appendChild(html);
             }
+
+            for (var i = 0; i < data.Chinese_Movies_Series.length; i++) {
+                var info = "";
+                for (var j = 0; j < data.Chinese_Movies_Series[i].Type.length; j++) {
+                    info += data.Chinese_Movies_Series[i].Type[j]
+                    if (j != data.Chinese_Movies_Series[i].Type.length - 1) {
+                        info += `, `;
+                    }
+                }
+                var html = createElementFromHTML(`<div class="swiper-slide">
+                    <div class="inerType">
+                        <a href="${data.Chinese_Movies_Series[i].Trailer}" target="_blank">
+                            <div class="img_position_swiper"></div>
+                        </a>
+                        <div class="card card-img-container shadeType">
+                            <img src="${data.Chinese_Movies_Series[i].Image}" alt="">
+                        </div>
+                        <div class="textType">
+                            <span class="titleName">${data.Chinese_Movies_Series[i].Name}</span>
+                            <div class="sub-info">
+                                <span>${info}</span>
+                            </div>
+                            <div class="movieDescription">
+                                ${data.Chinese_Movies_Series[i].Description}
+                            </div>
+                            <div class="addToWatchList" title="เพิ่มในรายการรับชม">
+                                <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
+                                <span> เพิ่มในรายการรับชม</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>`);
+                document.getElementById("add-swiper3").appendChild(html);
+            }
+
+            for (var i = 0; i < data.Award_Winning.length; i++) {
+                var info = "";
+                for (var j = 0; j < data.Award_Winning[i].Type.length; j++) {
+                    info += data.Award_Winning[i].Type[j]
+                    if (j != data.Award_Winning[i].Type.length - 1) {
+                        info += `, `;
+                    }
+                }
+                var html = createElementFromHTML(`<div class="swiper-slide">
+                    <div class="inerType">
+                        <a href="${data.Award_Winning[i].Trailer}" target="_blank">
+                            <div class="img_position_swiper"></div>
+                        </a>
+                        <div class="card card-img-container shadeType">
+                            <img src="${data.Award_Winning[i].Image}" alt="">
+                        </div>
+                        <div class="textType">
+                            <span class="titleName">${data.Award_Winning[i].Name}</span>
+                            <div class="sub-info">
+                                <span>${info}</span>
+                            </div>
+                            <div class="movieDescription">
+                                ${data.Award_Winning[i].Description}
+                            </div>
+                            <div class="addToWatchList" title="เพิ่มในรายการรับชม">
+                                <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
+                                <span> เพิ่มในรายการรับชม</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>`);
+                document.getElementById("add-swiper3").appendChild(html);
+            }
         }
+
 
         function createElementFromHTML(htmlString) {
             var div = document.createElement('div');
@@ -140,6 +203,25 @@
             // Change this to div.childNodes to support multiple top-level nodes
             return div.firstChild;
         }
+    </script>
+
+
+    <!-- Initialize Swiper -->
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+            slidesPerView: 8,
+            spaceBetween: 8,
+            slidesPerGroup: 8,
+            pagination: {
+                el: ".swiper-pagination",
+                type: "fraction",
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+        });
+
     </script>
 
 
