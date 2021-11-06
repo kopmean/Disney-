@@ -12,7 +12,7 @@
             [
                 "Teen"
             ],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/4669/844669-h",
+            "Image": "1.jpg",
             "Trailer": "https://www.youtube.com/watch?v=sefQqCMusJI"
         },
         {
@@ -26,7 +26,7 @@
             [
                 "Teen", "Musical"
             ],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/110/650110-h",
+            "Image": "2.jpg",
             "Trailer": "https://www.youtube.com/watch?v=RlaV8sJGhfc"
         },
         {
@@ -40,7 +40,7 @@
             [
                 "Teen", "Comedy"
             ],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3547/1063547-h-bfb646e95d13",
+            "Image": "3.jpg",
             "Trailer": "https://www.youtube.com/watch?v=OagKRr0rV_s"
         },
         {
@@ -54,7 +54,7 @@
             [
                 "Teen", "Disney"
             ],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2359/992359-h",
+            "Image": "4.jpg",
             "Trailer": "https://www.youtube.com/watch?v=wnAVsjL3MhI"
         },
         {
@@ -68,7 +68,7 @@
             [
                 "Teen", "Disney"
             ],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/9719/749719-h",
+            "Image": "5.jpg",
             "Trailer": "https://www.youtube.com/watch?v=FzXmcDzvgxs"
         },
         {
@@ -82,7 +82,7 @@
             [
                 "Teen"
             ],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/5738/625738-h",
+            "Image": "6.jpg",
             "Trailer": "https://www.youtube.com/watch?v=zL4ZEWYsmuw"
         },
         {
@@ -96,7 +96,7 @@
             [
                 "Teen"
             ],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6846/626846-h",
+            "Image": "7.jpg",
             "Trailer": "https://www.youtube.com/watch?v=8UiHFHF-Nqk"
         },
         {
@@ -110,7 +110,7 @@
             [
                 "Teen"
             ],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/6995/616995-h",
+            "Image": "8.jpg",
             "Trailer": "https://www.youtube.com/watch?v=bEQXcbqvbT0"
         },
         {
@@ -124,7 +124,7 @@
             [
                 "Teen"
             ],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/4697/654697-h",
+            "Image": "9.jpg",
             "Trailer": "https://www.youtube.com/watch?v=iQLFxkGyrRk"
         },
         {
@@ -138,7 +138,7 @@
             [
                 "Teen"
             ],
-            "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/4820/654820-h",
+            "Image": "10.jpg",
             "Trailer": "https://www.youtube.com/watch?v=oaiInR_cV8s"
         }
     ]
