@@ -62,3 +62,17 @@ body {
 .mySwiper:hover .swiper-button-prev{
     opacity: 1 !important;
 } */
+
+.title-head-name{
+    margin-bottom: -2%;
+    margin-left: 0.8%;
+}
+
+.title-head-name a{
+    text-decoration: none;
+    color: white;
+}
+
+.title-head-name a:hover{
+    color: #1f80e0;
+}
