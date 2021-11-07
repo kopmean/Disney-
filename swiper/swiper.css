@@ -47,7 +47,8 @@ body {
     position: absolute;
 }
 
-.swiper-button-next,
+
+/* .swiper-button-next,
 .swiper-button-prev{
     color: #fff;
     opacity: 0 !important;
@@ -60,4 +61,4 @@ body {
 
 .mySwiper:hover .swiper-button-prev{
     opacity: 1 !important;
-}
+} */
