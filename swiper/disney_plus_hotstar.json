@@ -1,73 +1,73 @@
 {
-    "New_to_Disney+_Hotstar": [{
+    "New_to_DisneyHotstar": [{
         "id": "ND0",
         "Name": "Desperate Housewives",
         "Description": "เมื่อเกิดเหตุฆ่าตัวตายปริศนาในย่านชานเมือง ความลับสุดแซ่บและความจริงที่แซ่บกว่าจึงถูกเปิดเผยผ่านชีวิตของเหล่าแม่บ้านหัวใจเปลี่ยว ...",
         "Type": ["Drama", "ABC Studios"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5921/1075921-v-1a52ffd099a2",
+        "Image": "1.jpg",
         "Trailer": "https://www.youtube.com/watch?v=YgQay9I9zhg"
     }, {
         "id": "ND1",
         "Name": "Harrow",
         "Description": "ความลับในอดีตของแดเนียล แฮร์โรว์ทำให้งานและครอบครัวของเขาตกอยู่ในอันตราย เขาจึงต้องใช้ไหวพริบและความเป็นอัจฉริยะด้านนิติวิทยาศาสตร์ในการฝังอาชญากรรมคดีหนึ่งให้เป็นความลับไปตลอดกาล ...",
         "Type": ["Drama", "Crime", "ABC Studios"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1335/1011335-v-b00d6293332a",
+        "Image": "2.jpg",
         "Trailer": "https://www.youtube.com/watch?v=XasPsHQzZuc"
     }, {
         "id": "ND2",
         "Name": "ฝ่านรกซอมบี้คลั่ง",
         "Description": "“จองซอก” ผู้เป็นความหวังสุดท้ายของมนุษยชาติต้องหวนกลับมายังดินแดนรกร้างที่มีกองทัพซอมบี้อยู่เกลื่อนเมืองเพื่อทำภารกิจสำคัญให้สำเร็จในเวลาอันจำกัด ...",
         "Type": ["Drama"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4514/1074514-v-a10f866d32a3",
+        "Image": "3.jpg",
         "Trailer": "https://www.youtube.com/watch?v=B1HAjn2kh70"
     }, {
         "id": "ND3",
         "Name": "Victor Frankenstein",
         "Description": "เมื่ออิกอร์และวิคเตอร์ช่วยกันรักษาชีวิตของนักแสดงละครสัตว์ที่ตกจากที่สูงได้สำเร็จ วิคเตอร์เล็งเห็นความสามารถของอิกอร์และชวนเขามาร่วมกันทำการทดลองเกี่ยวกับศพมนุษย์อย่างผิดกฎหมาย ...",
         "Type": ["Horror"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5480/1075480-v-bc191674d266",
+        "Image": "4.jpg",
         "Trailer": "https://www.youtube.com/watch?v=2vqNOZIbIRM"
     }, {
         "id": "ND4",
         "Name": "Presto",
         "Description": "เพรสโตลืมให้อาหารกระต่ายบ่อยเกินไป จนทำให้เกิดเรื่องวุ่น ...",
         "Type": ["Kids", "Family"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5103/1075103-v-b08457ebd4b3",
+        "Image": "5.jpg",
         "Trailer": "https://www.youtube.com/watch?v=1VivQZn5-SE"
     }, {
         "id": "ND5",
         "Name": "While You Were Sleeping",
         "Description": "ลูซี่ช่วยชีวิตปีเตอร์ หนุ่มที่เธอแอบปิ๊งมานานจากรถไฟ อาการของเขาโคม่าอยู่ที่โรงพยาบาล และคำพูดที่พาให้เข้าใจผิดของลูซี่ทำให้ครอบครัวปีเตอร์เข้าใจว่าเธอเป็นคู่หมั้นของเขา ...",
         "Type": ["Romance", "Comedy"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7879/797879-v",
+        "Image": "6.jpg",
         "Trailer": "https://www.youtube.com/watch?v=nsJxyUvkB_E"
     }, {
         "id": "ND6",
         "Name": "Better Things",
         "Description": "แซม ฟ็อกซ์ นักแสดงฮอลลีวูดสาวที่ผ่านการหย่าร้างมา ต้องสร้างสมดุลระหว่างการเลี้ยงดูลูกสาวสามคนและภาระหน้าที่การงาน ...",
         "Type": ["Comedy", "Star World"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/704/650704-v",
+        "Image": "7.jpg",
         "Trailer": "https://www.youtube.com/watch?v=khFI35Qny_0"
     }, {
         "id": "ND7",
         "Name": "Reservation Dogs",
         "Description": "ติดตามวัยรุ่นชนพื้นเมืองสี่คนในย่านชนบทของโอคลาโฮมา เมื่อพวกเขาต้องขโมย ปล้น และเก็บเงินเพื่อเดินทางสู่ดินแดนแคลิฟอร์เนียอันแปลกใหม่ ลึกลับ และห่างไกล ...",
         "Type": ["Crime", "Comedy", "Star World"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7157/1057157-v-b04cdd45eedd",
+        "Image": "8.jpg",
         "Trailer": "https://www.youtube.com/watch?v=POkrsNVkGNk"
     }, {
         "id": "ND8",
         "Name": "What We Do In The Shadows",
         "Description": "",
         "Type": ["Comedy", "Star World"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/8044/668044-v",
+        "Image": "9.jpg",
         "Trailer": "https://www.youtube.com/watch?v=mfBbSwX6kEk"
     }, {
         "id": "ND9",
         "Name": "Higglytown Heroes",
         "Description": "ซีรีส์แอนิเมชั่นสร้างสรรค์จากจินตนาการซึ่งจะพาเด็กๆ ก่อนวัยเรียนไปทำความรู้จักกับแนวคิดของฮีโร่ในชีวิตประจำวันในโลกรอบตัวพวกเขา ...",
         "Type": ["Kids", "Disney"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5606/1075606-v-e9f6d179a1c8",
+        "Image": "10.jpg",
         "Trailer": "https://www.youtube.com/watch?v=S6PojRlkPOk"
     }],
 

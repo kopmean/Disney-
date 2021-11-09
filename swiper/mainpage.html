@@ -1,5 +1,4 @@
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,33 +16,32 @@
 
     <link rel="stylesheet" href="swiper.css">
     <link rel="stylesheet" href="style_all_genres.css">
-
 </head>
-
 <body>
+
     <div>
-        <h4 class="title-head-name"><a href="#">ทำเงินถล่มทลาย</a></h4>
+        <h4 class="title-head-name"><a href="#">เพิ่มในรายการรับชม</a></h4>
         <div #swiperRef="" class="swiper mySwiper">
             <div class="swiper-wrapper ml-3" id="add-swiper1">
             </div>
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>
         </div>
-        <h4 class="title-head-name"><a href="#">ภาพยนต์และซีรี่ส์ไทย</a></h4>
+        <h4 class="title-head-name"><a href="#">เพิ่มในรายการรับชม</a></h4>
         <div #swiperRef="" class="swiper mySwiper">
             <div class="swiper-wrapper ml-3" id="add-swiper2">
             </div>
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>
         </div>
-        <h4 class="title-head-name"><a href="#">ภาพยนตร์และซีรีส์จีน</a></h4>
+        <h4 class="title-head-name"><a href="#">เพิ่มในรายการรับชม</a></h4>
         <div #swiperRef="" class="swiper mySwiper">
             <div class="swiper-wrapper  ml-3" id="add-swiper3">
             </div>
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>
         </div>
-        <h4 class="title-head-name"><a href="#">ชนะรางวัล</a></h4>
+        <h4 class="title-head-name"><a href="#">เพิ่มในรายการรับชม</a></h4>
         <div #swiperRef="" class="swiper mySwiper">
             <div class="swiper-wrapper ml-3" id="add-swiper4">
             </div>
@@ -52,9 +50,8 @@
         </div>
     </div>
 
-
     <script>
-        let requestURL = 'asia.json';
+        let requestURL = 'disney_plus_hotstar.json';
         let request = new XMLHttpRequest();
         request.onreadystatechange = function () {
             if (request.readyState == 4 && request.status == 200) {
@@ -65,29 +62,29 @@
         request.send();
 
         function dataReportStatus(data) {
-            for (var i = 0; i < data.Top_Box_Office.length; i++) {
+            for (var i = 0; i < data.New_to_DisneyHotstar.length; i++) {
                 var info = "";
-                for (var j = 0; j < data.Top_Box_Office[i].Type.length; j++) {
-                    info += data.Top_Box_Office[i].Type[j]
-                    if (j != data.Top_Box_Office[i].Type.length - 1) {
+                for (var j = 0; j < data.New_to_DisneyHotstar[i].Type.length; j++) {
+                    info += data.New_to_DisneyHotstar[i].Type[j]
+                    if (j != data.New_to_DisneyHotstar[i].Type.length - 1) {
                         info += `, `;
                     }
                 }
                 var html = createElementFromHTML(`<div class="swiper-slide">
                     <div class="inerType">
-                        <a href="${data.Top_Box_Office[i].Trailer}" target="_blank">
+                        <a href="${data.New_to_DisneyHotstar[i].Trailer}" target="_blank">
                             <div class="img_position_swiper"></div>
                         </a>
                         <div class="card card-img-container shadeType">
-                            <img src="${data.Top_Box_Office[i].Image}" alt="">
+                            <img src="../image/New_to_Disney+_Hotstar/${data.New_to_DisneyHotstar[i].Image}" alt="">
                         </div>
                         <div class="textType">
-                            <span class="titleName">${data.Top_Box_Office[i].Name}</span>
+                            <span class="titleName">${data.New_to_DisneyHotstar[i].Name}</span>
                             <div class="sub-info">
                                 <span>${info}</span>
                             </div>
                             <div class="movieDescription">
-                                ${data.Top_Box_Office[i].Description}
+                                ${data.New_to_DisneyHotstar[i].Description}
                             </div>
                             <div class="addToWatchList" title="เพิ่มในรายการรับชม">
                                 <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
@@ -133,73 +130,73 @@
                 document.getElementById("add-swiper2").appendChild(html);
             }
 
-            for (var i = 0; i < data.Chinese_Movies_Series.length; i++) {
-                var info = "";
-                for (var j = 0; j < data.Chinese_Movies_Series[i].Type.length; j++) {
-                    info += data.Chinese_Movies_Series[i].Type[j]
-                    if (j != data.Chinese_Movies_Series[i].Type.length - 1) {
-                        info += `, `;
-                    }
-                }
-                var html = createElementFromHTML(`<div class="swiper-slide">
-                    <div class="inerType">
-                        <a href="${data.Chinese_Movies_Series[i].Trailer}" target="_blank">
-                            <div class="img_position_swiper"></div>
-                        </a>
-                        <div class="card card-img-container shadeType">
-                            <img src="${data.Chinese_Movies_Series[i].Image}" alt="">
-                        </div>
-                        <div class="textType">
-                            <span class="titleName">${data.Chinese_Movies_Series[i].Name}</span>
-                            <div class="sub-info">
-                                <span>${info}</span>
-                            </div>
-                            <div class="movieDescription">
-                                ${data.Chinese_Movies_Series[i].Description}
-                            </div>
-                            <div class="addToWatchList" title="เพิ่มในรายการรับชม">
-                                <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
-                                <span> เพิ่มในรายการรับชม</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>`);
-                document.getElementById("add-swiper3").appendChild(html);
-            }
+            // for (var i = 0; i < data.Chinese_Movies_Series.length; i++) {
+            //     var info = "";
+            //     for (var j = 0; j < data.Chinese_Movies_Series[i].Type.length; j++) {
+            //         info += data.Chinese_Movies_Series[i].Type[j]
+            //         if (j != data.Chinese_Movies_Series[i].Type.length - 1) {
+            //             info += `, `;
+            //         }
+            //     }
+            //     var html = createElementFromHTML(`<div class="swiper-slide">
+            //         <div class="inerType">
+            //             <a href="${data.Chinese_Movies_Series[i].Trailer}" target="_blank">
+            //                 <div class="img_position_swiper"></div>
+            //             </a>
+            //             <div class="card card-img-container shadeType">
+            //                 <img src="${data.Chinese_Movies_Series[i].Image}" alt="">
+            //             </div>
+            //             <div class="textType">
+            //                 <span class="titleName">${data.Chinese_Movies_Series[i].Name}</span>
+            //                 <div class="sub-info">
+            //                     <span>${info}</span>
+            //                 </div>
+            //                 <div class="movieDescription">
+            //                     ${data.Chinese_Movies_Series[i].Description}
+            //                 </div>
+            //                 <div class="addToWatchList" title="เพิ่มในรายการรับชม">
+            //                     <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
+            //                     <span> เพิ่มในรายการรับชม</span>
+            //                 </div>
+            //             </div>
+            //         </div>
+            //     </div>`);
+            //     document.getElementById("add-swiper3").appendChild(html);
+            // }
 
-            for (var i = 0; i < data.Award_Winning.length; i++) {
-                var info = "";
-                for (var j = 0; j < data.Award_Winning[i].Type.length; j++) {
-                    info += data.Award_Winning[i].Type[j]
-                    if (j != data.Award_Winning[i].Type.length - 1) {
-                        info += `, `;
-                    }
-                }
-                var html = createElementFromHTML(`<div class="swiper-slide">
-                    <div class="inerType">
-                        <a href="${data.Award_Winning[i].Trailer}" target="_blank">
-                            <div class="img_position_swiper"></div>
-                        </a>
-                        <div class="card card-img-container shadeType">
-                            <img src="${data.Award_Winning[i].Image}" alt="">
-                        </div>
-                        <div class="textType">
-                            <span class="titleName">${data.Award_Winning[i].Name}</span>
-                            <div class="sub-info">
-                                <span>${info}</span>
-                            </div>
-                            <div class="movieDescription">
-                                ${data.Award_Winning[i].Description}
-                            </div>
-                            <div class="addToWatchList" title="เพิ่มในรายการรับชม">
-                                <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
-                                <span> เพิ่มในรายการรับชม</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>`);
-                document.getElementById("add-swiper4").appendChild(html);
-            }
+            // for (var i = 0; i < data.Award_Winning.length; i++) {
+            //     var info = "";
+            //     for (var j = 0; j < data.Award_Winning[i].Type.length; j++) {
+            //         info += data.Award_Winning[i].Type[j]
+            //         if (j != data.Award_Winning[i].Type.length - 1) {
+            //             info += `, `;
+            //         }
+            //     }
+            //     var html = createElementFromHTML(`<div class="swiper-slide">
+            //         <div class="inerType">
+            //             <a href="${data.Award_Winning[i].Trailer}" target="_blank">
+            //                 <div class="img_position_swiper"></div>
+            //             </a>
+            //             <div class="card card-img-container shadeType">
+            //                 <img src="${data.Award_Winning[i].Image}" alt="">
+            //             </div>
+            //             <div class="textType">
+            //                 <span class="titleName">${data.Award_Winning[i].Name}</span>
+            //                 <div class="sub-info">
+            //                     <span>${info}</span>
+            //                 </div>
+            //                 <div class="movieDescription">
+            //                     ${data.Award_Winning[i].Description}
+            //                 </div>
+            //                 <div class="addToWatchList" title="เพิ่มในรายการรับชม">
+            //                     <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
+            //                     <span> เพิ่มในรายการรับชม</span>
+            //                 </div>
+            //             </div>
+            //         </div>
+            //     </div>`);
+            //     document.getElementById("add-swiper4").appendChild(html);
+            // }
         }
 
         function createElementFromHTML(htmlString) {
@@ -246,11 +243,7 @@
         //         }
         //     }
         // })
-
-
     </script>
 
-
 </body>
-
 </html>
