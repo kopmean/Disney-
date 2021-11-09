@@ -42,7 +42,7 @@
     .footer ul li a{
         color: inherit;
         text-decoration: none;
-        opacity: 0.8;
+        opacity: 0.9;
     }
 
     .footer ul li, .footer-left p{
@@ -57,7 +57,7 @@
 
     .footer-left p{
         font-size: 12px;
-        opacity: 0.7;
+        opacity: 0.9;
     }
 
     .footer-wrap{
@@ -67,7 +67,7 @@
 
     .footer-wrap p{
         font-size: 14px;
-        opacity: 0.8;
+        opacity: 0.7;
     }
 
     .sci{
@@ -105,21 +105,29 @@
     }
 
     @media screen and (max-width:512px){
-        .footer-left{
-            width: 95%;
-        }
-        .rows{
-            display: inline-block;
-        }
-        .footer-wrap{
-            column-gap: 50px;
-            margin-left: 30px;
-            width: auto;
-        }   
-        .footer-right{
-            margin-left: 30px;
-        }
+    .footer-left{
+        width: 95%;
     }
+    .rows{
+        display: inline-block;
+    }
+    .footer-wrap{
+        column-gap: 50px;
+        margin-left: 30px;
+        width: auto;
+    }
+    .footer-right{
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width:1210px){
+    .footer-wrap{
+        margin-left: 30px;
+        column-gap: 50px;
+        width: auto;
+    }
+}
 
 </style>
 <body>
