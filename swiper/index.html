@@ -74,7 +74,8 @@
         request.send();
 
         function dataReportStatus(data) {
-            for (var i = 0; i <= data.Top_Box_Office.length; i++) {
+            for (var i = 0; i < data.Top_Box_Office.length; i++) {
+                var info = "";
                 for (var j = 0; j < data.Top_Box_Office[i].Type.length; j++) {
                     info += data.Top_Box_Office[i].Type[j]
                     if (j != data.Top_Box_Office[i].Type.length - 1) {
@@ -82,32 +83,29 @@
                     }
                 }
                 var html = createElementFromHTML(`<div class="swiper-slide">
-                        <div class="inerType">
-                            <a href="${data.Top_Box_Office[i].Trailer}" target="_blank">
-                                <div class="img_position_swiper"></div>
-                            </a>
-                            <div class="card card-img-container shadeType">
-                                <img src="${data.Top_Box_Office[i].Image}" alt="">
+                    <div class="inerType">
+                        <a href="${data.Top_Box_Office[i].Trailer}" target="_blank">
+                            <div class="img_position_swiper"></div>
+                        </a>
+                        <div class="card card-img-container shadeType">
+                            <img src="${data.Top_Box_Office[i].Image}" alt="">
+                        </div>
+                        <div class="textType">
+                            <span class="titleName">${data.Top_Box_Office[i].Name}</span>
+                            <div class="sub-info">
+                                <span>${info}</span>
                             </div>
-                            <div class="textType">
-                                <span class="titleName">${data.Top_Box_Office[i].Name}</span>
-                                <div class="sub-info">
-                                    <span>${info}</span>
-                                </div>
-                                <div class="movieDescription">
-                                    ${data.Top_Box_Office[i].Description}
-                                </div>
-                                <div class="addToWatchList" title="เพิ่มในรายการรับชม">
-                                    <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
-                                    <span> เพิ่มในรายการรับชม</span>
-                                </div>
+                            <div class="movieDescription">
+                                ${data.Top_Box_Office[i].Description}
+                            </div>
+                            <div class="addToWatchList" title="เพิ่มในรายการรับชม">
+                                <img class="plusIcon" src="https://cdn-icons-png.flaticon.com/512/1828/1828819.png" alt="">
+                                <span> เพิ่มในรายการรับชม</span>
                             </div>
                         </div>
-                    </div>`);
+                    </div>
+                </div>`);
                 document.getElementById("add-swiper1").appendChild(html);
-
-
-
             }
 
             for (var i = 0; i < data.Thai_Movies_Series.length; i++) {
