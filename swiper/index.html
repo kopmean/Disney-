@@ -66,9 +66,6 @@
 
         function dataReportStatus(data) {
             for (var i = 0; i < data.Top_Box_Office.length; i++) {
-                var info = "";
-                var add = "";
-                // if ()
                 for (var j = 0; j < data.Top_Box_Office[i].Type.length; j++) {
                     info += data.Top_Box_Office[i].Type[j]
                     if (j != data.Top_Box_Office[i].Type.length - 1) {
@@ -76,7 +73,7 @@
                     }
                 }
 
-                var html = createElementFromHTML(`<div class="swiper-slide">
+                var html = createElementFromHTML(`<div class="swiper-slide" >
                     <div class="inerType">
                         <a href="${data.Top_Box_Office[i].Trailer}" target="_blank">
                             <div class="img_position_swiper"></div>
