@@ -143,68 +143,84 @@
         "Trailer": "https://www.youtube.com/watch?v=n0OFH4xpPr4"
     }],
 
-    "ภคต่อสุดฮิต": [{
+    "ภาคต่อสุดฮิต": [{
         "id": "PB0",
-        "Name": "",
-        "Description": "",
-        "Type": [""],
+        "Name": "Tron",
+        "Description": "แฮกเกอร์รายหนึ่งถูกลักพาตัวเข้าไปในโลกดิจิทัล และถูกบังคับให้เข้าร่วมเกมการต่อสู้ที่โอกาสหนีเพียงหนึ่งเดียวของเขาคือต้องได้รับความช่วยเหลือจากฮีโร่โปรแกรมระบบรักษาความปลอดภัย...",
+        "Type": ["Action"],
         "Image": "1.jpg",
-        "Trailer": ""
+        "Trailer": "https://www.youtube.com/watch?v=3efV2wqEjEY"
     }, {
-        "id": "",
-        "Name": "",
-        "Description": "",
-        "Type": [""],
-        "Image": "",
-        "Trailer": ""
+        "id": "PB1",
+        "Name": "Tron: Legacy",
+        "Description": "แซมคิดถึงพ่อซึ่งเป็นนักออกแบบโลกเสมือนจริง จึงเข้าไปยังอวกาศเสมือนจริงที่กลายเป็นพื้นที่อันตรายมากกว่าที่พ่อของเขาตั้งใจเอาไว้ ถึงคราวที่พ่อลูกจะต้องเริ่มออกเดินบนเส้นทางแห่งความเป็นความตาย...",
+        "Type": ["Action"],
+        "Image": "2.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=L9szn1QQfas"
     }, {
-        "id": "",
-        "Name": "",
-        "Description": "",
-        "Type": [""],
-        "Image": "",
-        "Trailer": ""
+        "id": "PB2",
+        "Name": "Predator",
+        "Description": "พลตรี ดัทช์ เชเฟอร์นำทีมหน่วยคอมมานโดเข้าไปทำภารกิจในป่าลึก แต่กลับพบว่าตัวเองเป็นผู้ถูกล่าโดยเผ่าพันธุ์สุดโหดจากต่างดาว...",
+        "Type": ["Action"],
+        "Image": "3.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=X2hBYGwKh3I"
     }, {
-        "id": "",
-        "Name": "",
-        "Description": "",
-        "Type": [""],
-        "Image": "",
-        "Trailer": ""
+        "id": "PB3",
+        "Name": "Predator 2",
+        "Description": "เจ้าสัตว์ประหลาดกลับมาแล้ว ครั้งนี้ ผู้หมวดไมค์ แฮริแกนต้องเอาชีวิตรอดท่ามกลางเหล่านักล่ามนุษย์ต่างดาว สงครามระหว่างแก๊งและพรีเดเตอร์ ...",
+        "Type": ["Action"],
+        "Image": "4.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=pLe_1SheJms"
     }, {
-        "id": "",
-        "Name": "",
-        "Description": "",
-        "Type": [""],
-        "Image": "",
-        "Trailer": ""
+        "id": "PB4",
+        "Name": "Alien vs. Predator",
+        "Description": "ระหว่างการเดินทางสำรวจ ทีมนักวิทยาศาสตร์บังเอิญหลงไปอยู่ท่ามกลางสงครามมหาวิบัติระหว่างเอเลี่ยนและพรีเดเตอร์ ที่ไม่ว่าสายพันธุ์ไหนจะอยู่รอด มนุษยชาติก็เป็นฝ่ายสูญเสีย...",
+        "Type": ["Action"],
+        "Image": "5.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=Cld40qD7HcY"
     }, {
-        "id": "",
-        "Name": "",
-        "Description": "",
-        "Type": [""],
-        "Image": "",
-        "Trailer": ""
+        "id": "PB5",
+        "Name": "Aliens vs. Predator - Requiem",
+        "Description": "สิ่งมีชีวิตระดับตำนานจากสองภาพยนตร์ชุดสุดสยองในหน้าประวัติศาสตร์กำลังจะเปิดศึกสุดป่าเถื่อนในโลกของเรา...",
+        "Type": ["Action"],
+        "Image": "6.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=cKHyatYlZf4"
     }, {
-        "id": "",
-        "Name": "",
-        "Description": "",
-        "Type": [""],
-        "Image": "",
-        "Trailer": ""
+        "id": "PB6",
+        "Name": "Predator",
+        "Description": "ผู้ล่าที่น่ากลัวที่สุดในจักรวาลได้หวนมาสู่โลก ทั้งฉลาดขึ้น ทั้งอันตรายขึ้นกว่าเดิม มีแค่นายทหารเก่าและศาสตราจารย์เท่านั้นที่จะปกป้องมนุษยชาติได้ ...",
+        "Type": ["Action"],
+        "Image": "7.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=WaG1KZqrLvM"
     }, {
-        "id": "",
-        "Name": "",
-        "Description": "",
-        "Type": [""],
-        "Image": "",
-        "Trailer": ""
+        "id": "PB7",
+        "Name": "Predators",
+        "Description": "กลุ่มนักฆ่าเลือดเย็นถูกนำตัวมายังสถานที่ที่ไม่คุ้นเคยเพื่อให้เป็นเหยื่อของเหล่าพรีเดเตอร์สายพันธุ์ใหม่ ...",
+        "Type": ["Action"],
+        "Image": "8.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=N2jJOy8rzog"
     }, {
-        "id": "",
-        "Name": "",
-        "Description": "",
-        "Type": [""],
-        "Image": "",
-        "Trailer": ""
+        "id": "PB8",
+        "Name": "Prometheus",
+        "Description": "ในปี 2093 กลุ่มนักสำรวจออกปฏิบัติภารกิจลับไปยังดาวเอเลี่ยน และค้นพบร่องรอยอารยธรรมโบราณ แต่พวกเขาตื่นเต้นได้ไม่นาน เมื่อเวย์แลนด์คอร์ปอเรชันมีเจตนาซ่อนเร้น...",
+        "Type": ["Action"],
+        "Image": "9.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=34cEo0VhfGE"
+    }, {
+        "id": "PB9",
+        "Name": "Alien: Covenant",
+        "Description": "ริดลีย์ สก็อตต์หวนคืนสู่จักรวาลที่เขาสร้างขึ้นอีกครั้งใน 'เอเลี่ยน โคเวแนนท์' ลูกเรือของยานโคเวแนนท์สำรวจพบภัยคุกคามเกินจะคาด และต้องกระเสือกกระสนหนีเพื่อเอาชีวิตรอด...",
+        "Type": ["Action"],
+        "Image": "10.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=svnAD0TApb8"
     }],
+    
+    "": [{
+        "id": "",
+        "Name": "",
+        "Description": "",
+        "Type": [""],
+        "Image": "",
+        "Trailer": ""
+    }]
 }
