@@ -217,69 +217,73 @@
 
     "ซีรีส์สตาร์ วอร์ส": [{
         "id": "SW0",
-        "Name": "",
-        "Description": "",
-        "Type": [],
+        "Name": "Star Wars: Visions",
+        "Description": "Star Wars Visions คืออนิเมะขนาดสั้นจบในตอนเพื่อเชิดชูสตาร์ วอร์สผ่านมุมมองของเหล่าผู้สร้างอนิเมะและนักเล่าเรื่องฝีมือดีที่สุดในโลก...",
+        "Type": ["Action", "Star Wars"],
         "Image": "1.jpg",
-        "Trailer": ""
+        "Trailer": "https://www.youtube.com/watch?v=lle0NNmvIyU"
     }, {
         "id": "SW1",
-        "Name": "",
-        "Description": "",
-        "Type": [],
+        "Name": "Star Wars: A Galaxy of Sounds",
+        "Description": "ดื่มด่ำไปกับเสียงแห่งจักรวาลอันไกลโพ้นผ่านธีมต่างๆ เช่น ความพิศวง ความตื่นเต้น ความแปลกประหลาด และอีกมากมาย...",
+        "Type": ["Family", "Musical", "Star Wars"],
         "Image": "2.jpg",
-        "Trailer": ""
+        "Trailer": "https://www.youtube.com/watch?v=d2igPDBswSE"
     }, {
         "id": "SW2",
-        "Name": "",
-        "Description": "",
-        "Type": [],
+        "Name": "The Bad Batch",
+        "Description": "หน่วยแบดแบตช์ต้องตามหาหนทางเอาตัวรอดของตัวเองในกาแล็กซีที่กำลังเปลี่ยนแปลงอย่างรวดเร็ว...",
+        "Type": ["Action", "Star Wars"],
         "Image": "3.jpg",
-        "Trailer": ""
+        "Trailer": "https://www.youtube.com/watch?v=BsOmYpP4UDU"
     }, {
         "id": "SW3",
-        "Name": "",
-        "Description": "",
-        "Type": [],
+        "Name": "Star Wars: The Clone Wars",
+        "Description": "กองกำลังหลักของสาธารณะรัฐ นำโดยโยดา, เมซ วินดู, โอบีวัน เคโนบี, อนาคิน สกายวอล์คเกอร์ และอัศวินเจไดคนอื่นๆ เข้าห้ำหั่นกับกองทัพดรอยด์ใหม่ของขบวนการแบ่งแยกเพื่อจบสงครามโคลนครั้งนี้...",
+        "Type": ["Action", "Star Wars"],
         "Image": "4.jpg",
-        "Trailer": ""
+        "Trailer": "https://www.youtube.com/watch?v=ZLW2jkd6E7g"
     }, {
         "id": "SW4",
-        "Name": "",
-        "Description": "",
-        "Type": [],
+        "Name": "Disney Gallery / Star Wars: The Mandalorian",
+        "Description": "ชมแง่มุมต่างๆ ของ 'เดอะ แมนดาลอเรียน' ซีรีส์คนแสดงเรื่องแรกของสตาร์ วอร์ส ทั้งบทสัมภาษณ์ เบื้องหลังการถ่ายทำ และความหมายของคำว่า 'นี่คือวิถีเรา' โดยมีจอน แฟฟโรว์เป็นผู้ดำเนินรายการ...",
+        "Type": ["Documentary", "Star Wars"],
         "Image": "5.jpg",
-        "Trailer": ""
+        "Trailer": "https://www.youtube.com/watch?v=B492eUpIyAc"
     }, {
         "id": "SW5",
-        "Name": "",
-        "Description": "",
-        "Type": [],
+        "Name": "Star Wars Resistance",
+        "Description": "แคซทำภารกิจสายลับให้กองกำลังต่อต้าน แต่กลับเจอเรื่องเกินตัวมากมาย ไม่ว่าจะเป็นเหล่านักแข่ง สลัดอวกาศ และเจ้าของสถานีที่เขาประจำการอยู่...",
+        "Type": ["Action", "Kids", "Star Wars"],
         "Image": "6.jpg",
-        "Trailer": ""
+        "Trailer": "https://www.youtube.com/watch?v=bH_Ws7sA468"
     }, {
         "id": "SW6",
-        "Name": "",
-        "Description": "",
-        "Type": [],
+        "Name": "Star Wars Rebels",
+        "Description": "ณ ช่วงเวลาอันมืดหม่นในกาแล็กซี ลูกเรือมากหน้าหลายตาของยานรบโกสต์ได้ยืดหยัดเพื่อคนที่ไม่มีแรงต่อสู้ และจุดประกายไฟให้กองกำลังต่อต้าน...",
+        "Type": ["Action", "Kids", "Star Wars"],
         "Image": "7.jpg",
-        "Trailer": ""
+        "Trailer": "https://www.youtube.com/watch?v=xg5YN3LAGw4"
     }, {
         "id": "SW7",
-        "Name": "",
-        "Description": "",
-        "Type": [],
+        "Name": "LEGO Star Wars: All Stars",
+        "Description": "โรเจอร์ ดรอยด์สังหารผู้แสนน่ารัก เล่าเรื่องราวชีวิตของเขา เริ่มตั้งแต่สมัยสงครามโคลน จนกระทั่งร่วมรบต่อสู้กับฝ่ายปฐมภาคีผู้น่าเกรงขาม...",
+        "Type": ["Kids", "Disney"],
         "Image": "8.jpg",
-        "Trailer": ""
+        "Trailer": "https://www.youtube.com/watch?v=0vNXYyxUFhQ"
     }, {
         "id": "SW8",
-        "Name": "",
-        "Description": "",
-        "Type": [],
+        "Name": "The Freemaker Adventures",
+        "Description": "เมื่อโรแวน ฟรีเมคเกอร์ เด็กชายอายุ 12 ปีผู้มีพลัง ได้พบไคเบอร์เซเบอร์ สิ่งประดิษฐ์โบราณที่เชื่อมโยงกับเจได โลกของเขาก็เปลี่ยนไปโดยสิ้นเชิง ...",
+        "Type": ["Action", "Kids", "Star Wars"],
         "Image": "9.jpg",
-        "Trailer": ""
+        "Trailer": "https://www.youtube.com/watch?v=wk8apGoldq8"
     }, {
         "id": "SW9",
-        "Name": "",
+        "Name": "Star Wars: Droid Tales",
+        "Description": "ขณะที่เหล่าฮีโร่เดินทางข้ามผ่านกาแล็กซีเพื่อช่วยอาร์ทูดีทู ซีทรีพีโอเล่าถึงเรื่องของกองกำลังต่อต้าน การผจญภัยครั้งยิ่งใหญ่ของพวกเขา ความขัดแย้งกับกลุ่มซิธ และการออกเดินทางค้นหาความหวังใหม่...",
+        "Type": ["Action", "Kids", "Star Wars"],
+        "Image": "10.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=9E7Tp9ycxDs"
     }]
 }
