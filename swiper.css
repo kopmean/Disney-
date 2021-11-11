@@ -1,0 +1,89 @@
+html,
+body {
+    position: relative;
+    height: 100%;
+    background-color: #131b28;
+}
+
+body {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.swiper {
+    width: 100%;
+    height: 43%;
+    margin: 20px auto;
+}
+
+.img_position_swiper{
+    width: 100%;
+    height: 90%;
+    z-index: 2;
+    position: absolute;
+}
+
+.title-head-name{
+    margin-bottom: -2%;
+    margin-left: 0.8%;
+}
+
+.title-head-name a{
+    text-decoration: none;
+    color: white;
+}
+
+.title-head-name a:hover{
+    color: #1f80e0;
+}
+
+/* arrow */
+.swiper-button-next,
+.swiper-button-prev{
+    color: #fff;
+    opacity: 0 !important;
+}
+
+.mySwiper:hover .swiper-button-next{
+    opacity: 1 !important;
+    background: linear-gradient(to left, rgba(26, 34, 51, 0.658) 50%, rgba(26, 34, 51, 0));
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 3%;
+}
+
+.mySwiper:hover .swiper-button-prev{
+    opacity: 1 !important;
+    background: linear-gradient(to right, rgba(26, 34, 51, 0.658) 50%, rgba(26, 34, 51, 0));
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 3%;
+}
