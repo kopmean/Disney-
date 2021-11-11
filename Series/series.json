@@ -1,0 +1,89 @@
+{
+    "ซีรีส์ตะวันตกยอดนิยม": [{
+        "id": "PW0",
+        "Name": "Godfather of Harlem",
+        "Description": "เรื่องราวของบัมพี จอห์นสัน หัวหน้าแก๊งอาชญากรอื้อฉาว ซึ่งคืนสู่อิสรภาพหลังการจำคุกสิบปี ตอนช่วงต้นยุค 60 และพบว่าถิ่นที่เขาเคยคุมเต็มไปด้วยความวุ่นวาย...",
+        "Type": ["Drama", "ABC Studios"],
+        "Image": "1.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=FXSt-InPzeY"
+    }, {
+        "id": "PW1",
+        "Name": "Witches Of East End",
+        "Description": "นี่คือเรื่องราวการผจญภัยของแม่และลูกสาวสองคนซึ่งทั้งคู่ไม่รู้ตัวว่าตนเป็นแม่มดรุ่นถัดไปของครอบครัวซึ่งใช้ชีวิตอยู่ในยุคปัจจุบันที่ดูเงียบสงบและไม่มีเหตุการณ์ใดๆ จนภัยร้ายจากอดีตกลับมาทวงแค้น...",
+        "Type": ["Horror", "Star World"],
+        "Image": "2.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=urTK3_P6-C0"
+    }, {
+        "id": "PW2",
+        "Name": "Motherland: Fort Salem",
+        "Description": "ในอีกโลกหนึ่ง สงครามชนะได้ด้วยเวทมนตร์ กองกำลังหลักคือเหล่าแม่มด พวกเธอจึงต้องฝึกฝนเพื่อต่อกรกับผู้ก่อการร้าย...",
+        "Type": ["Drama", "ABC Studios"],
+        "Image": "3.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=QASwXRDVBVY"
+    }, {
+        "id": "PW3",
+        "Name": "Pride",
+        "Description": "เรื่องราวการต่อสู้ของชาว LGBTQ+ ด้านการเคลื่อนไหวเพื่อสิทธิพลเมืองและสิทธิ์สมรสเท่าเทียมตั้งแต่ยุค 1950 เป็นต้นมา ...",
+        "Type": ["Drama", "Disney"],
+        "Image": "4.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=iJNMAxwQXhM"
+    }, {
+        "id": "PW4",
+        "Name": "Siren",
+        "Description": "เมืองชายฝั่งเล็กๆ ที่ดูสงบสุขต้องพบกับความวุ่นวายเมื่อเหล่านางเงือกจากตำนานปรากฏตัว...",
+        "Type": ["Drama", "Disney"],
+        "Image": "5.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=82NusegO1mQ"
+    }, {
+        "id": "PW5",
+        "Name": "Only Murders in the building",
+        "Description": "คนแปลกหน้าสามคนที่คลั่งไคล้เรื่องราวอาชญากรรมเหมือนกัน ต้องช่วยกันสืบสวนการตายของเพื่อนร่วมอพาร์ตเมนต์ ...",
+        "Type": ["Crime", "Disney"],
+        "Image": "6.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=-V1rQdXXXyI"
+    }, {
+        "id": "PW6",
+        "Name": "Glee",
+        "Description": "ครูมัธยมปลายผู้มองโลกในแง่ดีสร้างแรงบรรดาลใจและจุดไฟฝันให้กับนักเรียนในชมรมประสานเสียง เพื่อเป้าหมายในการเป็นแชมป์ระดับประเทศ ผ่านบทเพลงแสนประทับใจที่แฟนละครเพลงไม่ควรพลาด...",
+        "Type": ["Teen", "Star World"],
+        "Image": "7.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=sefQqCMusJI"
+    }, {
+        "id": "PW7",
+        "Name": "White Collar",
+        "Description": "อาชญากรในคราบพนักงานบริษัทคนหนึ่งตกลงที่จะช่วยเอฟบีไอจับอาชญากรทางเศรษฐกิจคนอื่นๆ โดยนำความเชี่ยวชาญในฐานะโจรขโมยงานศิลป์รวมถึงทักษะการปลอมแปลงและต้มตุ๋นมาใช้...",
+        "Type": ["Crime", "Star World"],
+        "Image": "8.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=gIFySyLynAk"
+    }, {
+        "id": "PW8",
+        "Name": "Once Upon A Time In Wonderland",
+        "Description": "นี่คือเรื่องราวการผจญภัยอีกฉบับของอลิซที่ตกลงไปในโพรงกระต่าย แล้วไปโผล่ในแดนมหัศจรรย์ที่มี แมวล่องหน หนอนผีเสื้อสูบยา และไพ่พูดได้ แต่ครั้งนี้เธอต้องต่อกรกับราชินีโพธิ์แดงและจาฟาร์ไปพร้อมๆ กัน...",
+        "Type": ["Drama", "ABC Studios"],
+        "Image": "9.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=7DPj3vR5d9k"
+    }, {
+        "id": "PW9",
+        "Name": "A Teacher",
+        "Description": "ซีรีส์เรื่องนี้จะพาคุณไปพบกับความซับซ้อนและผลลัพธ์ของความสัมพันธ์แบบนักล่าและเหยื่อระหว่างครูสาวกับนักเรียนมัธยมปลายหนุ่ม...",
+        "Type": ["Drama", "Star World"],
+        "Image": "10.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=2CSl1hGwJkQ"
+    }],
+
+    "ซีรีส์แอนิเมชั่น": [{
+        "id": "AS0",
+        "Name": "",
+        "Description": "",
+        "Type": [""],
+        "Image": "",
+        "Trailer": ""
+    }, {
+        "id": "",
+        "Name": "",
+        "Description": "",
+        "Type": [""],
+        "Image": "",
+        "Trailer": ""
+    }]
+}
