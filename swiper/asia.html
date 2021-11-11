@@ -1,0 +1,374 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style_all_genres.css">
+    <link rel="stylesheet" href="style_header.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
+    <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+
+    <link rel="stylesheet" href="swiper.css">
+
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="dropdown">
+            <span class="navbar-toggler-icon"></span>
+            <div class="dropdown-content">
+                <a href="../genrespage/genres.html"><img src="images/type_on.jpg" style="margin-right: 5px;width: 20px;"
+                        alt="">ประเภท</a>
+            </div>
+        </div>
+        <a class="navbar-brand" href="../index.html"><img src="images/disney-hotstar-logo-dark.svg" alt="logo"></a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="series.html">ซีรีส์</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="movie.html">ภาพยนตร์</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="disney.html">Disney+</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="asia.html">เอเชีย</a>
+                </li>
+                <li class="nav-item mt-1">
+                    <a class="nav-link" href="#"><img src="images/kids.svg" alt="logo"></a>
+                </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+                <div class="right-container mr-5">
+                    <input type="text" class="search-box" placeholder="ค้นหา">
+                    <img src="images/find.svg" alt="find" width="15px">
+                </div>
+                <div class="space"></div>
+                <div class="language">
+                    <button type="button" class="collapsible"><img src="images/langauge.svg" alt="."
+                            style="width: 12px;"> ไทย <img src="images/arrowdown.svg" alt=""></button>
+                    <div class="content pt-2">
+                        <p>English</p>
+                    </div>
+                </div>
+                <div class="dropdown">
+                    <a class="" href="#"><img src="images/profile.svg" alt=""></a>
+                    <div class="dropdown-content profile">
+                        <a href="#">รายการรับชม</a>
+                        <a href="#">บัญชีของฉัน</a>
+                        <a href="#">ออกจากระบบ</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </nav>
+    <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function () {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                } else {
+                    content.style.display = "block";
+                }
+            });
+        }
+    </script>
+
+
+    <div>
+        <h4 class="title-head-name"><a href="#">ทำเงินถล่มทลาย</a></h4>
+        <div #swiperRef="" class="swiper mySwiper">
+            <div class="swiper-wrapper ml-3" id="add-swiper1">
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+        <h4 class="title-head-name"><a href="#">ภาพยนต์และซีรี่ส์ไทย</a></h4>
+        <div #swiperRef="" class="swiper mySwiper">
+            <div class="swiper-wrapper ml-3" id="add-swiper2">
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+        <h4 class="title-head-name"><a href="#">ภาพยนตร์และซีรีส์จีน</a></h4>
+        <div #swiperRef="" class="swiper mySwiper">
+            <div class="swiper-wrapper  ml-3" id="add-swiper3">
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+        <h4 class="title-head-name"><a href="#">ชนะรางวัล</a></h4>
+        <div #swiperRef="" class="swiper mySwiper">
+            <div class="swiper-wrapper ml-3" id="add-swiper4">
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+    </div>
+
+    <script>
+        let requestURL = 'data/asia.json';
+        let request = new XMLHttpRequest();
+        request.onreadystatechange = function () {
+            if (request.readyState == 4 && request.status == 200) {
+                dataReportStatus(JSON.parse(request.responseText));
+            }
+        };
+        request.open("GET", requestURL, false);
+        request.send();
+
+        function dataReportStatus(data) {
+            for (var i = 0; i < data.Top_Box_Office.length; i++) {
+                var info = "";
+                for (var j = 0; j < data.Top_Box_Office[i].Type.length; j++) {
+                    info += data.Top_Box_Office[i].Type[j]
+                    if (j != data.Top_Box_Office[i].Type.length - 1) {
+                        info += `, `;
+                    }
+                }
+                var html = createElementFromHTML(`<div class="swiper-slide">
+                    <div class="inerType">
+                        <a href="${data.Top_Box_Office[i].Trailer}" target="_blank">
+                            <div class="img_position_swiper"></div>
+                        </a>
+                        <div class="card card-img-container shadeType">
+                            <img src="asia_img/1/${data.Top_Box_Office[i].Image}" alt="">
+                        </div>
+                        <div class="textType">
+                            <span class="titleName">${data.Top_Box_Office[i].Name}</span>
+                            <div class="sub-info">
+                                <span>${info}</span>
+                            </div>
+                            <div class="movieDescription">
+                                ${data.Top_Box_Office[i].Description}
+                            </div>
+                            <div class="addToWatchList" title="เพิ่มในรายการรับชม">
+                                <img class="plusIcon" src="asia_img/plusicon.png" alt="">
+                                <span> เพิ่มในรายการรับชม</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>`);
+                document.getElementById("add-swiper1").appendChild(html);
+            }
+
+            for (var i = 0; i < data.Thai_Movies_Series.length; i++) {
+                var info = "";
+                for (var j = 0; j < data.Thai_Movies_Series[i].Type.length; j++) {
+                    info += data.Thai_Movies_Series[i].Type[j]
+                    if (j != data.Thai_Movies_Series[i].Type.length - 1) {
+                        info += `, `;
+                    }
+                }
+                var html = createElementFromHTML(`<div class="swiper-slide">
+                    <div class="inerType">
+                        <a href="${data.Thai_Movies_Series[i].Trailer}" target="_blank">
+                            <div class="img_position_swiper"></div>
+                        </a>
+                        <div class="card card-img-container shadeType">
+                            <img src="asia_img/2/${data.Thai_Movies_Series[i].Image}" alt="">
+                        </div>
+                        <div class="textType">
+                            <span class="titleName">${data.Thai_Movies_Series[i].Name}</span>
+                            <div class="sub-info">
+                                <span>${info}</span>
+                            </div>
+                            <div class="movieDescription">
+                                ${data.Thai_Movies_Series[i].Description}
+                            </div>
+                            <div class="addToWatchList" title="เพิ่มในรายการรับชม">
+                                <img class="plusIcon" src="asia_img/plusicon.png" alt="">
+                                <span> เพิ่มในรายการรับชม</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>`);
+                document.getElementById("add-swiper2").appendChild(html);
+            }
+
+            for (var i = 0; i < data.Chinese_Movies_Series.length; i++) {
+                var info = "";
+                for (var j = 0; j < data.Chinese_Movies_Series[i].Type.length; j++) {
+                    info += data.Chinese_Movies_Series[i].Type[j]
+                    if (j != data.Chinese_Movies_Series[i].Type.length - 1) {
+                        info += `, `;
+                    }
+                }
+                var html = createElementFromHTML(`<div class="swiper-slide">
+                    <div class="inerType">
+                        <a href="${data.Chinese_Movies_Series[i].Trailer}" target="_blank">
+                            <div class="img_position_swiper"></div>
+                        </a>
+                        <div class="card card-img-container shadeType">
+                            <img src="asia_img/3/${data.Chinese_Movies_Series[i].Image}" alt="">
+                        </div>
+                        <div class="textType">
+                            <span class="titleName">${data.Chinese_Movies_Series[i].Name}</span>
+                            <div class="sub-info">
+                                <span>${info}</span>
+                            </div>
+                            <div class="movieDescription">
+                                ${data.Chinese_Movies_Series[i].Description}
+                            </div>
+                            <div class="addToWatchList" title="เพิ่มในรายการรับชม">
+                                <img class="plusIcon" src="asia_img/plusicon.png" alt="">
+                                <span> เพิ่มในรายการรับชม</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>`);
+                document.getElementById("add-swiper3").appendChild(html);
+            }
+
+            for (var i = 0; i < data.Award_Winning.length; i++) {
+                var info = "";
+                for (var j = 0; j < data.Award_Winning[i].Type.length; j++) {
+                    info += data.Award_Winning[i].Type[j]
+                    if (j != data.Award_Winning[i].Type.length - 1) {
+                        info += `, `;
+                    }
+                }
+                var html = createElementFromHTML(`<div class="swiper-slide">
+                    <div class="inerType">
+                        <a href="${data.Award_Winning[i].Trailer}" target="_blank">
+                            <div class="img_position_swiper"></div>
+                        </a>
+                        <div class="card card-img-container shadeType">
+                            <img src="asia_img/4/${data.Award_Winning[i].Image}" alt="">
+                        </div>
+                        <div class="textType">
+                            <span class="titleName">${data.Award_Winning[i].Name}</span>
+                            <div class="sub-info">
+                                <span>${info}</span>
+                            </div>
+                            <div class="movieDescription">
+                                ${data.Award_Winning[i].Description}
+                            </div>
+                            <div class="addToWatchList" title="เพิ่มในรายการรับชม">
+                                <img class="plusIcon" src="asia_img/plusicon.png" alt="">
+                                <span> เพิ่มในรายการรับชม</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>`);
+                document.getElementById("add-swiper4").appendChild(html);
+            }
+        }
+
+        function createElementFromHTML(htmlString) {
+            var div = document.createElement('div');
+            div.innerHTML = htmlString.trim();
+            // Change this to div.childNodes to support multiple top-level nodes
+            return div.firstChild;
+        }
+    </script>
+    <!-- Initialize Swiper -->
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+            slidesPerView: 8,
+            spaceBetween: 8,
+            slidesPerGroup: 8,
+            pagination: {
+                el: ".swiper-pagination",
+                type: "fraction",
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            }
+        });
+        // var swiper = $('.swiper-container').swiper({
+        //     onSlideChangeStart: function () {
+        //         // on the first slide
+        //         if (swiper.activeIndex == 0) {
+        //             $('.left-arrow').hide()
+        //             $('.right-arrow').show()
+        //         }
+        //         // most right postion
+        //         else if (swiper.activeIndex == swiper.slides.length - 1) {
+        //             $('.left-arrow').show()
+        //             $('.right-arrow').hide()
+        //         }
+        //         // middle positions
+        //         else {
+        //             $('.left-arrow').show()
+        //             $('.right-arrow').show()
+        //         }
+        //     }
+        // })
+    </script>
+
+
+    <div class="footer">
+        <div class="containers">
+            <div class="rows">
+                <div class="footer-left">
+                    <ul class="list">
+                        <li><a href="#">เกี่ยวกับ Disney+ Hotstar</a></li>
+                        <li><a href="#">ข้อตกลงการใช้งาน</a></li>
+                        <li><a href="#">นโยบายความเป็นส่วนตัว (ใหม่)</a></li>
+                        <li><a href="#">คำถามที่พบบ่อย</a></li>
+                        <li><a href="#">ข้อเสนอแนะ</a></li>
+                    </ul>
+                    <p class="coryright">© 2564 ดิสนีย์และบริษัทในเครือที่เกี่ยวข้อง © 2564
+                        บริษัทผู้อนุญาตให้ใช้สิทธิของดิสนีย์ สงวนสิทธิ์ทุกประการ</p>
+                </div>
+
+                <div class="footer-wrap">
+                    <div class="appsocial">
+                        <div>
+                            <p>เชื่อมต่อกับเรา</p>
+                            <ul class="sci">
+                                <li><a href="https://www.facebook.com/DisneyPlusHotstarTH" target="_blank"><i
+                                            class="fa fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+                                <li><a href="https://twitter.com/disneyplusth" target="_blank"><i
+                                            class="fa fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="app">
+                        <div class="wrapper">
+                            <p>แอป Disney+ Hotstar</p>
+                            <a href="https://play.google.com/store/apps/details?id=in.startv.hotstar.dplus"
+                                target="_blank" class="playstore">
+                                <img src="images/playhover.svg">
+                                <img src="images/googleplay.svg">
+                            </a>
+                            <a href="https://apps.apple.com/us/app/disney-hotstar/id1524156685" target="_blank"
+                                class="appstore">
+                                <img src="images/applehover.svg">
+                                <img src="images/applestore.svg">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
