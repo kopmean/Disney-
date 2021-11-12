@@ -1,0 +1,82 @@
+{
+    "เรื่องนี้เฉพาะคุณโดยเฉพาะ": [{
+        "id": "RF0",
+        "Name": "Clouds",
+        "Description": "แซค โซบีค นักดนตรีหนุ่มที่มีชีวิตอยู่ได้อีกเพียงไม่กี่เดือน ไล่ตามความฝันของเขาที่จะทำอัลบั้มเพลงทำให้เวลาที่เหลืออยู่น้อยนิดของเขาคุ้มค่าที่สุด...",
+        "Type": ["Biopic", "Drama"],
+        "Image": "1.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=OWEgUhWU4g4"
+    }, {
+        "id": "RF1",
+        "Name": "Solo: A Star Wars Story",
+        "Description": "หลายปีก่อนเข้าร่วมกลุ่มกบฏ ฮาน โซโลพบกับชิวแบคคา นักบินในอนาคตของเขาและแลนโด คาลริสเซียนในระหว่างการเดินทางไปยังโลกอาชญากรที่มืดมิดใต้พิภพ...",
+        "Type": ["Action"],
+        "Image": "2.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=jPEYpryMp2s"
+    }, {
+        "id": "RF2",
+        "Name": "Togo",
+        "Description": "ในฤดูหนาวปี 1925 แชมป์ฝึกสอนสุนัขลากเลื่อนและโทโก สุนัขคู่ใจ เริ่มต้นการเดินทางที่น่าตื่นเต้นข้ามภูมิประเทศทุนดราอลาสกันสุดอันตราย เพื่อช่วยขนส่งเซรุ่มต้านพิษไปยังเมืองเล็กๆ...",
+        "Type": ["Action"],
+        "Image": "3.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=IUOiouEIf2k"
+    }, {
+        "id": "RF3",
+        "Name": "Onward",
+        "Description": "ณ ชานเมืองในโลกแฟนตาซี เอลฟ์วัยรุ่นสองพี่น้องเริ่มภารกิจพิเศษเพื่อพาพ่อกลับมาและค้นหาว่าเวทมนตร์ยังมีอยู่หรือไม่...",
+        "Type": ["Kids", "Family"],
+        "Image": "4.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=gn5QmllRCn4"
+    }, {
+        "id": "RF4",
+        "Name": "Secrets of the Whales",
+        "Description": "ดำดิ่งลึกลงไปยังใจกลางความรุ่งเรืองของวาฬเพื่อเปิดเผยความลึกลับและความสวยงามของโลกแห่งวาฬทั้งหลาย...",
+        "Type": ["Documentary", "Nat Geo"],
+        "Image": "5.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=xOySOlB78dM"
+    }, {
+        "id": "RF5",
+        "Name": "Shang-Chi and The Legend of The Ten Rings",
+        "Description": "ชาง-ชี ต้องเผชิญหน้ากับอดีตที่เขาคิดว่าเขาทิ้งมันไปแล้ว และต้องเผชิญหน้ากับพ่อของตัวเอง ผู้ซึ่งเป็นหัวหน้าองค์กรลับเท็นริงส์สุดอันตราย ...",
+        "Type": ["Superhero", "Action"],
+        "Image": "6.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=8YjFbMbfXaQ"
+    }, {
+        "id": "RF6",
+        "Name": "20/20: The Most Magical Story On Earth: 50 Years Of Walt Disney World",
+        "Description": "ร่วมเฉลิมฉลองให้วอลท์ ดิสนีย์ เวิลด์ รีสอร์ตไปด้วยกัน เราจะพาคุณไปสำรวจเส้นทางประวัติศาสตร์ที่ทอดยาวกว่าครึ่งศตวรรษ ณ วอลท์ ดิสนีย์ เวิลด์ รัฐฟลอริดา ...",
+        "Type": ["Documentary"],
+        "Image": "7.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=0-c9g1rmf3Y"
+    }, {
+        "id": "RF7",
+        "Name": "Jungle Cruise",
+        "Description": "เพื่อออกตามหาต้นไม้โบราณที่มีพลังมหัศจรรย์ในการเยียวยา ดร.ลิลี่ เฮาจ์ตันและแฟรงก์ วอล์ฟ กัปตันเรือจอมกวน ร่วมทีมออกผจญภัยครั้งสำคัญในลุ่มแม่น้ำแอมะซอน ...",
+        "Type": ["Action"],
+        "Image": "8.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=f_HvoipFcA8"
+    }, {
+        "id": "RF8",
+        "Name": "The Mysterious Benedict Society",
+        "Description": "เรย์นี่, สติ๊กกี้, เคท และคอนสแต๊นซ์ เด็กกำพร้าปัญญาเลิศ 4 คนได้รับคัดเลือกจากคุณเบเนดิกต์คนเพี้ยนในภารกิจปกป้องโลก ...",
+        "Type": ["Drama", "Comedy", "Disney"],
+        "Image": "9.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=MUpFzScK7P8"
+    }, {
+        "id": "RF9",
+        "Name": "Enchanted",
+        "Description": "เจ้าหญิงจีเซลถูกส่งมายังโลกของเราด้วยฝีมือของราชินีผู้ชั่วร้าย และได้พบกับทนายผู้หล่อเหลา ความรักแบบในนิยายจะอยู่รอดในโลกแห่งความจริงได้หรือไม่ มาเป็นกำลังใจให้พวกเขากัน ...",
+        "Type": ["Family"],
+        "Image": "10.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=IJwUFq8uOr0"
+    }],
+
+    "แอนิเมชั่นเรื่องดัง": [{
+        "id": "0",
+        "Name": "",
+        "Description": "",
+        "Type": [],
+        "Image": "1.jpg",
+        "Trailer": ""
+    }]
+}
