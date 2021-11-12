@@ -1,0 +1,289 @@
+{
+    "ซีรีส์ตะวันตกยอดนิยม": [{
+        "id": "PW0",
+        "Name": "Godfather of Harlem",
+        "Description": "เรื่องราวของบัมพี จอห์นสัน หัวหน้าแก๊งอาชญากรอื้อฉาว ซึ่งคืนสู่อิสรภาพหลังการจำคุกสิบปี ตอนช่วงต้นยุค 60 และพบว่าถิ่นที่เขาเคยคุมเต็มไปด้วยความวุ่นวาย...",
+        "Type": ["Drama", "ABC Studios"],
+        "Image": "1.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=FXSt-InPzeY"
+    }, {
+        "id": "PW1",
+        "Name": "Witches Of East End",
+        "Description": "นี่คือเรื่องราวการผจญภัยของแม่และลูกสาวสองคนซึ่งทั้งคู่ไม่รู้ตัวว่าตนเป็นแม่มดรุ่นถัดไปของครอบครัวซึ่งใช้ชีวิตอยู่ในยุคปัจจุบันที่ดูเงียบสงบและไม่มีเหตุการณ์ใดๆ จนภัยร้ายจากอดีตกลับมาทวงแค้น...",
+        "Type": ["Horror", "Star World"],
+        "Image": "2.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=urTK3_P6-C0"
+    }, {
+        "id": "PW2",
+        "Name": "Motherland: Fort Salem",
+        "Description": "ในอีกโลกหนึ่ง สงครามชนะได้ด้วยเวทมนตร์ กองกำลังหลักคือเหล่าแม่มด พวกเธอจึงต้องฝึกฝนเพื่อต่อกรกับผู้ก่อการร้าย...",
+        "Type": ["Drama", "ABC Studios"],
+        "Image": "3.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=QASwXRDVBVY"
+    }, {
+        "id": "PW3",
+        "Name": "Pride",
+        "Description": "เรื่องราวการต่อสู้ของชาว LGBTQ+ ด้านการเคลื่อนไหวเพื่อสิทธิพลเมืองและสิทธิ์สมรสเท่าเทียมตั้งแต่ยุค 1950 เป็นต้นมา ...",
+        "Type": ["Drama", "Disney"],
+        "Image": "4.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=iJNMAxwQXhM"
+    }, {
+        "id": "PW4",
+        "Name": "Siren",
+        "Description": "เมืองชายฝั่งเล็กๆ ที่ดูสงบสุขต้องพบกับความวุ่นวายเมื่อเหล่านางเงือกจากตำนานปรากฏตัว...",
+        "Type": ["Drama", "Disney"],
+        "Image": "5.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=82NusegO1mQ"
+    }, {
+        "id": "PW5",
+        "Name": "Only Murders in the building",
+        "Description": "คนแปลกหน้าสามคนที่คลั่งไคล้เรื่องราวอาชญากรรมเหมือนกัน ต้องช่วยกันสืบสวนการตายของเพื่อนร่วมอพาร์ตเมนต์ ...",
+        "Type": ["Crime", "Disney"],
+        "Image": "6.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=-V1rQdXXXyI"
+    }, {
+        "id": "PW6",
+        "Name": "Glee",
+        "Description": "ครูมัธยมปลายผู้มองโลกในแง่ดีสร้างแรงบรรดาลใจและจุดไฟฝันให้กับนักเรียนในชมรมประสานเสียง เพื่อเป้าหมายในการเป็นแชมป์ระดับประเทศ ผ่านบทเพลงแสนประทับใจที่แฟนละครเพลงไม่ควรพลาด...",
+        "Type": ["Teen", "Star World"],
+        "Image": "7.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=sefQqCMusJI"
+    }, {
+        "id": "PW7",
+        "Name": "White Collar",
+        "Description": "อาชญากรในคราบพนักงานบริษัทคนหนึ่งตกลงที่จะช่วยเอฟบีไอจับอาชญากรทางเศรษฐกิจคนอื่นๆ โดยนำความเชี่ยวชาญในฐานะโจรขโมยงานศิลป์รวมถึงทักษะการปลอมแปลงและต้มตุ๋นมาใช้...",
+        "Type": ["Crime", "Star World"],
+        "Image": "8.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=gIFySyLynAk"
+    }, {
+        "id": "PW8",
+        "Name": "Once Upon A Time In Wonderland",
+        "Description": "นี่คือเรื่องราวการผจญภัยอีกฉบับของอลิซที่ตกลงไปในโพรงกระต่าย แล้วไปโผล่ในแดนมหัศจรรย์ที่มี แมวล่องหน หนอนผีเสื้อสูบยา และไพ่พูดได้ แต่ครั้งนี้เธอต้องต่อกรกับราชินีโพธิ์แดงและจาฟาร์ไปพร้อมๆ กัน...",
+        "Type": ["Drama", "ABC Studios"],
+        "Image": "9.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=7DPj3vR5d9k"
+    }, {
+        "id": "PW9",
+        "Name": "A Teacher",
+        "Description": "ซีรีส์เรื่องนี้จะพาคุณไปพบกับความซับซ้อนและผลลัพธ์ของความสัมพันธ์แบบนักล่าและเหยื่อระหว่างครูสาวกับนักเรียนมัธยมปลายหนุ่ม...",
+        "Type": ["Drama", "Star World"],
+        "Image": "10.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=2CSl1hGwJkQ"
+    }],
+
+    "ซีรีส์แอนิเมชั่น": [{
+        "id": "AS0",
+        "Name": "American Dad",
+        "Description": "ซีรีส์แอนิเมชั่นสำหรับผู้ใหญ่เกี่ยวกับชีวิตของคุณพ่อซีไอเอ ปลาทองพูดได้และมนุษย์ต่างดาวจากอวกาศที่พยายามป้องกันเหตุก่อการร้ายในสหรัฐอเมริกา...",
+        "Type": ["Comedy", "Star World"],
+        "Image": "1.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=tGs1QuoQAEs"
+    }, {
+        "id": "AS1",
+        "Name": "My Friends Tigger & Pooh",
+        "Description": "พูห์ ทิกเกอร์ และเพื่อนๆ จากป่าร้อยเอเคอร์จะมาต้อนรับเพื่อนบ้านใหม่และพาไปสืบเรื่องราวสนุกๆ กัน ...",
+        "Type": ["Kids", "Disney"],
+        "Image": "2.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=c_yD3ymwbNw"
+    }, {
+        "id": "AS2",
+        "Name": "Marvel's Avengers Assemble",
+        "Description": "หลังจากเอาชนะภัยคุกคามอย่างอัลตรอนและธานอสได้แล้ว เหล่าอเวนเจอร์สก็แยกย้าย หากแต่การกลับมาของอัลตรอนทำให้พวกเขาต้องกลับมารวมตัวและเรียนรู้การทำงานร่วมกันอีกครั้งหนึ่ง...",
+        "Type": ["Kids", "Superhero", "Marvel"],
+        "Image": "3.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=30Gy8Q8wQMo"
+    }, {
+        "id": "AS3",
+        "Name": "Marvel's M.O.D.O.K",
+        "Description": "โมด็อค สุดยอดวายร้ายผู้หลงใหลในอำนาจ เริ่มเสียการควบคุมในองค์กรสุดโฉดและครอบครัวที่เอาแต่ใจ ...",
+        "Type": ["Comedy", "Disney"],
+        "Image": "4.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=oSEWdhHBlYU"
+    }, {
+        "id": "AS4",
+        "Name": "Solar Opposites",
+        "Description": "ครอบครัวเอเลี่ยนตกลงมาบนโลกและต้องลี้ภัยอยู่ในแถบตอนกลางของอเมริกา ...",
+        "Type": ["Comedy", "Disney"],
+        "Image": "5.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=UN7OH4d3CEw"
+    }, {
+        "id": "AS5",
+        "Name": "Kim Possible",
+        "Description": "เชียร์ลีดเดอร์โรงเรียนมัธยมปลายและเพื่อนสนิทที่มักประสบอุบัติเหตุของเธอ ต้องพยายามแบ่งเวลาระหว่างการเป็นนักปราบปรามอาชญากรระดับโลก และสู้กับความท้าทายของชีวิตวัยรุ่น...",
+        "Type": ["Action", "Kids", "Disney"],
+        "Image": "6.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=41AUWWe_zkA"
+    }, {
+        "id": "AS6",
+        "Name": "The Simpsons",
+        "Description": "*งดออกอากาศชั่วคราว ตอนต่อไปวันที่ 12 พ.ย.* โฮเมอร์ ซิมป์สัน พนักงานโรงงานนิวเคลียร์ ไม่ใช่แค่คนรักครอบครัวทั่วไป เขาเป็นผู้นำที่เต็มที่เสมอ พบกับครอบครัวตัวป่วนที่มีทั้งแม่มาร์จ ลูกชายบาร์ต ลูกสาวลิซ่า และหนูน้อยแม็กกี้ที่จะพาความฮามาให้คุณ...",
+        "Type": ["Comedy", "Star World"],
+        "Image": "7.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=_jgYEYERYFQ"
+    }, {
+        "id": "AS7",
+        "Name": "The Owl House",
+        "Description": "ลูซบังเอิญหลุดเข้าไปในประตูมิติที่พาไปสู่โลกใหม่ เธอได้เป็นเพื่อนกับเอด้า แม่มดหัวขบถ และคิง นักรบตัวเล็กน่ารัก...",
+        "Type": ["Comedy", "Kids", "Disney"],
+        "Image": "8.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=1W1FFiT51lg"
+    }, {
+        "id": "AS8",
+        "Name": "Futurama",
+        "Description": "ฟิวเจอร์ราม่า เป็นการ์ตูนตลกเกี่ยวกับฟรายเด็กส่งพิซซ่าที่ถูกแช่แข็งในปี 1999 และตื่นขึ้นมาในอีกหนึ่งพันปีให้หลังในโลกยุคใหม่ ที่ไม่ได้เปลี่ยนไปจากศตวรรษที่ 20 นัก...",
+        "Type": ["Comedy", "Star World"],
+        "Image": "9.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=GxEY6KNsz44"
+    }, {
+        "id": "AS9",
+        "Name": "Lilo & Stitch",
+        "Description": "บนเกาะฮาวายในเขตร้อนชื้นและเขียวขจี เด็กสาวผู้เปล่าเปลี่ยวชื่อลีโล รับลูกสุนัขหน้าตาใสซื่อมาเลี้ยงและตั้งชื่อว่า สติทช์ โดยไม่รู้ว่าสุนัขตัวนี้เป็นสัตว์ทดลองพันธุกรรมอันตรายที่หนีมาจากต่างดาว...",
+        "Type": ["Kids", "Disney"],
+        "Image": "10.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=5vMEOvZ1ODk"
+    }], 
+
+    "จักรวาลมาร์เวลสุดอัศจรรย์": [{
+        "id": "MA0",
+        "Name": "Marvel Studios ASSEMBLED",
+        "Description": "พบเบื้องหลังการถ่ายทำซีรีส์และภาพยนตร์ของมาร์เวลที่จะทำให้คุณตื่นตาไปกับความสร้างสรรค์และความมหัศจรรย์ก่อนจะออกมาเป็นผลงานให้เราชม...",
+        "Type": ["Documentary", "Superhero", "Marvel"],
+        "Image": "1.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=6Bi9rpg5BvQ"
+    }, {
+        "id": "MA1",
+        "Name": "The Falcon and The Winter Soldier",
+        "Description": "แซม วิลสัน หรือ 'ฟัลคอน' และ บัคกี้ บาร์นส์ หรือ 'วินเทอร์โซลเจอร์' ร่วมทีมกันผจญภัยไปรอบโลกเพื่อปราบวายร้ายรูปแบบใหม่ที่จะมาทดสอบความเก่งกาจและความอดทนของทั้งคู่...",
+        "Type": ["Action", "Disney"],
+        "Image": "2.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=IWBsDaFWyTE"
+    }, {
+        "id": "MA2",
+        "Name": "WandaVision",
+        "Description": "วันด้า แม็กซิมอฟฟ์และวิสชั่น คู่รักยอดมนุษย์ แต่งงานและย้ายมาอยู่ย่านชานเมืองของอเมริกาเพื่อสร้างครอบครัวในอุดมคติ แต่หลายๆ อย่างทำให้สงสัยว่า ชีวิตของทั้งคู่นั้น เป็นเรื่องจริงหรือภาพลวง ...",
+        "Type": ["Superhero", "Drama", "Marvel"],
+        "Image": "3.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=sj9J2ecsSpo"
+    }, {
+        "id": "MA3",
+        "Name": "Marvel's 616",
+        "Description": "ซีรีส์สารคดีที่รวบรวมเรื่องราวอิทธิพลทางด้านวัฒนธรรม สังคมและประวัติศาสตร์ของจักรวาลมาร์เวลและการมาบรรจบกับโลกในปัจจุบันเข้าไว้ด้วยกัน...",
+        "Type": ["Documentary", "Marvel"],
+        "Image": "4.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=1ODhWjCxydU"
+    }, {
+        "id": "MA4",
+        "Name": "Hero Project",
+        "Description": "นี่คือซีรีส์ที่ไม่ได้เล่นตามบท ร่วมแบ่งปันเรื่องราวดีๆ ที่ฮีโร่เยาวชนในชีวิตจริงได้สร้างต่อชุมชน มาร์เวลยกย่องพวกเขาในฐานะซูเปอร์ฮีโร่ตัวจริงที่เป็นอมตะในหนังการ์ตูนของตัวเองกับโครงการฮีโร่ของมาร์เวล...",
+        "Type": ["Documentary", "Marvel"],
+        "Image": "5.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=qpwRyA9pfFs"
+    }, {
+        "id": "MA5",
+        "Name": "Marvel's Runaways",
+        "Description": "วัยรุ่น 6 คนค้นพบแผนลับเลวร้ายที่บรรดาพ่อแม่ปกของตัวเองปิดไว้ เมื่อรับไม่ได้กับสิ่งที่ผู้ใหญ่ทำ เด็กๆ จึงหนีออกจากบ้านและรวมพลังกันเพื่อหยุดยั้งพวกพ่อแม่ก่อนจะสายเกินไป...",
+        "Type": ["Action", "Superhero", "Marvel"],
+        "Image": "6.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=y-OJVwUG76k"
+    }, {
+        "id": "MA6",
+        "Name": "Marvel's Cloak & Dagger",
+        "Description": "ชีวิตของไทโรนและแทนดี้ต้องพังไม่เป็นท่าจากเหตุการณ์ในวัยเด็ก เมื่อกลับมาพบกันอีกครั้ง ทั้งคู่ค้นพบพลังแห่งความมืดและแสงสว่าง ความหวังและความกลัว และกลายมาเป็น 'โคลกและแด็กเกอร์'...",
+        "Type": ["Action", "Superhero", "Marvel"],
+        "Image": "7.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=Bglj2PeVNTA"
+    }, {
+        "id": "MA7",
+        "Name": "The Gifted",
+        "Description": "ชีวิตเรียบง่ายของคู่สามีภรรยาชานเมืองต้องสั่นคลอนเมื่อทั้งคู่เพิ่งรู้ว่าลูกแฝดของตัวเองมีพลังเหนือมนุษย์ นี่คือเรื่องราวของเหล่ามนุษย์กลายพันธุ์ที่มีการดำเนินเรื่องในจักรวาลเอ็กซ์เม็น...",
+        "Type": ["Superhero", "Drama", "Star World"],
+        "Image": "8.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=3pDdXYf3nfc"
+    }, {
+        "id": "MA8",
+        "Name": "Marvel's Studios LENGENDS",
+        "Description": "นี่คือรายการพิเศษที่ทำขึ้นเพื่อยกย่องเหล่าฮีโร่และวายร้ายจากมาร์เวลที่มีซีรีส์ของตัวเองในดิสนีย์พลัส...",
+        "Type": ["Superhero", "Action", "Marvel"],
+        "Image": "9.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=lWQF6F81kbY"
+    }, {
+        "id": "MA9",
+        "Name": "Marvel's Inhumans",
+        "Description": "รัฐประหารทำให้สมาชิกราชวงศ์อินฮิวแมนต้องหนีหัวซุกหัวซุนมายังฮาวาย ทุกคนต้องหาทางกลับมารวมกันก่อนที่วิถีชีวิตจะถูกทำลายไปตลอดกาล...",
+        "Type": ["Action", "Superhero", "Marvel"],
+        "Image": "10.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=1sYF1SXcWqQ"
+    }],
+
+    "ซีรีส์สตาร์ วอร์ส": [{
+        "id": "SW0",
+        "Name": "Star Wars: Visions",
+        "Description": "Star Wars Visions คืออนิเมะขนาดสั้นจบในตอนเพื่อเชิดชูสตาร์ วอร์สผ่านมุมมองของเหล่าผู้สร้างอนิเมะและนักเล่าเรื่องฝีมือดีที่สุดในโลก...",
+        "Type": ["Action", "Star Wars"],
+        "Image": "1.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=lle0NNmvIyU"
+    }, {
+        "id": "SW1",
+        "Name": "Star Wars: A Galaxy of Sounds",
+        "Description": "ดื่มด่ำไปกับเสียงแห่งจักรวาลอันไกลโพ้นผ่านธีมต่างๆ เช่น ความพิศวง ความตื่นเต้น ความแปลกประหลาด และอีกมากมาย...",
+        "Type": ["Family", "Musical", "Star Wars"],
+        "Image": "2.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=d2igPDBswSE"
+    }, {
+        "id": "SW2",
+        "Name": "The Bad Batch",
+        "Description": "หน่วยแบดแบตช์ต้องตามหาหนทางเอาตัวรอดของตัวเองในกาแล็กซีที่กำลังเปลี่ยนแปลงอย่างรวดเร็ว...",
+        "Type": ["Action", "Star Wars"],
+        "Image": "3.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=BsOmYpP4UDU"
+    }, {
+        "id": "SW3",
+        "Name": "Star Wars: The Clone Wars",
+        "Description": "กองกำลังหลักของสาธารณะรัฐ นำโดยโยดา, เมซ วินดู, โอบีวัน เคโนบี, อนาคิน สกายวอล์คเกอร์ และอัศวินเจไดคนอื่นๆ เข้าห้ำหั่นกับกองทัพดรอยด์ใหม่ของขบวนการแบ่งแยกเพื่อจบสงครามโคลนครั้งนี้...",
+        "Type": ["Action", "Star Wars"],
+        "Image": "4.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=ZLW2jkd6E7g"
+    }, {
+        "id": "SW4",
+        "Name": "Disney Gallery / Star Wars: The Mandalorian",
+        "Description": "ชมแง่มุมต่างๆ ของ 'เดอะ แมนดาลอเรียน' ซีรีส์คนแสดงเรื่องแรกของสตาร์ วอร์ส ทั้งบทสัมภาษณ์ เบื้องหลังการถ่ายทำ และความหมายของคำว่า 'นี่คือวิถีเรา' โดยมีจอน แฟฟโรว์เป็นผู้ดำเนินรายการ...",
+        "Type": ["Documentary", "Star Wars"],
+        "Image": "5.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=B492eUpIyAc"
+    }, {
+        "id": "SW5",
+        "Name": "Star Wars Resistance",
+        "Description": "แคซทำภารกิจสายลับให้กองกำลังต่อต้าน แต่กลับเจอเรื่องเกินตัวมากมาย ไม่ว่าจะเป็นเหล่านักแข่ง สลัดอวกาศ และเจ้าของสถานีที่เขาประจำการอยู่...",
+        "Type": ["Action", "Kids", "Star Wars"],
+        "Image": "6.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=bH_Ws7sA468"
+    }, {
+        "id": "SW6",
+        "Name": "Star Wars Rebels",
+        "Description": "ณ ช่วงเวลาอันมืดหม่นในกาแล็กซี ลูกเรือมากหน้าหลายตาของยานรบโกสต์ได้ยืดหยัดเพื่อคนที่ไม่มีแรงต่อสู้ และจุดประกายไฟให้กองกำลังต่อต้าน...",
+        "Type": ["Action", "Kids", "Star Wars"],
+        "Image": "7.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=xg5YN3LAGw4"
+    }, {
+        "id": "SW7",
+        "Name": "LEGO Star Wars: All Stars",
+        "Description": "โรเจอร์ ดรอยด์สังหารผู้แสนน่ารัก เล่าเรื่องราวชีวิตของเขา เริ่มตั้งแต่สมัยสงครามโคลน จนกระทั่งร่วมรบต่อสู้กับฝ่ายปฐมภาคีผู้น่าเกรงขาม...",
+        "Type": ["Kids", "Disney"],
+        "Image": "8.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=0vNXYyxUFhQ"
+    }, {
+        "id": "SW8",
+        "Name": "The Freemaker Adventures",
+        "Description": "เมื่อโรแวน ฟรีเมคเกอร์ เด็กชายอายุ 12 ปีผู้มีพลัง ได้พบไคเบอร์เซเบอร์ สิ่งประดิษฐ์โบราณที่เชื่อมโยงกับเจได โลกของเขาก็เปลี่ยนไปโดยสิ้นเชิง ...",
+        "Type": ["Action", "Kids", "Star Wars"],
+        "Image": "9.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=wk8apGoldq8"
+    }, {
+        "id": "SW9",
+        "Name": "Star Wars: Droid Tales",
+        "Description": "ขณะที่เหล่าฮีโร่เดินทางข้ามผ่านกาแล็กซีเพื่อช่วยอาร์ทูดีทู ซีทรีพีโอเล่าถึงเรื่องของกองกำลังต่อต้าน การผจญภัยครั้งยิ่งใหญ่ของพวกเขา ความขัดแย้งกับกลุ่มซิธ และการออกเดินทางค้นหาความหวังใหม่...",
+        "Type": ["Action", "Kids", "Star Wars"],
+        "Image": "10.jpg",
+        "Trailer": "https://www.youtube.com/watch?v=9E7Tp9ycxDs"
+    }]
+}

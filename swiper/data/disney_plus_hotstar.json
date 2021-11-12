@@ -1,5 +1,5 @@
 {
-    "New_to_DisneyHotstar": [{
+    "มาใหม่ในสัปดาห์นี้": [{
         "id": "ND0",
         "Name": "Desperate Housewives",
         "Description": "เมื่อเกิดเหตุฆ่าตัวตายปริศนาในย่านชานเมือง ความลับสุดแซ่บและความจริงที่แซ่บกว่าจึงถูกเปิดเผยผ่านชีวิตของเหล่าแม่บ้านหัวใจเปลี่ยว ...",
@@ -71,219 +71,219 @@
         "Trailer": "https://www.youtube.com/watch?v=S6PojRlkPOk"
     }],
 
-    "Trending_in_Thailand": [{
+    "ติดเทรนด์ในประเทศไทย": [{
         "id": "TT0",
         "Name": "National Treasure",
         "Description": "เบนจามิน แฟรงคลิน เกตส์ ออกตามหาสมบัติที่ถูกซ่อนไว้โดยกลุ่มบิดาผู้ก่อตั้งสหรัฐฯ ในสมัยสงครามปฏิรูป เขาต้องหาให้เจอก่อนคู่แข่งโดยไม่ให้เอฟบีไอจับได้...",
         "Type": ["Action"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3412/943412-v",
+        "Image": "1.jpg",
         "Trailer": "https://www.youtube.com/watch?v=mcf4tXYjaxo"
     }, {
         "id": "TT1",
         "Name": "Body of Proof",
         "Description": "ดร.เมแกน ฮันต์ แพทย์ชันสูตรของกรมตำรวจฟิลาเดเฟีย ต้องรับมือกับปัญหาเรื่องชีวิตส่วนตัว พร้อมๆ กับแข็งขืนต่อแบบแผนของการเป็นตำรวจ เพื่อคืนความยุติธรรมและความสงบให้กับเหยื่อและครอบครัว...",
         "Type": ["Drama", "Crime", "ABC Studios"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9730/859730-v",
+        "Image": "2.jpg",
         "Trailer": "https://www.youtube.com/watch?v=uam5imBLAOE"
     }, {
         "id": "TT2",
         "Name": "Guardians of The Galaxy Vol. 2",
         "Description": "ซอฟเฟอรินเล่นงานแก๊งการ์เดี้ยนเมื่อร็อกเก็ตขโมยแบตเตอรี่สำคัญไป พ่อของสตาร์ลอร์ดเข้ามาช่วยเหลือไว้ สตาร์ลอร์ดและเพื่อนๆ จึงออกเดินทางเพื่อหาคำตอบเกี่ยวกับแม่ของเขา...",
         "Type": ["Action"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1549/941549-v",
+        "Image": "3.jpg",
         "Trailer": "https://www.youtube.com/watch?v=dW1BIid8Osg"
     }, {
         "id": "TT3",
         "Name": "Epic",
         "Description": "จากผู้สร้างไอซ์ เอจ มาพร้อมกับแอนิเมชั่นผจญภัยสุดฮา สมทบด้วยนักแสดงอย่าง อะแมนดา ไซเฟร็ดและบียอนเซ่ โนวส์ เรื่องราวของวัยรุ่นคนหนึ่งในโลกเวทมนตร์ที่ต้องช่วยรักษาโลกนี้ไว้จากนักรบผู้ชั่วร้าย!...",
         "Type": ["Family"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3724/943724-v",
+        "Image": "4.jpg",
         "Trailer": "https://www.youtube.com/watch?v=BJVkoq_wK80"
     }, {
         "id": "TT4",
         "Name": "Percy Jackson & The Olympians: The Lightning Thief",
         "Description": "เพอร์ซี แจ็คสัน บุตรครึ่งเทพของโพไซดอน ถูกซูสกล่าวหาว่าขโมยอสุนีบาตจากยอดเขาโอลิมปัสไป เขาจึงต้องตามหาสายฟ้าก่อนที่มหาเทพทั้งสองจะก่อสงครามกัน...",
         "Type": ["Action"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3542/943542-v",
+        "Image": "5.jpg",
         "Trailer": "https://www.youtube.com/watch?v=xko1Mx5w4tg"
     }, {
         "id": "TT5",
         "Name": "Marvel's Agents of S.H.I.E.L.D.",
         "Description": "เมื่อผู้คนได้รู้แล้วว่าซูเปอร์ฮีโร่และเอเลียนมีอยู่จริง เจ้าหน้าที่จากหน่วยชีลด์จึงต้องเดินทางรอบโลกเพื่อทำภารกิจหยุดยั้งไฮดร้าและปกป้องโลกจากภัยรุกรานต่างดาว...",
         "Type": ["Action", "Superhero", "Marvel"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9326/689326-v",
+        "Image": "6.jpg",
         "Trailer": "https://www.youtube.com/watch?v=T3T-evQZiQo"
     }, {
         "id": "TT6",
         "Name": "The Martian",
         "Description": "เมื่อถูกคาดว่าเสียชีวิตในช่วงที่มีพายุดาวเคราะห์ มาร์ค วัทนีย์จึงถูกทิ้งเอาไว้บนดาวอังคาร ทันทีที่นาซ่าพบว่าเขายังมีชีวิตและเอาตัวรอดได้ ปฏิบัติการช่วยชีวิตจึงเกิดขึ้น...",
         "Type": ["Drama"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/8449/1028449-v-e041c0fa6506",
+        "Image": "7.jpg",
         "Trailer": "https://www.youtube.com/watch?v=ej3ioOneTy8&t=32s"
     }, {
         "id": "TT7",
         "Name": "Nomadland",
         "Description": "หญิงวัย 60 ออกเดินทางผ่านดินแดนตะวันตกของอเมริกาโดยใช้ชีวิตเป็นคนพเนจรสมัยใหม่บนรถบ้าน และได้พบประสบการณ์ใหม่ๆ ของชีวิต ...",
         "Type": ["Drama"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6308/1016308-v-6dcd9ff8c79d",
+        "Image": "8.jpg",
         "Trailer": "https://www.youtube.com/watch?v=6sxCFZ8_d84"
     }, {
         "id": "TT8",
         "Name": "The Mandalorian",
         "Description": "หลังจากจักรวรรดิกาแลคติกล่มสลาย ทั่วกาแล็กซีเพิกเฉยต่อกฎหมาย นักล่าค่าหัวชาวแมนดาลอเรี่ยนจอมสันโดษเดินทางผ่านวงโคจรรอบนอกเพื่อหาเงิน แต่กลับได้พบสิ่งที่มีความหมายยิ่งกว่า ...",
         "Type": ["Drama", "Action", "Star Wars"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7162/1057162-v-052e13706a13",
+        "Image": "9.jpg",
         "Trailer": "https://www.youtube.com/watch?v=aOC8E8z_ifw"
     }, {
         "id": "TT9",
         "Name": "The Pirate Fairy",
         "Description": "ทิงค์เกอร์ เบลล์และเพื่อนออกเดินทางผจญภัยเพื่อตามหาซารินา นางฟ้าแสนฉลาดและทะเยอทะยานที่ถูกบลูพิกซี่ดัสต์จับไป พวกเธอต้องเจอกับกลุ่มโจรสลัดที่นำโดยเด็กชายชาวเรือผู้ภายหลังกลายเป็นกัปตันฮุค...",
         "Type": ["Kids"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3554/943554-v",
+        "Image": "10.jpg",
         "Trailer": "https://www.youtube.com/watch?v=5K8z-DP01NA"
     }],
 
-    "Disney+_Originals": [{
+    "ดิสนีย์พลัส ออริจินัลส์": [{
         "id": "DO0",
         "Name": "Doogie Kamealoha, M.D.",
         "Description": "Dr Lahela 'Doogie' Kamaeloha, a 16-year-old prodigy, juggles a budding medical career with the daily challenges of teenage life....",
         "Type": ["Drama", "Family", "Disney"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3646/1053646-v-88956946e28d",
+        "Image": "1.jpg",
         "Trailer": "https://www.youtube.com/watch?v=GlYxLChVy_0"
     }, {
         "id": "DO1",
         "Name": "What If...?",
         "Description": "นี่คือการรังสรรค์เหตุการณ์ไปในทางที่คุณคาดไม่ถึง ซีรีส์แอนิเมชั่นเรื่องแรกของมาร์เวลสตูดิโอส์นี้ จะโฟกัสไปที่ฮีโร่หลากหลายคนจากจักรวาลภาพยนตร์มาร์เวล...",
         "Type": ["Superhero", "Action", "Marvel"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1744/1041744-v-f84d36239d74",
+        "Image": "2.jpg",
         "Trailer": "https://www.youtube.com/watch?v=x9D0uUKJ5KI"
     }, {
         "id": "DO2",
         "Name": "Loki",
         "Description": "หลังเหตุการณ์ใน 'อเวนเจอร์ส: เผด็จศึก' โลกิ เทพจอมเจ้าเล่ห์ตัวร้ายกลับมาอีกครั้งเพื่อช่วยกู้เวลาและหาตัวคนที่ร้ายกว่ามาลงโทษ...",
         "Type": ["Action", "Marvel"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4371/1034371-v-79d8bc8a8ea8",
+        "Image": "3.jpg",
         "Trailer": "https://www.youtube.com/watch?v=nW948Va-l10"
     }, {
         "id": "DO3",
         "Name": "Just Beyond",
         "Description": "ซีรีส์จบในตอนที่ได้แรงบันดาลใจจากงานเขียนของอาร์. แอล. สไตน์ บอกเล่าเรื่องราวอันน่าอัศจรรย์และกระตุ้นต่อมรับรู้ความเป็นจริงที่เราสุดจะล่วงรู้ได้ ...",
         "Type": ["Horror", "Comedy", "Disney"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5505/1065505-v-2e43fc2d5ba5",
+        "Image": "4.jpg",
         "Trailer": "https://www.youtube.com/watch?v=L2GVrR8233E"
     }, {
         "id": "DO4",
         "Name": "Muppets Haunted Mansion",
         "Description": "กอนโซผู้ยิ่งใหญ่รับมือกับเรื่องท้าทายที่สุดในชีวิต ด้วยการไปค้างคืน ณ สถานที่ที่น่ากลัวที่สุดในโลก นั่นคือคฤหาสน์ผีสิง...",
         "Type": ["Family", "Comedy", "Musical", "Kids"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6107/1066107-v-c5a6d3f15118",
+        "Image": "5.jpg",
         "Trailer": "https://www.youtube.com/watch?v=sN_m0GeeCTg"
     }, {
         "id": "DO5",
         "Name": "Happier Than Ever: A Love Letter to Los Angeles",
         "Description": "พบกับการแสดงทุกเพลงจากอัลบั้ม 'Happier Than Ever' พร้อมทั้งแขกรับเชิญมากมาย...",
         "Type": ["Musical", "Concert Film"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1549/1051549-v-b0710595b27e",
+        "Image": "6.jpg",
         "Trailer": "https://www.youtube.com/watch?v=RKWQ2Pce74k"
     }, {
         "id": "DO6",
         "Name": "Dug Days",
         "Description": "ซีรีส์รวมเรื่องสั้นตามติดการผจญกับความโชคร้ายในลานหลังบ้าน ผ่านสายตาที่เปี่ยมด้วยความตื่นเต้นของเจ้าดั๊ก สุนัขพูดได้ตัวโปรดของเรา...",
         "Type": ["Kids", "Pixar"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1487/1051487-v-ee682e5c8ec3",
+        "Image": "7.jpg",
         "Trailer": "https://www.youtube.com/watch?v=M19jufoQnFk"
     }, {
         "id": "DO7",
         "Name": "Among The Stars",
         "Description": "ซีรีส์สารคดีที่จะพาไปเปิดโลกเกี่ยวกับองค์การนาซา ติดตามชีวิตของคริสและทีมในระหว่างการปฏิบัติภารกิจมากมายเพื่อประโยชน์ของมนุษยชาติ ...",
         "Type": ["Documentary", "Disney"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2671/1062671-v-63562bb16a0b",
+        "Image": "8.jpg",
         "Trailer": "https://www.youtube.com/watch?v=1gvcNY5ywqw"
     }, {
         "id": "DO8",
         "Name": "Lego Star Wars Terrifying Tales",
         "Description": "เรื่องเล่าน่าสะพรึงกลัวสามเรื่องเกี่ยวกับสิ่งประดิษฐ์ต่างๆ และเหล่าวายร้ายผู้เป็นที่จดจำจากทุกยุคสมัยของสตาร์ วอร์ส...",
         "Type": ["Family"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2573/1062573-v-1c09bb8fbdab",
+        "Image": "9.jpg",
         "Trailer": "https://www.youtube.com/watch?v=a4Xyiun4LXs"
     }, {
         "id": "DO9",
         "Name": "Disney Insider",
         "Description": "เราจะพาคุณไปเปิดม่านบริษัทเดอะ วอลท์ ดิสนีย์ ชมเบื้องหลังภาพยนตร์ สวนสนุก สถานที่ท่องเที่ยว ดนตรี ของเล่น และอื่นๆ โดยแต่ละตอนมีสามเรื่องราวที่เต็มไปด้วยมนต์ขลังและน่าประทับใจแบบดิสนีย์...",
         "Type": ["Documentary", "Disney"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6749/656749-v",
+        "Image": "10.jpg",
         "Trailer": "https://www.youtube.com/watch?v=kV2lBlEHXGE"
     }],
 
-    "Must_Watch_Animation": [{
+    "แอนิเมชั่นที่ต้องดู": [{
         "id": "MW0",
         "Name": "Atlantis: The Lost Empire",
         "Description": "ไมโล แธทช์ นักวาดแผนที่ของพิพิธภัณฑ์ผู้ใสซื่อแต่มุ่งมั่น ฝันอยากทำการค้นหานครในตำนานที่ปู่ผู้ล่วงลับเริ่มไว้ ไมโลจึงนำทีมนักสำรวจบ้าระห่ำดำดิ่งลงไปหาแอตแลนติส อาณาจักรสาบสูญใต้ทะเล ...",
         "Type": ["Kids"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/8378/1068378-v-15f2ce1b8f4f",
+        "Image": "1.jpg",
         "Trailer": "https://www.youtube.com/watch?v=sZIimDPZQwg"
     }, {
         "id": "MW1",
         "Name": "Tim Burton’s The Nightmare Before Christmas",
         "Description": "เมื่อเบื่อที่ต้องไปหลอกหลอนให้คนกรีดร้อง ราชาฟักทองแจ็ค สเกลลิงตันจึงอยากให้ความสุขในวันคริสต์มาสบ้าง แต่ภารกิจของเขากลับทำให้ซานต้าตกอยู่ในอันตรายแถมยังทำให้เด็กดีทั่วโลกฝันร้าย...",
         "Type": ["Family"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3371/703371-v",
+        "Image": "2.jpg",
         "Trailer": "https://www.youtube.com/watch?v=wr6N_hZyBCk"
     }, {
         "id": "MW2",
         "Name": "Marvel Comics X-Men",
         "Description": "ถึงแม้โลกจะเกลียดและกลัวมนุษย์กลายพันธุ์ แต่เหล่าเอ็กซ์เม็นก็ยังมุ่งมั่นที่จะปกป้องโลกจากศัตรูทั้งภายในและนอกโลก ...",
         "Type": ["Superhero", "Kids", "Marvel"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9340/989340-v",
+        "Image": "3.jpg",
         "Trailer": "https://www.youtube.com/watch?v=GSOBzzLI-RQ"
     }, {
         "id": "MW3",
         "Name": "Olaf's Frozen Adventure",
         "Description": "เมื่อชาวเมืองต่างออกเดินทางท่องเที่ยวในวันหยุด อันนาและเอลซ่าจึงได้รู้ว่าตัวเองไม่มีประเพณีใดๆ สำหรับวันหยุดเลย โอลาฟจึงออกเดินทางไปทั่วแดนและนำประเพณีที่ดีที่สุดกลับมาให้สองพี่น้อง...",
         "Type": ["Kids"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3443/943443-v",
+        "Image": "4.jpg",
         "Trailer": "https://www.youtube.com/watch?v=hb8WDATVB6A"
     }, {
         "id": "MW4",
         "Name": "Wreck-it Ralph: Ralph Breaks the Internet",
         "Description": "ราล์ฟ วายร้ายในวิดีโอเกมกับวาเนโลปี้ วอน ชวีทซ์เดินทางเข้าสู่โลกอินเทอร์เน็ตที่กว้างใหญ่เพื่อตามหาชิ้นส่วนทดแทนมากอบกู้ชูการ์รัช อาณาจักรเกมของวาเนโลปี้...",
         "Type": ["Kids"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4085/944085-v",
+        "Image": "5.jpg",
         "Trailer": "https://www.youtube.com/watch?v=T73h5bmD8Dc"
     }, {
         "id": "MW5",
         "Name": "Raya and the Last Dragon",
         "Description": "มนุษย์และมังกรอยู่ร่วมกันอย่างสันติในคูมันตรา จนกระทั่งความชั่วร้ายเข้ามาปกคลุมเมือง เจ้าหญิงรายาจึงไล่ล่ามังกรตัวสุดท้ายเพื่อหยุดยั้งพลังชั่วร้ายและรวมดินแดนเป็นปึกแผ่น...",
         "Type": ["Family", "Action"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2860/1022860-v-e3fdc4c4b39d",
+        "Image": "6.jpg",
         "Trailer": "https://www.youtube.com/watch?v=1VIZ89FEjYI"
     }, {
         "id": "MW6",
         "Name": "The Emperor's New Groove",
         "Description": "คุซโก้ จักรพรรดิหนุ่มจอมหยิ่งต้องกลายเป็นตัวลามะด้วยน้ำมือของอีซม่า ที่ปรึกษากระหายอำนาจของเขา เมื่อต้องระเห็จไปกลางป่า โอกาสเดียวที่จะกลับบ้านจึงตกอยู่ในมือของชาวบ้านใจประเสริฐชื่อว่าพาชา...",
         "Type": ["Kids"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4408/674408-v",
+        "Image": "7.jpg",
         "Trailer": "https://www.youtube.com/watch?v=JX6btxoFhI8"
     }, {
         "id": "MW7",
         "Name": "Frankenweenie",
         "Description": "วิคเตอร์เจอแต่เรื่องเดือดร้อนเมื่อเขาชุบชีวิตสปาร์กี้สุนัขที่ตายแล้วของเขาหลังจากที่มันถูกรถชน ตอนนี้สปาร์กี้ดูเหมือนสัตว์ประหลาดและทำให้เพื่อนบ้านของวิคเตอร์กลัว...",
         "Type": ["Kids"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3957/943957-v",
+        "Image": "8.jpg",
         "Trailer": "https://www.youtube.com/watch?v=29vIJQohUWE"
     }, {
         "id": "MW8",
         "Name": "The Adventures Of Ichabod And Mr. Toad",
         "Description": "สองเรื่องราวคลาสสิกที่ไม่อาจลืมที่คุณต้องอยากแบ่งปันให้กับครอบครัวซ้ำแล้วซ้ำเล่า ...",
         "Type": ["Kids", "Family"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5269/1065269-v-ebeb8f6d4c31",
+        "Image": "9.jpg",
         "Trailer": "https://www.youtube.com/watch?v=w0320rCzp8s"
     }, {
         "id": "MW9",
         "Name": "The Book of Life",
         "Description": "เด็กหนุ่มก้าวเข้าสู่การเดินทาง ที่ขยายไปถึงสามโลกมหัศจรรย์ ในแอนิเมชั่นการผจญภัยที่ยอดเยี่ยม จากโปรดิวเซอร์ กีเยร์โม เดล โตโร และผู้กำกับจอร์จ กูเตียร์เรซ...",
         "Type": ["Family", "Kids"],
-        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9676/939676-v",
+        "Image": "10.jpg",
         "Trailer": "https://www.youtube.com/watch?v=_i69CJc1BgE"
     }]
 }
