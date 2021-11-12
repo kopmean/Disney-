@@ -96,28 +96,28 @@
 
 
     <div>
-        <h4 class="title-head-name"><a href="#">ทำเงินถล่มทลาย</a></h4>
+        <h4 class="title-head-name"><a href="#">เรื่องนี้เฉพาะคุณโดยเฉพาะ</a></h4>
         <div #swiperRef="" class="swiper mySwiper">
             <div class="swiper-wrapper ml-3" id="add-swiper1">
             </div>
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>
         </div>
-        <h4 class="title-head-name"><a href="#">ภาพยนต์และซีรี่ส์ไทย</a></h4>
+        <h4 class="title-head-name"><a href="#">แอนิเมชั่นเรื่องดัง</a></h4>
         <div #swiperRef="" class="swiper mySwiper">
             <div class="swiper-wrapper ml-3" id="add-swiper2">
             </div>
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>
         </div>
-        <h4 class="title-head-name"><a href="#">ภาพยนตร์และซีรีส์จีน</a></h4>
+        <h4 class="title-head-name"><a href="#">สตาร์ วอร์ส: ตำนานสกายวอล์คเกอร์</a></h4>
         <div #swiperRef="" class="swiper mySwiper">
             <div class="swiper-wrapper  ml-3" id="add-swiper3">
             </div>
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>
         </div>
-        <h4 class="title-head-name"><a href="#">ชนะรางวัล</a></h4>
+        <h4 class="title-head-name"><a href="#">ได้รับแรงบันดาลใจจาก Disney Parks</a></h4>
         <div #swiperRef="" class="swiper mySwiper">
             <div class="swiper-wrapper ml-3" id="add-swiper4">
             </div>
@@ -127,7 +127,7 @@
     </div>
 
     <script>
-        let requestURL = 'data/asia.json';
+        let requestURL = 'data/disney_plus.json';
         let request = new XMLHttpRequest();
         request.onreadystatechange = function () {
             if (request.readyState == 4 && request.status == 200) {
@@ -138,29 +138,29 @@
         request.send();
 
         function dataReportStatus(data) {
-            for (var i = 0; i < data.Top_Box_Office.length; i++) {
+            for (var i = 0; i < data.top.length; i++) {
                 var info = "";
-                for (var j = 0; j < data.Top_Box_Office[i].Type.length; j++) {
-                    info += data.Top_Box_Office[i].Type[j]
-                    if (j != data.Top_Box_Office[i].Type.length - 1) {
+                for (var j = 0; j < data.top[i].Type.length; j++) {
+                    info += data.top[i].Type[j]
+                    if (j != data.top[i].Type.length - 1) {
                         info += `, `;
                     }
                 }
                 var html = createElementFromHTML(`<div class="swiper-slide">
                     <div class="inerType">
-                        <a href="${data.Top_Box_Office[i].Trailer}" target="_blank">
+                        <a href="${data.top[i].Trailer}" target="_blank">
                             <div class="img_position_swiper"></div>
                         </a>
                         <div class="card card-img-container shadeType">
-                            <img src="asia_img/1/${data.Top_Box_Office[i].Image}" alt="">
+                            <img src="Disney_plus/top/${data.top[i].Image}" alt="">
                         </div>
                         <div class="textType">
-                            <span class="titleName">${data.Top_Box_Office[i].Name}</span>
+                            <span class="titleName">${data.top[i].Name}</span>
                             <div class="sub-info">
                                 <span>${info}</span>
                             </div>
                             <div class="movieDescription">
-                                ${data.Top_Box_Office[i].Description}
+                                ${data.top[i].Description}
                             </div>
                             <div class="addToWatchList" title="เพิ่มในรายการรับชม">
                                 <img class="plusIcon" src="asia_img/plusicon.png" alt="">
@@ -172,29 +172,29 @@
                 document.getElementById("add-swiper1").appendChild(html);
             }
 
-            for (var i = 0; i < data.Thai_Movies_Series.length; i++) {
+            for (var i = 0; i < data.midt.length; i++) {
                 var info = "";
-                for (var j = 0; j < data.Thai_Movies_Series[i].Type.length; j++) {
-                    info += data.Thai_Movies_Series[i].Type[j]
-                    if (j != data.Thai_Movies_Series[i].Type.length - 1) {
+                for (var j = 0; j < data.midt[i].Type.length; j++) {
+                    info += data.midt[i].Type[j]
+                    if (j != data.midt[i].Type.length - 1) {
                         info += `, `;
                     }
                 }
                 var html = createElementFromHTML(`<div class="swiper-slide">
                     <div class="inerType">
-                        <a href="${data.Thai_Movies_Series[i].Trailer}" target="_blank">
+                        <a href="${data.midt[i].Trailer}" target="_blank">
                             <div class="img_position_swiper"></div>
                         </a>
                         <div class="card card-img-container shadeType">
-                            <img src="asia_img/2/${data.Thai_Movies_Series[i].Image}" alt="">
+                            <img src="Disney_plus/midt/${data.midt[i].Image}" alt="">
                         </div>
                         <div class="textType">
-                            <span class="titleName">${data.Thai_Movies_Series[i].Name}</span>
+                            <span class="titleName">${data.midt[i].Name}</span>
                             <div class="sub-info">
                                 <span>${info}</span>
                             </div>
                             <div class="movieDescription">
-                                ${data.Thai_Movies_Series[i].Description}
+                                ${data.midt[i].Description}
                             </div>
                             <div class="addToWatchList" title="เพิ่มในรายการรับชม">
                                 <img class="plusIcon" src="asia_img/plusicon.png" alt="">
@@ -206,29 +206,29 @@
                 document.getElementById("add-swiper2").appendChild(html);
             }
 
-            for (var i = 0; i < data.Chinese_Movies_Series.length; i++) {
+            for (var i = 0; i < data.midb.length; i++) {
                 var info = "";
-                for (var j = 0; j < data.Chinese_Movies_Series[i].Type.length; j++) {
-                    info += data.Chinese_Movies_Series[i].Type[j]
-                    if (j != data.Chinese_Movies_Series[i].Type.length - 1) {
+                for (var j = 0; j < data.midb[i].Type.length; j++) {
+                    info += data.midb[i].Type[j]
+                    if (j != data.midb[i].Type.length - 1) {
                         info += `, `;
                     }
                 }
                 var html = createElementFromHTML(`<div class="swiper-slide">
                     <div class="inerType">
-                        <a href="${data.Chinese_Movies_Series[i].Trailer}" target="_blank">
+                        <a href="${data.midb[i].Trailer}" target="_blank">
                             <div class="img_position_swiper"></div>
                         </a>
                         <div class="card card-img-container shadeType">
-                            <img src="asia_img/3/${data.Chinese_Movies_Series[i].Image}" alt="">
+                            <img src="Disney_plus/midb/${data.midb[i].Image}" alt="">
                         </div>
                         <div class="textType">
-                            <span class="titleName">${data.Chinese_Movies_Series[i].Name}</span>
+                            <span class="titleName">${data.midb[i].Name}</span>
                             <div class="sub-info">
                                 <span>${info}</span>
                             </div>
                             <div class="movieDescription">
-                                ${data.Chinese_Movies_Series[i].Description}
+                                ${data.midb[i].Description}
                             </div>
                             <div class="addToWatchList" title="เพิ่มในรายการรับชม">
                                 <img class="plusIcon" src="asia_img/plusicon.png" alt="">
@@ -240,29 +240,29 @@
                 document.getElementById("add-swiper3").appendChild(html);
             }
 
-            for (var i = 0; i < data.Award_Winning.length; i++) {
+            for (var i = 0; i < data.button.length; i++) {
                 var info = "";
-                for (var j = 0; j < data.Award_Winning[i].Type.length; j++) {
-                    info += data.Award_Winning[i].Type[j]
-                    if (j != data.Award_Winning[i].Type.length - 1) {
+                for (var j = 0; j < data.button[i].Type.length; j++) {
+                    info += data.button[i].Type[j]
+                    if (j != data.button[i].Type.length - 1) {
                         info += `, `;
                     }
                 }
                 var html = createElementFromHTML(`<div class="swiper-slide">
                     <div class="inerType">
-                        <a href="${data.Award_Winning[i].Trailer}" target="_blank">
+                        <a href="${data.button[i].Trailer}" target="_blank">
                             <div class="img_position_swiper"></div>
                         </a>
                         <div class="card card-img-container shadeType">
-                            <img src="asia_img/4/${data.Award_Winning[i].Image}" alt="">
+                            <img src="Disney_plus/button/${data.button[i].Image}" alt="">
                         </div>
                         <div class="textType">
-                            <span class="titleName">${data.Award_Winning[i].Name}</span>
+                            <span class="titleName">${data.button[i].Name}</span>
                             <div class="sub-info">
                                 <span>${info}</span>
                             </div>
                             <div class="movieDescription">
-                                ${data.Award_Winning[i].Description}
+                                ${data.button[i].Description}
                             </div>
                             <div class="addToWatchList" title="เพิ่มในรายการรับชม">
                                 <img class="plusIcon" src="asia_img/plusicon.png" alt="">
