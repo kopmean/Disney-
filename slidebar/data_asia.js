@@ -1,45 +1,17 @@
-let test = [
-    {
-        name: 'falcon and the winter soldier',
-        des: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!',
-        image: 'images/slider 2.PNG'
-    },
-    {
-        name: 'loki',
-        des: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!',
-        image: 'images/slider 1.PNG'
-    },
-    {
-        name: 'wanda vision',
-        des: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!',
-        image: 'images/slider 3.PNG'
-    },
-    {
-        name: 'raya and the last dragon',
-        des: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!',
-        image: 'images/slider 4.PNG'
-    },
-    {
-        name: 'luca',
-        des: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!',
-        image: 'images/slider 5.PNG'
-    }
-]
-
 let movies = [
     {
         "id": "AS0",
         "name": "24 (Japan)",
         "des": "เจ้าหน้าที่หน่วยซีทียู ชิโด เก็นบะ กำลังปฏิบัติภารกิจลับสุดยอด เพื่อป้องกันการลอบสังหารอะซากุระ อูราระ ผู้ลงสมัครรับเลือกตั้งนายกรัฐมนตรี",
         "Type": ["Disney", "Thriller"],
-        "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5772/1025772-h-0570a3e32f4e"
+        "image": "/slidebar/images/asia/as0.jpg"
     },
     {
         "id": "AS1",
         "name": "Upin & Ipin",
         "des": "อูปินและอีปิน สองพี่น้องฝาแฝดแสนซนวัยห้าขวบผู้อยากรู้อยากเห็น จะพาคุณไปเรียนรู้และสำรวจสิ่งใหม่ๆ ในชีวิตพร้อมกับครอบครัวและผองเพื่อน",
         "Type": ["Disney", "Kids"],
-        "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4179/1054179-h-7136b40bc1da"
+        "image": "/slidebar/images/asia/as1.jpg"
     },
     {
         "id": "AS2",
@@ -47,7 +19,7 @@ let movies = [
         "Year": 2018,
         "des": "เรื่องราวที่เกิดขึ้นในเกาหลีสมัยโชซอน เมื่อ องค์ชายกังลิม โอรสของกษัตริย์และนักสู้ฝีมือฉกาจที่สุดของอาณาจักรโชซอน ถูกเรียกตัวกลับบ้านเกิดเพื่อช่วยต่อส...",
         "Type": ["Action"],
-        "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6778/1016778-h-699b50adbfeb"
+        "image": "/slidebar/images/asia/as2.jpg"
     },
     {
         "id": "AS3",
@@ -56,7 +28,7 @@ let movies = [
         "des": "หมายเลขโทรศัพท์มรณะ 999-9999 ที่ใครก็สามารถโทรไปขอสิ่งที่ตนปรารถนาได้ และเมื่อโทรไปแล้วก็ได้รับสิ่งที่ใจต้องการ แต่ไม่นานเขาก็ต้องตายอย่างปริศนา",
         "Type": ["Horror"],
         "Year": 2002,
-        "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/1563/1001563-h"
+        "image": "/slidebar/images/asia/as3.jpg"
     },
     {
         "id": "AS4",
@@ -65,7 +37,7 @@ let movies = [
         "Language": "Malay",
         "Type": ["Horror"],
         "Year": 2021,
-        "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3638/1003638-h"
+        "image": "/slidebar/images/asia/as4.jpg"
     },
     {
         "id": "AS5",
@@ -74,7 +46,7 @@ let movies = [
         "Language": "Malay",
         "Type": ["Drama"],
         "Year": 2018,
-        "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/7430/887430-h"
+        "image": "/slidebar/images/asia/as5.jpg"
     },
     {
         "id": "AS6",
@@ -83,7 +55,7 @@ let movies = [
         "Language": "Thai",
         "Type": ["Romance"],
         "Year": 2014,
-        "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6161/1006161-h-ac8d4bcfa5ad"
+        "image": "/slidebar/images/asia/as6.jpg"
     },
     {
         "id": "AS7",
@@ -92,6 +64,6 @@ let movies = [
         "Language": "Mandarin",
         "Type": ["Drama"],
         "Year": 2017,
-        "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6078/1016078-h-b6bf29c407ee"
+        "image": "/slidebar/images/asia/as7.jpg"
     }
 ]
