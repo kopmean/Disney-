@@ -2,7 +2,7 @@
 nav {
     background-color: #131b28;
     height: 10%;
-
+    z-index: 10;
 }
 
 .search-box {
