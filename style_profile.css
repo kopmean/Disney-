@@ -1,3 +1,6 @@
+body{
+    background: #1a2134;
+}
 .card{
     color: white;
     background-color: #131b28;
@@ -10,6 +13,7 @@
     height: auto;
     background-color: #0d111c;
 }
+
 .card-img-top{
     max-width: 30%;
     height: auto;
