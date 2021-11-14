@@ -1,0 +1,33 @@
+.card{
+    color: white;
+    background-color: #131b28;
+    width: 27rem;
+    text-align: left;
+    height: 4rem;
+    position: relative;
+}
+.card:nth-child(1){
+    height: auto;
+    background-color: #0d111c;
+}
+.card-img-top{
+    max-width: 30%;
+    height: auto;
+}
+.card:nth-child(2){
+    margin: 10px;
+}
+.card:nth-child(3){
+    margin: 10px;
+}
+.card-text{
+    position: absolute;
+    top: 40px;
+}
+
+p{
+    font-size: small;
+}
+span{
+    font-size: medium;
+}
