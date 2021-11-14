@@ -4,83 +4,83 @@ let movies = [
         "name": "Shang-Chi and The Legend of The Ten Rings",
         "des": "ชาง-ชี ต้องเผชิญหน้ากับอดีตที่เขาคิดว่าเขาทิ้งมันไปแล้ว และต้องเผชิญหน้ากับพ่อของตัวเอง ผู้ซึ่งเป็นหัวหน้าองค์กรลับเท็นริงส์สุดอันตราย ...",
         "Type": ["Superhero", "Action"],
-        "image": "./slidebar/images/disney+/rf5.jpg"
+        "image": "../slidebar/images/disney+/rf5.jpg"
     },
     {
         "id": "RF7",
         "name": "Jungle Cruise",
         "des": "เพื่อออกตามหาต้นไม้โบราณที่มีพลังมหัศจรรย์ในการเยียวยา ดร.ลิลี่ เฮาจ์ตันและแฟรงก์ วอล์ฟ กัปตันเรือจอมกวน ร่วมทีมออกผจญภัยครั้งสำคัญในลุ่มแม่น้ำแอมะซอน ...",
         "Type": ["Action"],
-        "image": "./slidebar/images/disney+/rf7.jpg"
+        "image": "../slidebar/images/disney+/rf7.jpg"
     },
     {
         "id": "RF9",
         "name": "Enchanted",
         "des": "เจ้าหญิงจีเซลถูกส่งมายังโลกของเราด้วยฝีมือของราชินีผู้ชั่วร้าย และได้พบกับทนายผู้หล่อเหลา ความรักแบบในนิยายจะอยู่รอดในโลกแห่งความจริงได้หรือไม่ มาเป็นกำลังใจให้พวกเขากัน ...",
         "Type": ["Family"],
-        "image": "./slidebar/images/disney+/rf9.jpg"
+        "image": "../slidebar/images/disney+/rf9.jpg"
     },
     {
         "id": "AH2",
         "name": "Toy Story 4",
         "des": "เมื่อของเล่นชิ้นใหม่ที่มีชื่อว่าฟอร์คกี้มาร่วมทีมกับวู้ดดี้และผองเพื่อน การออกเดินทางของเพื่อนเก่าและเพื่อนใหม่ทำให้เห็นว่าโลกใบนี้มีขนาดใหญ่เพียงใดสำหรับของเล่น...",
         "Type": ["Kids"],
-        "image": "./slidebar/images/disney+/ah2.jpg"
+        "image": "../slidebar/images/disney+/ah2.jpg"
     },
     {
         "id": "AH3",
         "name": "Ice Age: Continental Drift",
         "des": "การตามหาลูกโอ๊กหายากของสแคร็ทนำไปสู่การเปลี่ยนแปลงระดับโลก ความเปลี่ยนแปลงระดับทวีปนี่เองที่เป็นจุดเริ่มต้นการผจญภัยสุดยิ่งใหญ่ของทั้งแมนนี่ ดิเอโก และซิด...",
         "Type": ["Family", "Comedy"],
-        "image": "./slidebar/images/disney+/ah3.jpg"
+        "image": "../slidebar/images/disney+/ah3.jpg"
     },
     {
         "id": "AH6",
         "name": "Big Hero 6",
         "des": "ฮามาดะ ฮิโระ อัจฉริยะด้านหุ่นยนต์ล่วงรู้แผนของอาชญากรที่ขู่จะทำลายล้างเมืองซานฟรานโซเกียว ฮิโระต้องร่วมมือกับทีมนักสู้อาชญากรมือใหม่ และหุ่นยนต์ชื่อเบย์แม็กซ์เพื่อกอบกู้เมืองไว้ให้ได้...",
         "Type": ["Kids"],
-        "image": "./slidebar/images/disney+/ah6.jpg"
+        "image": "../slidebar/images/disney+/ah6.jpg"
     },
     {
         "id": "AH9",
         "name": "Zootopia",
         "des": "ในเมืองที่สัตว์กินพืชและกินเนื้ออยู่ร่วมกันได้เนื่องจากมีกฎระเบียบ จูดี้ ฮอปส์คือกระต่ายตัวแรกที่ได้เป็นตำรวจ ถึงทุกคนจะดูถูกความสามารถของเธอ แต่เธอก็มุ่งมั่นที่จะไขคดีที่ยากและอันตรายให้ได้...",
         "Type": ["Kids", "Family"],
-        "image": "./slidebar/images/disney+/ah9.jpg"
+        "image": "../slidebar/images/disney+/ah9.jpg"
     },
     {
         "id": "SS7",
         "name": "Star Wars: The Last Jedi",
         "des": "เรย์พัฒนาความสามารถที่เพิ่งค้นพบตามคำแนะนำของลุค สกายวอล์คเกอร์ ผู้ซึ่งไม่มั่นใจกับความแข็งแกร่งของพลังของเธอ ในขณะเดียวกันฝ่ายต่อต้านก็เตรียมพร้อมสำหรับการต่อสู้กับปฐมภาคี...",
         "Type": ["Action"],
-        "image": "./slidebar/images/disney+/ss7.jpg"
+        "image": "../slidebar/images/disney+/ss7.jpg"
     },
     {
         "id": "SS8",
         "name": "Star Wars: The Rise of Skywalker",
         "des": "สมาชิกกลุ่มต่อต้านที่รอดชีวิตได้เผชิญหน้ากับปฐมภาคีอีกครั้งและความขัดแย้งในตำนานระหว่างเจไดและซิธก็มาถึงจุดสูงสุด เมื่อภาคต่อของมหากาพย์สกายวอล์คเกอร์อันโด่งดังมาถึงบทสรุป...",
         "Type": ["Action"],
-        "image": "./slidebar/images/disney+/ss8.jpg"
+        "image": "../slidebar/images/disney+/ss8.jpg"
     },
     {
         "id": "IB4",
         "name": "Tomorrowland",
         "des": "วัยรุ่นผู้สดใสและอดีตเด็กอัจฉริยะเริ่มต้นภารกิจที่เต็มไปด้วยอันตรายเพื่อค้นหาความลับของสถานที่ปริศนาในห้วงเวลาและอวกาศที่รู้จักกันในชื่อ 'ทูมอร์โรว์แลนด์'...",
         "Type": ["Family"],
-        "image": "./slidebar/images/disney+/ib4.jpg"
+        "image": "../slidebar/images/disney+/ib4.jpg"
     },
     {
         "id": "IB5",
         "name": "Fairy Tale Weddings",
         "des": "ชมเบื้องหลังงานแต่งงานแสนวิเศษและงานหมั้นอันเป็นเอกลักษณ์ที่เกิดขึ้นตามจุดท่องเที่ยวของดิสนีย์ทั่วโลก ทั้งวอลท์ ดิสนีย์ เวิลด์, ดิสนีย์แลนด์ และดิสนีย์ ครูซ ไลน์...",
         "Type": ["Reality", "Disney"],
-        "image": "./slidebar/images/disney+/ib5.jpg"
+        "image": "../slidebar/images/disney+/ib5.jpg"
     },
     {
         "id": "IB6",
         "name": "Pirate Of The Caribbean: The Curse Of The Black Pearl",
         "des": "เมื่อลูกสาวผู้ว่าการรัฐถูกกัปตันบาร์บอสซ่าลักพาตัวไป วิล เทอร์เนอร์ แฟนหนุ่มบังคับกัปตันแจ็ก สแปร์โรว์ให้พาเขาไปช่วยเธอ แต่แจ็กมีเหตุผลของตัวเองในการตามล่าเรือโจรสลัดต้องคำสาปของบาร์บอสซ่า...",
         "Type": ["Action"],
-        "image": "./slidebar/images/disney+/ib6.jpg"
+        "image": "../slidebar/images/disney+/ib6.jpg"
     }
 ]
