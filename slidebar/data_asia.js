@@ -4,14 +4,14 @@ let movies = [
         "name": "24 (Japan)",
         "des": "เจ้าหน้าที่หน่วยซีทียู ชิโด เก็นบะ กำลังปฏิบัติภารกิจลับสุดยอด เพื่อป้องกันการลอบสังหารอะซากุระ อูราระ ผู้ลงสมัครรับเลือกตั้งนายกรัฐมนตรี",
         "Type": ["Disney", "Thriller"],
-        "image": "/slidebar/images/asia/as0.jpg"
+        "image": "../slidebar/images/asia/as0.jpg"
     },
     {
         "id": "AS1",
         "name": "Upin & Ipin",
         "des": "อูปินและอีปิน สองพี่น้องฝาแฝดแสนซนวัยห้าขวบผู้อยากรู้อยากเห็น จะพาคุณไปเรียนรู้และสำรวจสิ่งใหม่ๆ ในชีวิตพร้อมกับครอบครัวและผองเพื่อน",
         "Type": ["Disney", "Kids"],
-        "image": "/slidebar/images/asia/as1.jpg"
+        "image": "../slidebar/images/asia/as1.jpg"
     },
     {
         "id": "AS2",
@@ -19,7 +19,7 @@ let movies = [
         "Year": 2018,
         "des": "เรื่องราวที่เกิดขึ้นในเกาหลีสมัยโชซอน เมื่อ องค์ชายกังลิม โอรสของกษัตริย์และนักสู้ฝีมือฉกาจที่สุดของอาณาจักรโชซอน ถูกเรียกตัวกลับบ้านเกิดเพื่อช่วยต่อส...",
         "Type": ["Action"],
-        "image": "/slidebar/images/asia/as2.jpg"
+        "image": "../slidebar/images/asia/as2.jpg"
     },
     {
         "id": "AS3",
@@ -28,7 +28,7 @@ let movies = [
         "des": "หมายเลขโทรศัพท์มรณะ 999-9999 ที่ใครก็สามารถโทรไปขอสิ่งที่ตนปรารถนาได้ และเมื่อโทรไปแล้วก็ได้รับสิ่งที่ใจต้องการ แต่ไม่นานเขาก็ต้องตายอย่างปริศนา",
         "Type": ["Horror"],
         "Year": 2002,
-        "image": "/slidebar/images/asia/as3.jpg"
+        "image": "../slidebar/images/asia/as3.jpg"
     },
     {
         "id": "AS4",
@@ -37,7 +37,7 @@ let movies = [
         "Language": "Malay",
         "Type": ["Horror"],
         "Year": 2021,
-        "image": "/slidebar/images/asia/as4.jpg"
+        "image": "../slidebar/images/asia/as4.jpg"
     },
     {
         "id": "AS5",
@@ -46,7 +46,7 @@ let movies = [
         "Language": "Malay",
         "Type": ["Drama"],
         "Year": 2018,
-        "image": "/slidebar/images/asia/as5.jpg"
+        "image": "../slidebar/images/asia/as5.jpg"
     },
     {
         "id": "AS6",
@@ -55,7 +55,7 @@ let movies = [
         "Language": "Thai",
         "Type": ["Romance"],
         "Year": 2014,
-        "image": "/slidebar/images/asia/as6.jpg"
+        "image": "../slidebar/images/asia/as6.jpg"
     },
     {
         "id": "AS7",
@@ -64,6 +64,6 @@ let movies = [
         "Language": "Mandarin",
         "Type": ["Drama"],
         "Year": 2017,
-        "image": "/slidebar/images/asia/as7.jpg"
+        "image": "../slidebar/images/asia/as7.jpg"
     }
 ]
