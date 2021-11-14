@@ -4,48 +4,48 @@ let movies = [
         "name": "Victor Frankenstein",
         "des": "เมื่ออิกอร์และวิคเตอร์ช่วยกันรักษาชีวิตของนักแสดงละครสัตว์ที่ตกจากที่สูงได้สำเร็จ วิคเตอร์เล็งเห็นความสามารถของอิกอร์และชวนเขามาร่วมกันทำการทดลองเกี่ยวกับศพมนุษย์อย่างผิดกฎหมาย ...",
         "Type": ["Horror"],
-        "image": "/slidebar/images/disney+hotstar/nd3.jpg"
+        "image": "./slidebar/images/disney+hotstar/nd3.jpg"
     },
     {
         "id": "TT2",
         "name": "Guardians of The Galaxy Vol. 2",
         "des": "ซอฟเฟอรินเล่นงานแก๊งการ์เดี้ยนเมื่อร็อกเก็ตขโมยแบตเตอรี่สำคัญไป พ่อของสตาร์ลอร์ดเข้ามาช่วยเหลือไว้ สตาร์ลอร์ดและเพื่อนๆ จึงออกเดินทางเพื่อหาคำตอบเกี่ยวกับแม่ของเขา...",
         "Type": ["Action"],
-        "image": "/slidebar/images/disney+hotstar/tt2.jpg"
+        "image": "./slidebar/images/disney+hotstar/tt2.jpg"
     },
     {
         "id": "TT4",
         "name": "Percy Jackson & The Olympians: The Lightning Thief",
         "des": "เพอร์ซี แจ็คสัน บุตรครึ่งเทพของโพไซดอน ถูกซูสกล่าวหาว่าขโมยอสุนีบาตจากยอดเขาโอลิมปัสไป เขาจึงต้องตามหาสายฟ้าก่อนที่มหาเทพทั้งสองจะก่อสงครามกัน...",
         "Type": ["Action"],
-        "image": "/slidebar/images/disney+hotstar/tt4.jpg"
+        "image": "./slidebar/images/disney+hotstar/tt4.jpg"
     },
     {
         "id": "TT5",
         "name": "Marvel's Agents of S.H.I.E.L.D.",
         "des": "เมื่อผู้คนได้รู้แล้วว่าซูเปอร์ฮีโร่และเอเลียนมีอยู่จริง เจ้าหน้าที่จากหน่วยชีลด์จึงต้องเดินทางรอบโลกเพื่อทำภารกิจหยุดยั้งไฮดร้าและปกป้องโลกจากภัยรุกรานต่างดาว...",
         "Type": ["Action", "Superhero", "Marvel"],
-        "image": "/slidebar/images/disney+hotstar/tt5.jpg"
+        "image": "./slidebar/images/disney+hotstar/tt5.jpg"
     },
     {
         "id": "TT6",
         "name": "The Martian",
         "des": "เมื่อถูกคาดว่าเสียชีวิตในช่วงที่มีพายุดาวเคราะห์ มาร์ค วัทนีย์จึงถูกทิ้งเอาไว้บนดาวอังคาร ทันทีที่นาซ่าพบว่าเขายังมีชีวิตและเอาตัวรอดได้ ปฏิบัติการช่วยชีวิตจึงเกิดขึ้น...",
         "Type": ["Drama"],
-        "image": "/slidebar/images/disney+hotstar/tt6.jpg"
+        "image": "./slidebar/images/disney+hotstar/tt6.jpg"
     },
     {
         "id": "TT8",
         "name": "The Mandalorian",
         "des": "หลังจากจักรวรรดิกาแลคติกล่มสลาย ทั่วกาแล็กซีเพิกเฉยต่อกฎหมาย นักล่าค่าหัวชาวแมนดาลอเรี่ยนจอมสันโดษเดินทางผ่านวงโคจรรอบนอกเพื่อหาเงิน แต่กลับได้พบสิ่งที่มีความหมายยิ่งกว่า ...",
-        "image": "/slidebar/images/disney+hotstar/tt8.jpg"
+        "image": "./slidebar/images/disney+hotstar/tt8.jpg"
     },
     {
         "id": "DO9",
         "name": "Disney Insider",
         "des": "เราจะพาคุณไปเปิดม่านบริษัทเดอะ วอลท์ ดิสนีย์ ชมเบื้องหลังภาพยนตร์ สวนสนุก สถานที่ท่องเที่ยว ดนตรี ของเล่น และอื่นๆ โดยแต่ละตอนมีสามเรื่องราวที่เต็มไปด้วยมนต์ขลังและน่าประทับใจแบบดิสนีย์...",
         "Type": ["Documentary", "Disney"],
-        "image": "/slidebar/images/disney+hotstar/do9.jpg"
+        "image": "./slidebar/images/disney+hotstar/do9.jpg"
     },
 
     {
@@ -53,20 +53,20 @@ let movies = [
         "name": "Atlantis: The Lost Empire",
         "des": "ไมโล แธทช์ นักวาดแผนที่ของพิพิธภัณฑ์ผู้ใสซื่อแต่มุ่งมั่น ฝันอยากทำการค้นหานครในตำนานที่ปู่ผู้ล่วงลับเริ่มไว้ ไมโลจึงนำทีมนักสำรวจบ้าระห่ำดำดิ่งลงไปหาแอตแลนติส อาณาจักรสาบสูญใต้ทะเล ...",
         "Type": ["Kids"],
-        "image": "/slidebar/images/disney+hotstar/mw0.jpg"
+        "image": "./slidebar/images/disney+hotstar/mw0.jpg"
     },
     {
         "id": "MW4",
         "name": "Wreck-it Ralph: Ralph Breaks the Internet",
         "des": "ราล์ฟ วายร้ายในวิดีโอเกมกับวาเนโลปี้ วอน ชวีทซ์เดินทางเข้าสู่โลกอินเทอร์เน็ตที่กว้างใหญ่เพื่อตามหาชิ้นส่วนทดแทนมากอบกู้ชูการ์รัช อาณาจักรเกมของวาเนโลปี้...",
         "Type": ["Kids"],
-        "image": "/slidebar/images/disney+hotstar/mw4.jpg"
+        "image": "./slidebar/images/disney+hotstar/mw4.jpg"
     },
     {
         "id": "MW9",
         "name": "The Book of Life",
         "des": "เด็กหนุ่มก้าวเข้าสู่การเดินทาง ที่ขยายไปถึงสามโลกมหัศจรรย์ ในแอนิเมชั่นการผจญภัยที่ยอดเยี่ยม จากโปรดิวเซอร์ กีเยร์โม เดล โตโร และผู้กำกับจอร์จ กูเตียร์เรซ...",
         "Type": ["Family", "Kids"],
-        "image": "/slidebar/images/disney+hotstar/mw9.jpg"
+        "image": "./slidebar/images/disney+hotstar/mw9.jpg"
     }
 ]

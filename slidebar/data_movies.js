@@ -4,48 +4,48 @@ let movies = [
         "name": "Cruella",
         "des": "ในลอนดอนปี 1970 ระหว่างการปฏิวัติแฟชั่นสไตล์พังค์ร็อค สาวนักต้มตุ๋นกลายเป็นเจ้าแม่แฟชั่นผู้เกรี้ยวกราดและเต็มไปด้วยความอาฆาต ครูเอลล่า เดอ วิล ...",
         "Type": ["Crime", "Comedy"],
-        "image": "/slidebar/images/movies/pm2.jpg"
-    }, 
+        "image": "./slidebar/images/movies/pm2.jpg"
+    },
     {
         "id": "PM3",
         "name": "Alita: Battle Angel",
         "des": "ผลงานของผู้สร้างเหนือจินตนาการอย่างเจมส์ คาเมรอน (อวตาร) และโรเบิร์ต รอดริเกซ (ซินซิตี้) 'อลิตา แบตเทิลแอนเจล' คือ มหากาพย์การผจญภัยแห่งความหวังและความเชื่อมั่นในตนเอง...",
         "Type": ["Action"],
-        "image": "/slidebar/images/movies/pm3.jpg"
-    }, 
+        "image": "./slidebar/images/movies/pm3.jpg"
+    },
     {
         "id": "PM4",
         "name": "Miss Peregrine's Home for Peculiar Children",
         "des": "เจคได้ค้นพบบ้านเพเรกรินสำหรับเด็กพิเศษ ซึ่งคือโรงเรียนเวทมนต์ที่มีพลังที่เขาต้องคอยปกป้องเหล่าเด็กๆ จากเหล่าวายร้ายน่าเกรงกลัว...",
         "Type": ["Drama"],
-        "image": "/slidebar/images/movies/pm4.jpg"
-    }, 
+        "image": "./slidebar/images/movies/pm4.jpg"
+    },
     {
         "id": "PM5",
         "name": "Logan",
         "des": "ในอนาคตอันใกล้ แผนของโลแกนที่ตั้งใจจะซ่อนตัว ณ ชายแดนเม็กซิกัน ร่วมกับโปรเฟสเซอร์เอ็กซ์ที่กำลังป่วยนั้น เป็นอันต้องถูกพลิกผันไป หลังการมาถึงของมิวแทนท์วัยเยาว์ ที่กำลังถูกตามล่าโดยพลังด้านมืด...",
         "Type": ["Superhero", "Action"],
-        "image": "/slidebar/images/movies/pm5.jpg"
-    }, 
+        "image": "./slidebar/images/movies/pm5.jpg"
+    },
     {
         "id": "PM6",
         "name": "Alien Resurrection",
         "des": "เป็นเวลา 200 ปีแล้ว ตั้งแต่ริปลีย์ (ซิกัวร์นีย์ วีเวอร์) ยอมเสียสละครั้งยิ่งใหญ่ ปัจจุบัน ทีมนักวิทยาศาสตร์ได้โคลนร่างของเธอ ซึ่งมีเอเลี่ยนนางพญาฝังอยู่ขึ้นมาใหม่ เพื่อหวังจะเพาะพันธุ์อาวุธมรณะ...",
         "Type": ["Action"],
-        "image": "/slidebar/images/movies/pm6.jpg"
-    }, 
+        "image": "./slidebar/images/movies/pm6.jpg"
+    },
     {
         "id": "PM7",
         "name": "John Carter",
         "des": "หัวหน้าทหารเก่า จอห์น คาร์เตอร์ พบว่าตัวเองกำลังสู้ศึกใหม่ที่ลึกลับบนดาวอังคาร เขาต้องใช้ทักษะและความฉลาดเอาชนะสงครามครั้งนี้...",
         "Type": ["Action"],
-        "image": "/slidebar/images/movies/pm7.jpg"
-    }, 
+        "image": "./slidebar/images/movies/pm7.jpg"
+    },
     {
         "id": "PM8",
         "name": "Mulan",
         "des": "เพราะความรักที่มีต่อครอบครัวและประเทศ มู่หลาน หญิงสาวชาวบ้าน จึงเสี่ยงปลอมตัวเป็นชายและออกรบแทนพ่อผู้ชรา จนกลายเป็นตำนานนักรบหญิงผู้ยิ่งใหญ่ของจีน ...",
         "Type": ["Action", "Drama"],
-        "image": "/slidebar/images/movies/pm8.jpg"
+        "image": "./slidebar/images/movies/pm8.jpg"
     }
 ]
